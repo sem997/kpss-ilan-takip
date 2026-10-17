@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-17T20:28:42.131Z",
+ "sonGuncelleme": "2026-10-17T22:35:16.140Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2393,27 +2393,6 @@
    "sonBasvuru": "2026-10-20"
   },
   {
-   "id": "2244914",
-   "ilanNo": "YOK853452",
-   "baslik": "İptal İlanı (Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörlüğü)",
-   "kurum": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ADANA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-04T21:00:01Z",
-   "resmiGazete": "03.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2244914/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-alparslan-turkes-bilim-ve-teknoloji-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2244869",
    "ilanNo": "YOK853451",
    "baslik": "İstanbul Yeni Yüzyıl Üniversitesi Öğretim Görevlisi Alım İlanı",
@@ -2680,6 +2659,28 @@
    "sonBasvuru": null
   },
   {
+   "id": "2244914",
+   "ilanNo": "YOK853452",
+   "baslik": "İptal İlanı (Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörlüğü)",
+   "kurum": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ADANA",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-04T21:00:01Z",
+   "resmiGazete": "03.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2244914/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-alparslan-turkes-bilim-ve-teknoloji-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-10-04T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-17T22:35:16.140Z"
+  },
+  {
    "id": "2244738",
    "ilanNo": "YOK853444",
    "baslik": "Beykent Üniversitesi Rektörlüğü Araştırma Görevlisi Alım İlanı",
@@ -2690,7 +2691,7 @@
    "resmiGazete": "03.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244738/kamu-akademik-personel-akademik-personel-alimlari-beykent-universitesi-rektorlugu-arastirma-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -2710,7 +2711,8 @@
     "mimarlik": "-Mimarlık Fakültesi",
     "matematik": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Yönetim Bilişim Sistemleri, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Teknoloji ve Bilgi Yönetimi, Bi…"
    },
-   "sonBasvuru": "2026-10-17"
+   "sonBasvuru": "2026-10-17",
+   "kaldirilma": "2026-10-17T22:35:16.140Z"
   },
   {
    "id": "2244741",
@@ -2756,27 +2758,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2244735",
-   "ilanNo": "YOK853443",
-   "baslik": "Samsun Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "SAMSUN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "SAMSUN",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-02T21:00:01Z",
-   "resmiGazete": "03.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2244735/kamu-akademik-personel-akademik-personel-alimlari-samsun-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-02T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2244449",
    "ilanNo": "DPB845492",
    "baslik": "Adalet Bakanlığı 150 İcra Müdürü ve İcra Müdür Yardımcısı Alacak",
@@ -2802,6 +2783,28 @@
     "hukuk": "c) Hukuk fakültesi, adalet meslek yüksekokulu, meslek yüksekokullarının adalet bölümü veya adalet meslek eğitimi ön lisans programı mezunu olmak ve öğrenim yabancı ülkede yapılmış ise denklik belgesi almış olmak,"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2244735",
+   "ilanNo": "YOK853443",
+   "baslik": "Samsun Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "SAMSUN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "SAMSUN",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-02T21:00:01Z",
+   "resmiGazete": "03.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2244735/kamu-akademik-personel-akademik-personel-alimlari-samsun-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-02T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-17T22:35:16.140Z"
   },
   {
    "id": "2243042",
