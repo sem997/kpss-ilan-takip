@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KPSS İlan Takip</title>
+<meta name="description" content="Bölümünüze uygun KPSS lisans kamu personel ilanları; ilan.gov.tr ve ÖSYM'den her 30 dakikada güncellenir.">
+<style>
+  :root {
+    --bg: #f6f7f9; --kart: #fff; --yazi: #1b1f24; --soluk: #5d6673; --cizgi: #dde1e6;
+    --vurgu: #0b6bcb; --vurgu-acik: #e6f0fb; --yeni: #c2410c; --yeni-acik: #fff1e8;
+    --ok: #15803d; --uyari: #b45309;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12151a; --kart: #1b2027; --yazi: #e6e9ed; --soluk: #9aa4b1; --cizgi: #2c333d;
+      --vurgu: #5aa9ff; --vurgu-acik: #1c2a3b; --yeni: #fb923c; --yeni-acik: #33221a;
+      --ok: #4ade80; --uyari: #fbbf24;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--yazi);
+         font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .kap { max-width: 920px; margin: 0 auto; padding: 16px; }
+  header h1 { font-size: 1.5rem; margin: 8px 0 2px; }
+  header p { margin: 0; color: var(--soluk); font-size: .9rem; }
+  .panel { background: var(--kart); border: 1px solid var(--cizgi); border-radius: 10px; padding: 14px; margin: 14px 0; }
+  .satir { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; }
+  label { cursor: pointer; }
+  select, input[type=search] {
+    font: inherit; color: var(--yazi); background: var(--bg); border: 1px solid var(--cizgi);
+    border-radius: 8px; padding: 7px 10px; min-width: 0;
+  }
+  select { flex: 1 1 260px; max-width: 100%; }
+  input[type=search] { flex: 1 1 200px; }
+  .ozet { color: var(--soluk); font-size: .9rem; margin: 6px 2px; }
+  .ilan { background: var(--kart); border: 1px solid var(--cizgi); border-radius: 10px; padding: 12px 14px; margin: 10px 0; }
+  .ilan.yeni { border-left: 4px solid var(--yeni); }
+  .ilan.pasif { opacity: .55; }
+  .ilan h3 { margin: 0 0 4px; font-size: 1rem; line-height: 1.35; }
+  .ilan h3 a { color: inherit; text-decoration: none; }
+  .ilan h3 a:hover { color: var(--vurgu); text-decoration: underline; }
+  .bilgi { color: var(--soluk); font-size: .85rem; }
+  .etiketler { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .et { font-size: .75rem; padding: 2px 8px; border-radius: 99px; background: var(--vurgu-acik); color: var(--vurgu); white-space: nowrap; }
+  .et.yeni { background: var(--yeni-acik); color: var(--yeni); font-weight: 600; }
+  .et.ok { color: var(--ok); }
+  .et.uyari { color: var(--uyari); }
+  blockquote { margin: 8px 0 0; padding: 6px 10px; border-left: 3px solid var(--cizgi); color: var(--soluk); font-size: .85rem; overflow-wrap: anywhere; }
+  .bos { text-align: center; color: var(--soluk); padding: 30px 10px; }
+  h2 { font-size: 1.1rem; margin: 22px 0 6px; }
+  ul.kilavuz { margin: 0; padding-left: 18px; }
+  ul.kilavuz li { margin: 4px 0; }
+  a { color: var(--vurgu); }
+  footer { color: var(--soluk); font-size: .8rem; margin: 30px 0 10px; }
+  button.daha { font: inherit; display: block; margin: 12px auto; padding: 8px 18px; border-radius: 8px;
+                border: 1px solid var(--cizgi); background: var(--kart); color: var(--yazi); cursor: pointer; }
+</style>
+</head>
+<body>
+<div class="kap">
+  <header>
+    <h1>KPSS İlan Takip</h1>
+    <p>Kamu personel ilanları ilan.gov.tr'den, KPSS tercih kılavuzları ÖSYM'den otomatik toplanır.
+       <span id="guncelleme"></span></p>
+  </header>
+
+  <section class="panel">
+    <div class="satir">
+      <label for="bolum"><b>Bölümüm:</b></label>
+      <select id="bolum"></select>
+    </div>
+    <div class="satir" style="margin-top:10px">
+      <label><input type="checkbox" id="genel" checked> "Herhangi bir lisans" ilanlarını da göster</label>
+      <label><input type="checkbox" id="sadeceKpss"> Sadece KPSS şartlı</label>
+      <label><input type="checkbox" id="akademik"> Akademik ilanları da göster</label>
+      <label><input type="checkbox" id="pasif"> Kaldırılanları göster</label>
+    </div>
+    <div class="satir" style="margin-top:10px">
+      <input type="search" id="ara" placeholder="Kurum, şehir veya kelime ara…">
+    </div>
+  </section>
+
+  <div class="ozet" id="ozet">Yükleniyor…</div>
+  <div id="liste"></div>
+  <button class="daha" id="daha" hidden>Daha fazla göster</button>
+
+  <h2>ÖSYM KPSS tercih kılavuzları</h2>
+  <div class="panel" id="osym">Yükleniyor…</div>
+
+  <footer>
+    Bölüm eşleştirmesi ilan metninde bölüm adının geçmesine göre otomatik yapılır; hata olabilir.
+    Başvurmadan önce ilanın aslını mutlaka okuyun.
+  </footer>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const SAYFA = 40;
+const YENI_SAAT = 72; // bu kadar saatten yeni ilanlar "Yeni" sayılır
+
+function sakla(anahtar, deger) { try { localStorage.setItem(anahtar, JSON.stringify(deger)); } catch {} }
+function oku(anahtar, varsayilan) {
+  try { const v = localStorage.getItem(anahtar); return v === null ? varsayilan : JSON.parse(v); } catch { return varsayilan; }
+}
+function kacis(s) {
+  return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+function sadelestir(s) {
+  const H = { ç: "c", ğ: "g", ı: "i", ö: "o", ş: "s", ü: "u", â: "a", î: "i", û: "u" };
+  return String(s || "").toLocaleLowerCase("tr-TR").replace(/[çğıöşüâîû]/g, (h) => H[h]);
+}
+function tarih(t, saatli) {
+  if (!t) return "";
+  const d = new Date(t);
+  if (isNaN(d)) return t;
+  return d.toLocaleDateString("tr-TR", saatli
+    ? { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }
+    : { day: "numeric", month: "long", year: "numeric" });
+}
+function kalanGun(t) {
+  if (!t) return null;
+  const bugun = new Date(); bugun.setHours(0, 0, 0, 0);
+  return Math.round((new Date(t + "T00:00:00") - bugun) / 864e5);
+}
+
+let bolumler = [], ilanlar = [], gosterilen = SAYFA;
+const oncekiZiyaret = oku("sonZiyaret", 0);
+sakla("sonZiyaret", Date.now());
+
+function yeniMi(i) {
+  const t = Date.parse(i.ilkGorulme);
+  return i.aktif && (t > Date.now() - YENI_SAAT * 36e5 || (oncekiZiyaret && t > oncekiZiyaret));
+}
+
+function filtrele() {
+  const b = $("bolum").value, genel = $("genel").checked, kpss = $("sadeceKpss").checked,
+        akademik = $("akademik").checked, pasif = $("pasif").checked, ara = sadelestir($("ara").value.trim());
+  return ilanlar.filter((i) => {
+    if (!pasif && !i.aktif) return false;
+    if (!akademik && i.akademik) return false;
+    if (kpss && !i.kpss) return false;
+    const bolumde = b === "hepsi" || i.bolumler.includes(b);
+    if (!bolumde && !(genel && i.genel && i.lisans)) return false;
+    if (ara && !sadelestir([i.baslik, i.kurum, i.sehir, i.kategori].join(" ")).includes(ara)) return false;
+    return true;
+  }).sort((x, y) => (y.ilkGorulme || "").localeCompare(x.ilkGorulme || ""));
+}
+
+function kart(i, b) {
+  const etiket = [];
+  if (yeniMi(i)) etiket.push('<span class="et yeni">Yeni</span>');
+  if (!i.aktif) etiket.push('<span class="et uyari">Kaldırıldı</span>');
+  if (b !== "hepsi" && i.bolumler.includes(b)) etiket.push('<span class="et ok">Bölümünüz geçiyor</span>');
+  else if (i.genel) etiket.push('<span class="et">Herhangi bir lisans</span>');
+  if (i.kpss) etiket.push(`<span class="et">KPSS${i.puanTurleri.length ? " " + i.puanTurleri.join(", ") : ""}</span>`);
+  if (i.akademik) etiket.push('<span class="et">Akademik</span>');
+  if (i.sonBasvuru) {
+    const k = kalanGun(i.sonBasvuru);
+    const yazi = k < 0 ? "Süresi geçti" : k === 0 ? "Son gün bugün" : `Son başvuru: ${tarih(i.sonBasvuru)} (${k} gün)`;
+    etiket.push(`<span class="et ${k !== null && k <= 3 ? "uyari" : ""}">${kacis(yazi)}</span>`);
+  }
+  const alinti = b !== "hepsi" && i.alintilar?.[b] ? `<blockquote>${kacis(i.alintilar[b])}</blockquote>` : "";
+  const bilgi = [i.kurum, i.sehir, i.yayin && "Yayın: " + tarih(i.yayin)].filter(Boolean).map(kacis).join(" · ");
+  return `<article class="ilan${yeniMi(i) ? " yeni" : ""}${i.aktif ? "" : " pasif"}">
+    <h3><a href="${kacis(i.link)}" target="_blank" rel="noopener">${kacis(i.baslik)}</a></h3>
+    <div class="bilgi">${bilgi}</div>
+    <div class="etiketler">${etiket.join("")}</div>${alinti}
+  </article>`;
+}
+
+function ciz() {
+  const b = $("bolum").value;
+  const sonuc = filtrele();
+  const yeni = sonuc.filter(yeniMi).length;
+  const ad = b === "hepsi" ? "tüm bölümler" : bolumler.find((x) => x.id === b)?.ad;
+  $("ozet").textContent = `${ad}: ${sonuc.length} ilan${yeni ? `, ${yeni} yeni` : ""}`;
+  $("liste").innerHTML = sonuc.length
+    ? sonuc.slice(0, gosterilen).map((i) => kart(i, b)).join("")
+    : '<div class="bos">Bu filtrelere uyan ilan yok. Yeni ilan gelince burada görünecek.</div>';
+  $("daha").hidden = sonuc.length <= gosterilen;
+}
+
+function ayarKaydet() {
+  sakla("ayar", { bolum: $("bolum").value, genel: $("genel").checked, sadeceKpss: $("sadeceKpss").checked,
+                  akademik: $("akademik").checked, pasif: $("pasif").checked });
+}
+
+async function yukle(ad) {
+  const r = await fetch(`data/${ad}?t=${Date.now()}`);
+  if (!r.ok) throw new Error(ad + " okunamadı");
+  return r.json();
+}
+
+(async () => {
+  try {
+    bolumler = await yukle("bolumler.json");
+  } catch (e) { $("ozet").textContent = "Bölüm listesi yüklenemedi."; return; }
+
+  const ayar = oku("ayar", {});
+  const sec = $("bolum");
+  sec.innerHTML = bolumler.map((b) => `<option value="${kacis(b.id)}">${kacis(b.ad)}</option>`).join("")
+    + '<option value="hepsi">— Tüm bölümler —</option>';
+  sec.value = bolumler.some((b) => b.id === ayar.bolum) || ayar.bolum === "hepsi" ? ayar.bolum : "gida";
+  for (const k of ["genel", "sadeceKpss", "akademik", "pasif"]) if (k in ayar) $(k).checked = ayar[k];
+
+  for (const id of ["bolum", "genel", "sadeceKpss", "akademik", "pasif"])
+    $(id).addEventListener("change", () => { gosterilen = SAYFA; ayarKaydet(); ciz(); });
+  $("ara").addEventListener("input", () => { gosterilen = SAYFA; ciz(); });
+  $("daha").addEventListener("click", () => { gosterilen += SAYFA; ciz(); });
+
+  try {
+    const veri = await yukle("ilanlar.json");
+    ilanlar = veri.ilanlar || [];
+    $("guncelleme").textContent = "Son güncelleme: " + tarih(veri.sonGuncelleme, true) + ".";
+    ciz();
+  } catch (e) {
+    $("ozet").textContent = "İlan verisi henüz yok; bot ilk kez çalıştığında burada görünecek.";
+  }
+
+  try {
+    const o = await yukle("osym.json");
+    $("osym").innerHTML = o.kilavuzlar?.length
+      ? '<ul class="kilavuz">' + o.kilavuzlar.map((k) =>
+          `<li><a href="${kacis(k.link)}" target="_blank" rel="noopener">${kacis(k.baslik)}</a>`
+          + (Date.parse(k.ilkGorulme) > Date.now() - 7 * 864e5 ? ' <span class="et yeni">Yeni</span>' : "") + "</li>").join("") + "</ul>"
+      : "Şu an ÖSYM sayfasında yayında bir KPSS tercih kılavuzu yok.";
+  } catch { $("osym").textContent = "ÖSYM verisi henüz yok."; }
+})();
+</script>
+</body>
+</html>
