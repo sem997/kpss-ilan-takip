@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-19T11:04:22.711Z",
+ "sonGuncelleme": "2026-10-19T17:39:12.557Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -899,33 +899,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2253698",
-   "ilanNo": "ILN02568517",
-   "baslik": "Proje Teknik Elemanı Alım İlanı",
-   "kurum": "MERSİN İLİ DAMIZLIK KOYUN-KEÇİ YETİŞTİRİCİLERİ BİRLİĞİ",
-   "sehir": "MERSİN",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-15T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2253698/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-proje teknik-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "ziraat",
-    "veteriner"
-   ],
-   "alintilar": {
-    "ziraat": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…",
-    "veteriner": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2259085",
    "ilanNo": "DPB845517",
    "baslik": "İskenderun Teknik Üniversitesi Rektörlüğünden İç Denetçi Alım İlanı",
@@ -984,6 +957,33 @@
     "fizik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
     "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2253698",
+   "ilanNo": "ILN02568517",
+   "baslik": "Proje Teknik Elemanı Alım İlanı",
+   "kurum": "MERSİN İLİ DAMIZLIK KOYUN-KEÇİ YETİŞTİRİCİLERİ BİRLİĞİ",
+   "sehir": "MERSİN",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-15T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2253698/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-proje teknik-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-15T21:00:01Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "ziraat",
+    "veteriner"
+   ],
+   "alintilar": {
+    "ziraat": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…",
+    "veteriner": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…"
    },
    "sonBasvuru": null
   },
