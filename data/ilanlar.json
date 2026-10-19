@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-19T17:39:12.557Z",
+ "sonGuncelleme": "2026-10-19T22:02:01.153Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2982,6 +2982,27 @@
    "sonBasvuru": "2026-10-20"
   },
   {
+   "id": "2243231",
+   "ilanNo": "ILN02562356",
+   "baslik": "Tercümanlık Bilirkişi Listelerine Başvuru Duyurusu",
+   "kurum": "TEKİRDAĞ ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOMİSYONU BAŞKANLIĞI",
+   "sehir": "TEKİRDAĞ",
+   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
+   "yayin": "2026-10-04T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2243231/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercumanlik-bilirkisi-listelerine-basvuru-duyurusu",
+   "ilkGorulme": "2026-10-04T21:00:01Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
    "id": "2244869",
    "ilanNo": "YOK853451",
    "baslik": "İstanbul Yeni Yüzyıl Üniversitesi Öğretim Görevlisi Alım İlanı",
@@ -2992,7 +3013,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244869/kamu-akademik-personel-akademik-personel-alimlari-istanbul-yeni-yuzyil-universitesi-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3014,7 +3035,8 @@
     "hemsirelik": "Hemşirelik Bölümü",
     "eczacilik": "Eczacılık Fakültesi, Sağlık Bilimleri Fakültesi, Spor Bilimleri Fakültesi, Tıp Fakültesi ve Sağlık Hizmetleri Meslek Yüksekokulu kadrolarına yapılan başvurular, İstanbul Yeni Yüzyıl Üniversitesi, Maltepe Mahallesi, Yılanlı Ayazma Caddesi, No: 26 Cevizlibağ/…"
    },
-   "sonBasvuru": "2026-10-19"
+   "sonBasvuru": "2026-10-19",
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244862",
@@ -3027,7 +3049,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244862/kamu-akademik-personel-akademik-personel-alimlari-demiroglu-bilim-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3041,7 +3063,8 @@
     "yazilim": "Yönetim Bilişim Sistemleri Lisans mezunu olmak Yönetim Bilişim Sistemleri veya Veri Analitiği veya Matematik Mühendisliği veya Yazılım Mühendisliği alanlarından birinde Yüksek Lisans veya Doktora yapıyor olmak",
     "isletme": "İşletme ve Yönetim Bilimleri Fakültesi"
    },
-   "sonBasvuru": "2026-10-20"
+   "sonBasvuru": "2026-10-20",
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244850",
@@ -3054,7 +3077,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244850/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-ankara-universitesi-sozlesmeli-personel-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P93",
@@ -3065,7 +3088,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244784",
@@ -3078,7 +3102,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244784/kamu-akademik-personel-akademik-personel-alimlari-ankara-haci-bayram-veli-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3102,7 +3126,8 @@
     "isletme": "İşletme",
     "kamu-yonetimi": "Siyaset Bilimi ve Kamu Yönetimi"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244783",
@@ -3115,7 +3140,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244783/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-batman-universitesi-rektorlugu-sozlesmeli-personel-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P93",
@@ -3126,7 +3151,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244776",
@@ -3139,7 +3165,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244776/kamu-akademik-personel-akademik-personel-alimlari-kirsehir-ahi-evran-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3167,7 +3193,8 @@
     "kamu-yonetimi": "Siyaset Bilimi ve Kamu Yönetimi",
     "sosyoloji": "Din Sosyolojisi"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244748",
@@ -3180,7 +3207,7 @@
    "resmiGazete": "05.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244748/kamu-akademik-personel-akademik-personel-alimlari-kirsehir-ahi-evran-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3224,28 +3251,8 @@
     "kamu-yonetimi": "Lisans ve tezli yüksek lisansını uluslararası ilişkiler, siyaset bilimi ve uluslararası ilişkiler, kamu yönetimi veya siyaset bilimi ve kamu yönetimi alanında yapmış olup; Proje Hazırlama Teknikleri konusunda sertifika sahibi olmak.",
     "uluslararasi-iliskiler": "4. Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
    },
-   "sonBasvuru": "2026-10-19"
-  },
-  {
-   "id": "2243231",
-   "ilanNo": "ILN02562356",
-   "baslik": "Tercümanlık Bilirkişi Listelerine Başvuru Duyurusu",
-   "kurum": "TEKİRDAĞ ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOMİSYONU BAŞKANLIĞI",
-   "sehir": "TEKİRDAĞ",
-   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
-   "yayin": "2026-10-04T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2243231/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercumanlik-bilirkisi-listelerine-basvuru-duyurusu",
-   "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": "2026-10-19",
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2244914",
@@ -3650,7 +3657,7 @@
    "resmiGazete": "28.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2236934/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tapu-ve-kadastro-genel-mudurlugu-sozlesmeli-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-09-27T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3678,7 +3685,8 @@
     "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2232010",
@@ -4055,7 +4063,7 @@
    "resmiGazete": "17.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2226085/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bankacilik-duzenleme-ve-denetleme-kurumu-135-personel-alim-ilani",
    "ilkGorulme": "2026-09-16T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -4091,7 +4099,8 @@
     "isletme": "- İşletme fakültelerine bağlı bölümler ile bankacılık, bankacılık ve finans, istatistik ve endüstri mühendisliği bölümlerinden veya bunlara denkliği Yükseköğretim Kurulu tarafından onaylanmış yurt içindeki veya yurt dışındaki fakülte veya yüksekokullardan m…",
     "maliye": "b) Maliye-Finans: Kamu Maliyesi, Maliye Politikası, Vergi Hukuku, İşletme Finansmanı, Finansal Yönetim,"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
    "id": "2223911",
