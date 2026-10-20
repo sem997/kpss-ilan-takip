@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-20T20:18:06.492Z",
+ "sonGuncelleme": "2026-10-20T23:18:12.342Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3106,6 +3106,27 @@
    "sonBasvuru": null
   },
   {
+   "id": "2246165",
+   "ilanNo": "DPB845497",
+   "baslik": "Düzeltme İlanı (Malazgirt Belediye Başkanlığı)",
+   "kurum": "MALAZGİRT BELEDİYE BAŞKANLIĞI",
+   "sehir": "MUŞ",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-05T21:00:01Z",
+   "resmiGazete": "06.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2246165/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-duzeltme-ilani-malazgirt-belediye-baskanligi-",
+   "ilkGorulme": "2026-10-05T21:00:01Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": "2026-11-04"
+  },
+  {
    "id": "2246315",
    "ilanNo": "DPB845500",
    "baslik": "Rize Belediye Başkanlığı (İptal İlanı)",
@@ -3116,7 +3137,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246315/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-rize-belediye-baskanligi-iptal-ilani-",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -3128,7 +3149,8 @@
    "alintilar": {
     "jeoloji": "29.08.2026 tarihli ve 33355 sayılı Resmî Gazete’de yayımlanan ilk defa atanmak üzere sözleşmeli personel (Jeoloji Mühendisi) alım ilanı iptal edilmiştir."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246314",
@@ -3141,7 +3163,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246314/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-rize-belediye-baskanligi-iptal-ilani-",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -3153,7 +3175,8 @@
    "alintilar": {
     "ziraat": "29.08.2026 tarihli ve 33355 sayılı Resmî Gazete’de yayımlanan ilk defa atanmak üzere sözleşmeli personel (Ziraat Mühendisi) alım ilanı iptal edilmiştir."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246305",
@@ -3166,7 +3189,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246305/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-yargitay-baskanligi-sozlesmeli-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3194,28 +3217,8 @@
     "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
    },
-   "sonBasvuru": "2026-10-23"
-  },
-  {
-   "id": "2246165",
-   "ilanNo": "DPB845497",
-   "baslik": "Düzeltme İlanı (Malazgirt Belediye Başkanlığı)",
-   "kurum": "MALAZGİRT BELEDİYE BAŞKANLIĞI",
-   "sehir": "MUŞ",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-05T21:00:01Z",
-   "resmiGazete": "06.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2246165/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-duzeltme-ilani-malazgirt-belediye-baskanligi-",
-   "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246150",
@@ -3228,7 +3231,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246150/kamu-akademik-personel-akademik-personel-alimlari-coruh-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3266,7 +3269,8 @@
     "iktisat": "Doktorasını İktisat Alanında Yapmış Olup Yükseköğretim Kurumlarında Akademik Personel Olarak En Az 10 Yıl Çalışmış ve Sanal Para Piyasaları Alanında Çalışma Yapmış Olmak.",
     "isletme": "İşletme Fakültesi"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246147",
@@ -3279,7 +3283,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246147/kamu-akademik-personel-akademik-personel-alimlari-iptal-ve-duzeltme-ilani-kafkas universitesi rektorlugunden-",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3295,7 +3299,8 @@
     "mimarlik": "Mimarlık Fakültesi",
     "kimya": "Doçentliğini Kimya Bilim alanda almış olup katı sıvı faz dengeleri konusunda çalışmalar yapmış olmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246146",
@@ -3308,7 +3313,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246146/kamu-akademik-personel-akademik-personel-alimlari-cankaya universitesi rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3334,7 +3339,8 @@
     "matematik": "Matematik",
     "hukuk": "HUKUK FAKÜLTESİ"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246144",
@@ -3347,7 +3353,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246144/kamu-akademik-personel-akademik-personel-alimlari-akdeniz-universitesi-rektorlugu-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3355,7 +3361,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-20"
+   "sonBasvuru": "2026-10-20",
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2246143",
@@ -3368,7 +3375,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246143/kamu-akademik-personel-akademik-personel-alimlari-akdeniz-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3380,7 +3387,8 @@
    "alintilar": {
     "isletme": "İşletme Ana Bilim Dalında doktora yapmış olmak. Turizm alanında Doçent unvanı almış olmak. E-spor turizmi, unutulmaz turizm deneyimi, turizm sektöründe yapay zeka uygulamaları ve yenileyici (Rejeneratif) turizm konusunda bilimsel çalışmalar yapmış olmak."
    },
-   "sonBasvuru": "2026-10-20"
+   "sonBasvuru": "2026-10-20",
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2243231",
@@ -4304,7 +4312,7 @@
    "resmiGazete": "18.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2227279/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-iletisim-baskanligi-iletisim-uzman-yardimcisi-alim-ilani",
    "ilkGorulme": "2026-09-17T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -4330,7 +4338,8 @@
     "kamu-yonetimi": "-İdarenin Kuruluşu: Anayasal İlkeler ve Örgütlenme (Türk Kamu Yönetimi)",
     "uluslararasi-iliskiler": "-Uluslararası İlişkiler Kuramları"
    },
-   "sonBasvuru": "2026-10-20"
+   "sonBasvuru": "2026-10-20",
+   "kaldirilma": "2026-10-20T23:18:12.342Z"
   },
   {
    "id": "2227126",
