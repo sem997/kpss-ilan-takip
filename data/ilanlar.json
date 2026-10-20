@@ -1,7 +1,28 @@
 {
- "sonGuncelleme": "2026-10-20T01:09:15.310Z",
+ "sonGuncelleme": "2026-10-20T06:20:38.116Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2262215",
+   "ilanNo": "YOK853516",
+   "baslik": "İptal İlanı (Tarsus Üniversitesi Rektörlüğünden)",
+   "kurum": "TARSUS ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "MERSİN",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-19T21:00:01Z",
+   "resmiGazete": "20.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2262215/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-tarsus universitesi rektorlugunden-",
+   "ilkGorulme": "2026-10-20T06:20:38.116Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
   {
    "id": "2261370",
    "ilanNo": "DPB845523",
