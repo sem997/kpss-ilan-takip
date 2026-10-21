@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-21T18:10:14.946Z",
+ "sonGuncelleme": "2026-10-21T21:53:35.154Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3135,7 +3135,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247946/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turk-patent-ve-marka-kurumu-sozlesmeli-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P1",
@@ -3157,7 +3157,8 @@
     "bilgisayar": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yükseköğ…",
     "yazilim": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yükseköğ…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2247799",
@@ -3170,7 +3171,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247799/kamu-akademik-personel-akademik-personel-alimlari-dicle-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3188,7 +3189,8 @@
     "kamu-yonetimi": "Siyaset Bilimi ve Kamu Yönetimi",
     "maliye": "Doçentliğini Maliye bilim alanında almış olup, işsizlik ve doğrudan yabancı yatırımlar konularında çalışması olmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2247794",
@@ -3201,7 +3203,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247794/kamu-akademik-personel-akademik-personel-alimlari-bogazici-universitesi-rektorlugu-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3209,7 +3211,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-21"
+   "sonBasvuru": "2026-10-21",
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2247793",
@@ -3222,7 +3225,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247793/kamu-akademik-personel-akademik-personel-alimlari-sakarya-uygulamali-bilimler-universitesi-rektorlugu-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3250,7 +3253,8 @@
     "isletme": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği, Gemi ve Deniz Teknolojisi Mühendisliği, Gemi Makineleri İşletme Mühendisliği ya da Makine Mühendisliği lisans mezunu olmak, Tezli yüksek lisans yapmış olmak, Uzak yol vardiya mühendisi yeterliliğine sahip olmak.",
     "uluslararasi-iliskiler": "5- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
    },
-   "sonBasvuru": "2026-10-21"
+   "sonBasvuru": "2026-10-21",
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2247792",
@@ -3263,7 +3267,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247792/kamu-akademik-personel-akademik-personel-alimlari-sakarya-uygulamali-bilimler-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3295,7 +3299,8 @@
     "isletme": "İşletme ve Yönetim Bilimleri Fakültesi Uluslararası Ticaret ve Finansman Bölümü Uluslararası Ticaret ve Finansman Anabilim Dalı",
     "kamu-yonetimi": "Uluslararası Ticaret ve Finansman ya da Siyaset Bilimi ve Kamu Yönetimi alanında doktora yapmış olmak, Uluslararası Geriye Göçün Ekonomik Etkileri, Hibrit Tehditler ve Stratejik İletişim konularında çalışmalar yapmış olmak"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2247791",
@@ -3308,7 +3313,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247791/kamu-akademik-personel-akademik-personel-alimlari-siirt universitesi rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3326,7 +3331,8 @@
     "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
     "uluslararasi-iliskiler": "(4) Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981…"
    },
-   "sonBasvuru": "2026-10-21"
+   "sonBasvuru": "2026-10-21",
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2247790",
@@ -3339,7 +3345,7 @@
    "resmiGazete": "07.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2247790/kamu-akademik-personel-akademik-personel-alimlari-siirt universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-06T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3353,7 +3359,8 @@
     "matematik": "MATEMATİK EĞİTİMİ",
     "psikoloji": "REHBERLİK VE PSİKOLOJİK DANIŞ."
    },
-   "sonBasvuru": "2026-10-21"
+   "sonBasvuru": "2026-10-21",
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2246674",
@@ -4686,33 +4693,6 @@
    "sonBasvuru": "2026-10-22"
   },
   {
-   "id": "2226098",
-   "ilanNo": "DPB845446",
-   "baslik": "Elmakaya Belediye Başkanlığı Memur Alım İlanı",
-   "kurum": "ELMAKAYA BELEDİYE BAŞKANLIĞI",
-   "sehir": "MUŞ",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-09-16T21:00:01Z",
-   "resmiGazete": "17.09.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2226098/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-elmakaya-belediye-baskanligi-memur-alim-ilani",
-   "ilkGorulme": "2026-09-16T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "harita"
-   ],
-   "alintilar": {
-    "harita": "Lisans düzeyinde eğitim veren fakültelerin jeodezi ve fotogrametri mühendisliği, jeodezi ve haritacılık mühendisliği, harita mühendisliği, geomatik mühendisliği programından mezun olmak."
-   },
-   "sonBasvuru": "2026-10-21"
-  },
-  {
    "id": "2226095",
    "ilanNo": "DPB845445",
    "baslik": "Didim Belediye Başkanlığı Zabıta Memuru Alım İlanı",
@@ -4732,6 +4712,34 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-10-23"
+  },
+  {
+   "id": "2226098",
+   "ilanNo": "DPB845446",
+   "baslik": "Elmakaya Belediye Başkanlığı Memur Alım İlanı",
+   "kurum": "ELMAKAYA BELEDİYE BAŞKANLIĞI",
+   "sehir": "MUŞ",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-09-16T21:00:01Z",
+   "resmiGazete": "17.09.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2226098/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-elmakaya-belediye-baskanligi-memur-alim-ilani",
+   "ilkGorulme": "2026-09-16T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "harita"
+   ],
+   "alintilar": {
+    "harita": "Lisans düzeyinde eğitim veren fakültelerin jeodezi ve fotogrametri mühendisliği, jeodezi ve haritacılık mühendisliği, harita mühendisliği, geomatik mühendisliği programından mezun olmak."
+   },
+   "sonBasvuru": "2026-10-21",
+   "kaldirilma": "2026-10-21T21:53:35.154Z"
   },
   {
    "id": "2226085",
