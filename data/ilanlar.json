@@ -1,7 +1,48 @@
 {
- "sonGuncelleme": "2026-10-22T10:26:22.682Z",
+ "sonGuncelleme": "2026-10-22T15:30:13.764Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2265614",
+   "ilanNo": "DPB845534",
+   "baslik": "Tarım ve Orman Bakanlığından Sözleşmeli Bilişim Personeli Alım İlanı",
+   "kurum": "TARIM VE ORMAN BAKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Bilişim Personeli İstihdamı",
+   "yayin": "2026-10-21T21:00:01Z",
+   "resmiGazete": "22.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2265614/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tarim-ve-orman-bakanligindan-sozlesmeli-bilisim-personeli-alim-ilani",
+   "ilkGorulme": "2026-10-22T15:30:13.764Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "yazilim",
+    "endustri",
+    "fizik",
+    "matematik",
+    "istatistik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "elektrik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "bilgisayar": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "yazilim": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "endustri": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "fizik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
+    "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
+    "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
+   },
+   "sonBasvuru": "2026-11-06"
+  },
   {
    "id": "2265191",
    "ilanNo": "YOK853539",
@@ -519,27 +560,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2261868",
-   "ilanNo": "ILN02574268",
-   "baslik": "Tercüman listesi başvuruları hakkında duyuru",
-   "kurum": "YALOVA CUMHURİYET BAŞSAVCILIĞI",
-   "sehir": "YALOVA",
-   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
-   "yayin": "2026-10-20T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2261868/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-listesi-basvurulari-hakkinda-duyuru",
-   "ilkGorulme": "2026-10-21T13:04:21.708Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2263556",
    "ilanNo": "DPB845528",
    "baslik": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
@@ -651,6 +671,27 @@
     "isletme": "Uçak Bakım Alanı (Uçak Gövde Motor) Denizcilik Alanı (Gemi Makineleri İşletme Dalı)"
    },
    "sonBasvuru": "2026-10-26"
+  },
+  {
+   "id": "2261868",
+   "ilanNo": "ILN02574268",
+   "baslik": "Tercüman listesi başvuruları hakkında duyuru",
+   "kurum": "YALOVA CUMHURİYET BAŞSAVCILIĞI",
+   "sehir": "YALOVA",
+   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
+   "yayin": "2026-10-20T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2261868/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-listesi-basvurulari-hakkinda-duyuru",
+   "ilkGorulme": "2026-10-21T13:04:21.708Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
   },
   {
    "id": "2262386",
