@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-22T19:45:56.648Z",
+ "sonGuncelleme": "2026-10-22T22:58:37.151Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3444,66 +3444,6 @@
    "sonBasvuru": "2026-10-23"
   },
   {
-   "id": "2249332",
-   "ilanNo": "YOK853467",
-   "baslik": "Ufuk Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
-   "kurum": "UFUK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-07T21:00:01Z",
-   "resmiGazete": "08.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2249332/kamu-akademik-personel-akademik-personel-alimlari-ufuk-universitesi-rektorlugu-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-07T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "biyoloji",
-    "matematik",
-    "istatistik",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "biyoloji": "Biyoloji alanında lisans, yüksek lisans ve doktora mezunu olmak. Patoloji Laboratuvar Teknikleri alanında 1 yıl ders vermiş olmak.",
-    "matematik": "Bilgisayar Öğretmenliği, Bilgisayar Sistemleri Öğretmenliği, Bilgisayar ve Öğretim Teknolojileri Öğretmenliği, Bilgisayar ve Kontrol Öğretmenliği, Matematik ve Bilgisayar Bilimleri, İstatistik ve Bilgisayar Bilimleri, Bilgi Güvenliği Teknolojisi, Yönetim Bi…",
-    "istatistik": "Bilgisayar Öğretmenliği, Bilgisayar Sistemleri Öğretmenliği, Bilgisayar ve Öğretim Teknolojileri Öğretmenliği, Bilgisayar ve Kontrol Öğretmenliği, Matematik ve Bilgisayar Bilimleri, İstatistik ve Bilgisayar Bilimleri, Bilgi Güvenliği Teknolojisi, Yönetim Bi…",
-    "uluslararasi-iliskiler": "Kısmen veya tamamen yabancı dille eğitim yapılan programlar ile uluslararası ilişkiler öğretim görevlisi kadrosuna başvurularda yabancı dil sınavından en az 85 puan almış olmak."
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2249330",
-   "ilanNo": "YOK853466",
-   "baslik": "Ufuk Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "UFUK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-07T21:00:01Z",
-   "resmiGazete": "08.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2249330/kamu-akademik-personel-akademik-personel-alimlari-ufuk-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-07T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "hemsirelik",
-    "hukuk",
-    "isletme"
-   ],
-   "alintilar": {
-    "hemsirelik": "HEMŞİRELİK YÜKSEKOKULU",
-    "hukuk": "HUKUK FAKÜLTESİ",
-    "isletme": "İşletme Bölümü"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2249323",
    "ilanNo": "DPB845502",
    "baslik": "Bankacılık Düzenleme ve Denetleme Kurumu Sözleşmeli Bilişim Personeli Alım İlanı",
@@ -3543,6 +3483,68 @@
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik bö…"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2249332",
+   "ilanNo": "YOK853467",
+   "baslik": "Ufuk Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
+   "kurum": "UFUK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-07T21:00:01Z",
+   "resmiGazete": "08.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2249332/kamu-akademik-personel-akademik-personel-alimlari-ufuk-universitesi-rektorlugu-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-10-07T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "biyoloji",
+    "matematik",
+    "istatistik",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "biyoloji": "Biyoloji alanında lisans, yüksek lisans ve doktora mezunu olmak. Patoloji Laboratuvar Teknikleri alanında 1 yıl ders vermiş olmak.",
+    "matematik": "Bilgisayar Öğretmenliği, Bilgisayar Sistemleri Öğretmenliği, Bilgisayar ve Öğretim Teknolojileri Öğretmenliği, Bilgisayar ve Kontrol Öğretmenliği, Matematik ve Bilgisayar Bilimleri, İstatistik ve Bilgisayar Bilimleri, Bilgi Güvenliği Teknolojisi, Yönetim Bi…",
+    "istatistik": "Bilgisayar Öğretmenliği, Bilgisayar Sistemleri Öğretmenliği, Bilgisayar ve Öğretim Teknolojileri Öğretmenliği, Bilgisayar ve Kontrol Öğretmenliği, Matematik ve Bilgisayar Bilimleri, İstatistik ve Bilgisayar Bilimleri, Bilgi Güvenliği Teknolojisi, Yönetim Bi…",
+    "uluslararasi-iliskiler": "Kısmen veya tamamen yabancı dille eğitim yapılan programlar ile uluslararası ilişkiler öğretim görevlisi kadrosuna başvurularda yabancı dil sınavından en az 85 puan almış olmak."
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-22T22:58:37.151Z"
+  },
+  {
+   "id": "2249330",
+   "ilanNo": "YOK853466",
+   "baslik": "Ufuk Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "UFUK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-07T21:00:01Z",
+   "resmiGazete": "08.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2249330/kamu-akademik-personel-akademik-personel-alimlari-ufuk-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-07T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "hemsirelik",
+    "hukuk",
+    "isletme"
+   ],
+   "alintilar": {
+    "hemsirelik": "HEMŞİRELİK YÜKSEKOKULU",
+    "hukuk": "HUKUK FAKÜLTESİ",
+    "isletme": "İşletme Bölümü"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-22T22:58:37.151Z"
   },
   {
    "id": "2247946",
@@ -5088,31 +5090,6 @@
    "sonBasvuru": "2026-10-26"
   },
   {
-   "id": "2226099",
-   "ilanNo": "DPB845447",
-   "baslik": "Gerede Belediye Başkanlığı Personel Alım İlanı",
-   "kurum": "GEREDE BELEDİYE BAŞKANLIĞI",
-   "sehir": "BOLU",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-09-16T21:00:01Z",
-   "resmiGazete": "17.09.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2226099/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-gerede-belediye-baskanligi-personel-alim-ilani",
-   "ilkGorulme": "2026-09-16T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "insaat"
-   ],
-   "alintilar": {
-    "insaat": "-Lisans düzeyinde eğitim veren fakültelerin İnşaat Mühendisliği bölümünden mezun olmak."
-   },
-   "sonBasvuru": "2026-10-22"
-  },
-  {
    "id": "2226095",
    "ilanNo": "DPB845445",
    "baslik": "Didim Belediye Başkanlığı Zabıta Memuru Alım İlanı",
@@ -5132,6 +5109,32 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-10-23"
+  },
+  {
+   "id": "2226099",
+   "ilanNo": "DPB845447",
+   "baslik": "Gerede Belediye Başkanlığı Personel Alım İlanı",
+   "kurum": "GEREDE BELEDİYE BAŞKANLIĞI",
+   "sehir": "BOLU",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-09-16T21:00:01Z",
+   "resmiGazete": "17.09.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2226099/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-gerede-belediye-baskanligi-personel-alim-ilani",
+   "ilkGorulme": "2026-09-16T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "insaat"
+   ],
+   "alintilar": {
+    "insaat": "-Lisans düzeyinde eğitim veren fakültelerin İnşaat Mühendisliği bölümünden mezun olmak."
+   },
+   "sonBasvuru": "2026-10-22",
+   "kaldirilma": "2026-10-22T22:58:37.151Z"
   },
   {
    "id": "2226098",
