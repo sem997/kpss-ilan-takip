@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-23T20:12:27.230Z",
+ "sonGuncelleme": "2026-10-23T23:19:25.547Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -1507,34 +1507,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2261344",
-   "ilanNo": "DPB845522",
-   "baslik": "Kıyı Emniyeti Genel Müdürlüğünden Daimi İşçi Alım İlanı",
-   "kurum": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Sürekli İşçi Alımı",
-   "yayin": "2026-10-18T21:00:01Z",
-   "resmiGazete": "19.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2261344/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kiyi emniyeti genel mudurlugunden-daimi-isci-alim-ilani",
-   "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3",
-    "P93"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "maliye"
-   ],
-   "alintilar": {
-    "maliye": "Üniversitelerin İnsan Kaynakları Yönetimi, Bilgi Yönetimi, Bilgi ve Belge Yönetimi, Halkla İlişkiler ve Tanıtım, Büro Yönetimi ve Yönetici Asistanlığı, Adalet, Muhasebe ve Vergi Uygulamaları, Maliye bölümlerinden birinden ön lisans düzeyinde mezun olmuş olmak."
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2261343",
    "ilanNo": "DPB845521",
    "baslik": "Orta Anadolu Kalkınma Ajansından Personel Alım İlanı",
@@ -1879,6 +1851,35 @@
     "iktisat": "İzmir Ekonomi Üniversitesi Rektörlüğünden:"
    },
    "sonBasvuru": "2026-11-02"
+  },
+  {
+   "id": "2261344",
+   "ilanNo": "DPB845522",
+   "baslik": "Kıyı Emniyeti Genel Müdürlüğünden Daimi İşçi Alım İlanı",
+   "kurum": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Sürekli İşçi Alımı",
+   "yayin": "2026-10-18T21:00:01Z",
+   "resmiGazete": "19.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2261344/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kiyi emniyeti genel mudurlugunden-daimi-isci-alim-ilani",
+   "ilkGorulme": "2026-10-19T11:04:22.711Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P93"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "maliye"
+   ],
+   "alintilar": {
+    "maliye": "Üniversitelerin İnsan Kaynakları Yönetimi, Bilgi Yönetimi, Bilgi ve Belge Yönetimi, Halkla İlişkiler ve Tanıtım, Büro Yönetimi ve Yönetici Asistanlığı, Adalet, Muhasebe ve Vergi Uygulamaları, Maliye bölümlerinden birinden ön lisans düzeyinde mezun olmuş olmak."
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
   },
   {
    "id": "2259136",
@@ -3500,84 +3501,6 @@
    "kaldirilma": "2026-10-23T01:23:22.649Z"
   },
   {
-   "id": "2250965",
-   "ilanNo": "YOK853477",
-   "baslik": "Giresun Üniversitesi Öğretim Üyesi Alım İlanı",
-   "kurum": "GİRESUN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "GİRESUN",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-08T21:00:01Z",
-   "resmiGazete": "09.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2250965/kamu-akademik-personel-akademik-personel-alimlari-giresun-universitesi-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "mimarlik",
-    "biyoloji",
-    "fizik",
-    "matematik",
-    "istatistik",
-    "hemsirelik"
-   ],
-   "alintilar": {
-    "mimarlik": "Mimarlık ve Şehir Planlama Bölümü",
-    "biyoloji": "Tıbbi Genetik veya Tıbbi Biyoloji Doçent ünvanı almış olup, Sedef Hastalığı ile ilgili bilimsel çalışmaları olmak.",
-    "fizik": "Doçentlik unvanını fizik eğitimi alanında almış olmak ve fen eğitiminde öğretim oryantasyonları ile çoklu gösterimlerin etkileri konularında çalışmalar yapmış olmak.",
-    "matematik": "Matematik ve Fen Bilimleri Eğitimi Bölümü",
-    "istatistik": "İstatistik alanında doçent ünvanı almış olup finansal risk, volatilite modellemesi ve fonksiyonel veri analizi alanlarında bilimsel çalışmaları bulunmak.",
-    "hemsirelik": "Hemşirelik Bölümü"
-   },
-   "sonBasvuru": "2026-10-23"
-  },
-  {
-   "id": "2250902",
-   "ilanNo": "YOK853476",
-   "baslik": "Atılım Üniversitesi Öğretim Üyesi Alım İlanı",
-   "kurum": "ATILIM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-08T21:00:01Z",
-   "resmiGazete": "09.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2250902/kamu-akademik-personel-akademik-personel-alimlari-atilim-universitesi-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektrik",
-    "elektronik-haberlesme",
-    "bilgisayar",
-    "yazilim",
-    "makine",
-    "fizik",
-    "hukuk",
-    "isletme",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "Elektrik-Elektronik Mühendisliği Bölümü",
-    "elektrik": "1.Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektrik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Elektrik ve Bilgisayar Mühendisliği ya da bunlara eşdeğerliliği kabul edilen alanlardan birinden lisans, yüksek lisans ve doktora dere…",
-    "elektronik-haberlesme": "1.Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektrik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Elektrik ve Bilgisayar Mühendisliği ya da bunlara eşdeğerliliği kabul edilen alanlardan birinden lisans, yüksek lisans ve doktora dere…",
-    "bilgisayar": "Bilgisayar Mühendisliği Bölümü",
-    "yazilim": "1. Bilgisayar Bilimleri ve Mühendisliği veya Yazılım Mühendisliği alanlarından birinde docent ünvanına sahip olmak.",
-    "makine": "1.Doçent unvanını Uçak, Havacılık-Uzay Mühendisliği veya Makine Mühendisliği bilim alanlarından birisinden almış olmak.",
-    "fizik": "Elektrik Elektronik Mühendisliği Bölümü (Fizik Grubu)",
-    "hukuk": "Hukuk Fakültesi",
-    "isletme": "İşletme Fakültesi",
-    "uluslararasi-iliskiler": "Uluslararası İlişkiler"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2250889",
    "ilanNo": "YOK853475",
    "baslik": "Haliç Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
@@ -3626,33 +3549,6 @@
     "psikoloji": "a) Psikoloji Bölümü"
    },
    "sonBasvuru": "2026-10-25"
-  },
-  {
-   "id": "2250871",
-   "ilanNo": "YOK853473",
-   "baslik": "İstanbul Bilgi Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
-   "kurum": "İSTANBUL BİLGİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-08T21:00:01Z",
-   "resmiGazete": "09.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2250871/kamu-akademik-personel-akademik-personel-alimlari-istanbul-bilgi-universitesi-rektorlugunden-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "veteriner",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "veteriner": "1) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7. maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğret…",
-    "eczacilik": "1) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7. maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğret…"
-   },
-   "sonBasvuru": "2026-10-23"
   },
   {
    "id": "2250868",
@@ -3707,6 +3603,114 @@
    "sonBasvuru": null
   },
   {
+   "id": "2250965",
+   "ilanNo": "YOK853477",
+   "baslik": "Giresun Üniversitesi Öğretim Üyesi Alım İlanı",
+   "kurum": "GİRESUN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "GİRESUN",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-08T21:00:01Z",
+   "resmiGazete": "09.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2250965/kamu-akademik-personel-akademik-personel-alimlari-giresun-universitesi-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-08T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "mimarlik",
+    "biyoloji",
+    "fizik",
+    "matematik",
+    "istatistik",
+    "hemsirelik"
+   ],
+   "alintilar": {
+    "mimarlik": "Mimarlık ve Şehir Planlama Bölümü",
+    "biyoloji": "Tıbbi Genetik veya Tıbbi Biyoloji Doçent ünvanı almış olup, Sedef Hastalığı ile ilgili bilimsel çalışmaları olmak.",
+    "fizik": "Doçentlik unvanını fizik eğitimi alanında almış olmak ve fen eğitiminde öğretim oryantasyonları ile çoklu gösterimlerin etkileri konularında çalışmalar yapmış olmak.",
+    "matematik": "Matematik ve Fen Bilimleri Eğitimi Bölümü",
+    "istatistik": "İstatistik alanında doçent ünvanı almış olup finansal risk, volatilite modellemesi ve fonksiyonel veri analizi alanlarında bilimsel çalışmaları bulunmak.",
+    "hemsirelik": "Hemşirelik Bölümü"
+   },
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
+  },
+  {
+   "id": "2250902",
+   "ilanNo": "YOK853476",
+   "baslik": "Atılım Üniversitesi Öğretim Üyesi Alım İlanı",
+   "kurum": "ATILIM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-08T21:00:01Z",
+   "resmiGazete": "09.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2250902/kamu-akademik-personel-akademik-personel-alimlari-atilim-universitesi-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-08T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "elektronik-haberlesme",
+    "bilgisayar",
+    "yazilim",
+    "makine",
+    "fizik",
+    "hukuk",
+    "isletme",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Elektrik-Elektronik Mühendisliği Bölümü",
+    "elektrik": "1.Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektrik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Elektrik ve Bilgisayar Mühendisliği ya da bunlara eşdeğerliliği kabul edilen alanlardan birinden lisans, yüksek lisans ve doktora dere…",
+    "elektronik-haberlesme": "1.Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektrik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Elektrik ve Bilgisayar Mühendisliği ya da bunlara eşdeğerliliği kabul edilen alanlardan birinden lisans, yüksek lisans ve doktora dere…",
+    "bilgisayar": "Bilgisayar Mühendisliği Bölümü",
+    "yazilim": "1. Bilgisayar Bilimleri ve Mühendisliği veya Yazılım Mühendisliği alanlarından birinde docent ünvanına sahip olmak.",
+    "makine": "1.Doçent unvanını Uçak, Havacılık-Uzay Mühendisliği veya Makine Mühendisliği bilim alanlarından birisinden almış olmak.",
+    "fizik": "Elektrik Elektronik Mühendisliği Bölümü (Fizik Grubu)",
+    "hukuk": "Hukuk Fakültesi",
+    "isletme": "İşletme Fakültesi",
+    "uluslararasi-iliskiler": "Uluslararası İlişkiler"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
+  },
+  {
+   "id": "2250871",
+   "ilanNo": "YOK853473",
+   "baslik": "İstanbul Bilgi Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "İSTANBUL BİLGİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-08T21:00:01Z",
+   "resmiGazete": "09.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2250871/kamu-akademik-personel-akademik-personel-alimlari-istanbul-bilgi-universitesi-rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-10-08T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "veteriner",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "veteriner": "1) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7. maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğret…",
+    "eczacilik": "1) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7. maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğret…"
+   },
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
+  },
+  {
    "id": "2250867",
    "ilanNo": "YOK853472",
    "baslik": "İstanbul Bilgi Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
@@ -3717,7 +3721,7 @@
    "resmiGazete": "09.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2250867/kamu-akademik-personel-akademik-personel-alimlari-istanbul-bilgi-universitesi-rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3745,7 +3749,8 @@
     "isletme": "Endüstri Mühendisliği veya Endüstri Mühendisliği ve İşletme Yönetimi veya Endüstri ve Sistem Mühendisliği alanlarından birinde doktora derecesine sahip olmak; Stokastik Modelleme ve Simülasyon alanında bilimsel eserleri bulunmak.",
     "maliye": "Maliye alanında doçentlik unvanı almış olmak, vergi hukuku ve kamu maliyesi alanlarında bilimsel yayınları bulunmak ve bu alanlarda yükseköğretim kurumlarında ders verme deneyimine sahip olmak."
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
   },
   {
    "id": "2250858",
@@ -3758,7 +3763,7 @@
    "resmiGazete": "09.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2250858/kamu-akademik-personel-akademik-personel-alimlari-bandirma onyedi eylul universitesi rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3774,7 +3779,8 @@
     "elektrik": "Elektrik Mühendisliği Bölümü",
     "isletme": "Deniz Ulaştırma İşletme Mühendisliği Bölümü"
    },
-   "sonBasvuru": "2026-10-23"
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
   },
   {
    "id": "2250857",
@@ -3787,7 +3793,7 @@
    "resmiGazete": "09.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2250857/kamu-akademik-personel-akademik-personel-alimlari-bandirma onyedi eylul universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3813,7 +3819,8 @@
     "psikoloji": "Doçentliğini Felsefe ve Din Bilimleri alanında almış olmak. Din Psikolojisi bilim alanında çalışmaları olmak. Manevi Grup terapisi ve Dinsel Bilişsel Davranışçı Terapi alanında çalışmaları olmak.",
     "sosyoloji": "İnsan ve Toplum Bilimleri Fakültesi Sosyoloji Bölümü"
    },
-   "sonBasvuru": "2026-10-23"
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
   },
   {
    "id": "2249323",
@@ -5472,7 +5479,7 @@
    "resmiGazete": "17.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2226095/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-didim-belediye-baskanligi-zabita-memuru-alim-ilani",
    "ilkGorulme": "2026-09-16T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -5480,7 +5487,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-23"
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
   },
   {
    "id": "2226099",
@@ -5739,39 +5747,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2176787",
-   "ilanNo": "DPB845227",
-   "baslik": "TÜRMOB'dan Serbest Muhasebeci Mali Müşavirlik Sınav Duyurusu",
-   "kurum": "TÜRMOB TÜRKİYE SERBEST MUHASEBECİ MALİ MÜŞAVİRLER VE YEMİNLİ MALİ  MÜŞAVİRLER ODALARI BİRLİĞİ",
-   "sehir": "ANKARA",
-   "kategori": "Sertifikasyon, Resertifikasyon, Lisanslama Sınavları",
-   "yayin": "2026-07-23T00:00:01Z",
-   "resmiGazete": "23.07.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2176787/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turmobdan-serbest-muhasebeci-mali-musavirlik-sinav-duyurusu",
-   "ilkGorulme": "2026-07-23T00:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "hukuk",
-    "iktisat",
-    "isletme",
-    "kamu-yonetimi",
-    "maliye"
-   ],
-   "alintilar": {
-    "hukuk": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
-    "iktisat": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
-    "isletme": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
-    "kamu-yonetimi": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
-    "maliye": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2176784",
    "ilanNo": "DPB845226",
    "baslik": "TÜRMOB'dan Yeminli Mali Müşavirlik Sınav Duyurusu",
@@ -5791,6 +5766,40 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": null
+  },
+  {
+   "id": "2176787",
+   "ilanNo": "DPB845227",
+   "baslik": "TÜRMOB'dan Serbest Muhasebeci Mali Müşavirlik Sınav Duyurusu",
+   "kurum": "TÜRMOB TÜRKİYE SERBEST MUHASEBECİ MALİ MÜŞAVİRLER VE YEMİNLİ MALİ  MÜŞAVİRLER ODALARI BİRLİĞİ",
+   "sehir": "ANKARA",
+   "kategori": "Sertifikasyon, Resertifikasyon, Lisanslama Sınavları",
+   "yayin": "2026-07-23T00:00:01Z",
+   "resmiGazete": "23.07.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2176787/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turmobdan-serbest-muhasebeci-mali-musavirlik-sinav-duyurusu",
+   "ilkGorulme": "2026-07-23T00:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "maliye"
+   ],
+   "alintilar": {
+    "hukuk": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
+    "iktisat": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
+    "isletme": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
+    "kamu-yonetimi": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…",
+    "maliye": "1) Hukuk, iktisat, maliye, işletme, muhasebe, bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokullardan veya denkliği Yükseköğretim Kurumunca tasdik edilmiş yabancı yükseköğretim kurumlarından en az lisans seviyesinde…"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-23T23:19:25.547Z"
   },
   {
    "id": "1973572",
