@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-22T22:58:37.151Z",
+ "sonGuncelleme": "2026-10-23T01:23:22.649Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2032,27 +2032,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2258113",
-   "ilanNo": "ILN02571750",
-   "baslik": "Tercüman bilirkişi listesinin düzenlenmesine ilişkin ilan",
-   "kurum": "TOKAT ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOMİSYONU",
-   "sehir": "TOKAT",
-   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
-   "yayin": "2026-10-15T21:00:00Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2258113/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-bilirkisi-listesinin-duzenlenmesine-iliskin-ilan",
-   "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2253698",
    "ilanNo": "ILN02568517",
    "baslik": "Proje Teknik Elemanı Alım İlanı",
@@ -2099,6 +2078,28 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": null
+  },
+  {
+   "id": "2258113",
+   "ilanNo": "ILN02571750",
+   "baslik": "Tercüman bilirkişi listesinin düzenlenmesine ilişkin ilan",
+   "kurum": "TOKAT ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOMİSYONU",
+   "sehir": "TOKAT",
+   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
+   "yayin": "2026-10-15T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2258113/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-bilirkisi-listesinin-duzenlenmesine-iliskin-ilan",
+   "ilkGorulme": "2026-10-15T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-23T01:23:22.649Z"
   },
   {
    "id": "2257591",
@@ -3113,7 +3114,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2249813/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bireysel-danismanlik-hizmeti-duyurusu",
    "ilkGorulme": "2026-10-09T21:00:00Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -3125,7 +3126,8 @@
    "alintilar": {
     "hukuk": "2. Bu kapsamda, Türkiye Tarım Kredi Kooperatifleri Proje Uygulama Birimine danışmanlık hizmeti vermek üzere Kısa Süreli Hukuk Danışmanı alınacaktır."
    },
-   "sonBasvuru": "2026-10-23"
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-23T01:23:22.649Z"
   },
   {
    "id": "2250965",
