@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-24T18:18:33.091Z",
+ "sonGuncelleme": "2026-10-24T21:03:12.861Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3406,7 +3406,7 @@
    "resmiGazete": "10.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2253002/kamu-akademik-personel-akademik-personel-alimlari-ufuk-universitesi-duzeltme-ilani-",
    "ilkGorulme": "2026-10-09T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3418,7 +3418,8 @@
    "alintilar": {
     "hemsirelik": "08.10.2026 tarih ve 33394 sayılı Resmi Gazete’de aslına uygun olarak yayımlanan öğretim üyesi alım ilanımızda Hemşirelik Yüksekokulu, Hemşirelik Bölümü kadrosu ile ilgili ilan metni aşağıdaki şekilde düzeltilmiştir."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-24T21:03:12.861Z"
   },
   {
    "id": "2252997",
@@ -3431,7 +3432,7 @@
    "resmiGazete": "10.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2252997/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-nevsehir-ili-ortahisar-belediye-baskanligi-duzeltme-ilani-",
    "ilkGorulme": "2026-10-09T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": false,
@@ -3439,7 +3440,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-24T21:03:12.861Z"
   },
   {
    "id": "2252979",
@@ -3452,7 +3454,7 @@
    "resmiGazete": "10.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2252979/kamu-akademik-personel-akademik-personel-alimlari-necmettin-erbakan-universitesi-iptal-ilani-",
    "ilkGorulme": "2026-10-09T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3472,7 +3474,8 @@
     "molekuler-biyoloji": "Fen Fakülteleri'nin Biyoteknoloji veya Moleküler Biyoloji ve Genetik programlarının birinden lisans mezun olmak.",
     "hemsirelik": "Hemşirelik Fakültesi/ Hemşirelik/ Ruh Sağlığı ve"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-24T21:03:12.861Z"
   },
   {
    "id": "2249813",
@@ -3499,31 +3502,6 @@
    },
    "sonBasvuru": "2026-10-23",
    "kaldirilma": "2026-10-23T01:23:22.649Z"
-  },
-  {
-   "id": "2250889",
-   "ilanNo": "YOK853475",
-   "baslik": "Haliç Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-08T21:00:01Z",
-   "resmiGazete": "09.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2250889/kamu-akademik-personel-akademik-personel-alimlari-halic-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "isletme"
-   ],
-   "alintilar": {
-    "isletme": "İşletme Fakültesi"
-   },
-   "sonBasvuru": "2026-10-24"
   },
   {
    "id": "2250872",
@@ -3601,6 +3579,32 @@
     "isletme": "- Gemi Makineleri İşletme Mühendisliği"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2250889",
+   "ilanNo": "YOK853475",
+   "baslik": "Haliç Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-08T21:00:01Z",
+   "resmiGazete": "09.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2250889/kamu-akademik-personel-akademik-personel-alimlari-halic-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-08T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "isletme"
+   ],
+   "alintilar": {
+    "isletme": "İşletme Fakültesi"
+   },
+   "sonBasvuru": "2026-10-24",
+   "kaldirilma": "2026-10-24T21:03:12.861Z"
   },
   {
    "id": "2250965",
