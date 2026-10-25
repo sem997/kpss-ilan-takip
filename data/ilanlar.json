@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-25T19:52:07.078Z",
+ "sonGuncelleme": "2026-10-25T22:19:00.326Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2815,47 +2815,6 @@
    "sonBasvuru": "2026-10-28"
   },
   {
-   "id": "2255992",
-   "ilanNo": "DPB845512",
-   "baslik": "Türk Standartları Enstitüsü Sözleşmeli Bilişim Personeli Alım İlanı",
-   "kurum": "TÜRK STANDARDLARI ENSTİTÜSÜ",
-   "sehir": "ANKARA",
-   "kategori": "Sözleşmeli Bilişim Personeli İstihdamı",
-   "yayin": "2026-10-13T21:00:01Z",
-   "resmiGazete": "14.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2255992/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turk-standartlari-enstitusu-sozlesmeli-bilisim-personeli-alim-ilani",
-   "ilkGorulme": "2026-10-13T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektrik",
-    "bilgisayar",
-    "yazilim",
-    "endustri",
-    "fizik",
-    "matematik",
-    "istatistik"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "elektrik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "bilgisayar": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "yazilim": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "endustri": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "fizik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
-    "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
-    "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
-   },
-   "sonBasvuru": "2026-10-25"
-  },
-  {
    "id": "2255991",
    "ilanNo": "YOK853486",
    "baslik": "Sağlık Bilimleri Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
@@ -2887,6 +2846,48 @@
     "sosyal-hizmet": "Sosyal Hizmet"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2255992",
+   "ilanNo": "DPB845512",
+   "baslik": "Türk Standartları Enstitüsü Sözleşmeli Bilişim Personeli Alım İlanı",
+   "kurum": "TÜRK STANDARDLARI ENSTİTÜSÜ",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Bilişim Personeli İstihdamı",
+   "yayin": "2026-10-13T21:00:01Z",
+   "resmiGazete": "14.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2255992/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turk-standartlari-enstitusu-sozlesmeli-bilisim-personeli-alim-ilani",
+   "ilkGorulme": "2026-10-13T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "yazilim",
+    "endustri",
+    "fizik",
+    "matematik",
+    "istatistik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "elektrik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "bilgisayar": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "yazilim": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "endustri": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "fizik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
+    "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
+    "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
+   },
+   "sonBasvuru": "2026-10-25",
+   "kaldirilma": "2026-10-25T22:19:00.326Z"
   },
   {
    "id": "2255032",
@@ -3138,29 +3139,6 @@
    "sonBasvuru": "2026-10-27"
   },
   {
-   "id": "2252995",
-   "ilanNo": "DPB845507",
-   "baslik": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü Vakıf Uzman Yardımcılığı Sınav İlanı",
-   "kurum": "VAKIFLAR GENEL MÜDÜRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "A Grubu Kadro Alımları",
-   "yayin": "2026-10-11T21:00:01Z",
-   "resmiGazete": "12.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252995/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur-ve-turizm-bakanligi-vakiflar-genel-mudurlugu-vakif-uzman-yardimciligi-sinav-ilani",
-   "ilkGorulme": "2026-10-11T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-10-25"
-  },
-  {
    "id": "2252980",
    "ilanNo": "YOK853481",
    "baslik": "Türk Hava Kurumu Üniversitesi Rektörlüğünden Akademik Personel Alım İlanı",
@@ -3396,6 +3374,30 @@
    "sonBasvuru": "2026-11-22"
   },
   {
+   "id": "2252995",
+   "ilanNo": "DPB845507",
+   "baslik": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü Vakıf Uzman Yardımcılığı Sınav İlanı",
+   "kurum": "VAKIFLAR GENEL MÜDÜRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "A Grubu Kadro Alımları",
+   "yayin": "2026-10-11T21:00:01Z",
+   "resmiGazete": "12.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2252995/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur-ve-turizm-bakanligi-vakiflar-genel-mudurlugu-vakif-uzman-yardimciligi-sinav-ilani",
+   "ilkGorulme": "2026-10-11T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": "2026-10-25",
+   "kaldirilma": "2026-10-25T22:19:00.326Z"
+  },
+  {
    "id": "2253002",
    "ilanNo": "YOK853483",
    "baslik": "Ufuk Üniversitesi (Düzeltme İlanı)",
@@ -3504,31 +3506,6 @@
    "kaldirilma": "2026-10-23T01:23:22.649Z"
   },
   {
-   "id": "2250872",
-   "ilanNo": "YOK853474",
-   "baslik": "Altınbaş Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "ALTINBAŞ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-08T21:00:01Z",
-   "resmiGazete": "09.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2250872/kamu-akademik-personel-akademik-personel-alimlari-altinbas-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "psikoloji"
-   ],
-   "alintilar": {
-    "psikoloji": "a) Psikoloji Bölümü"
-   },
-   "sonBasvuru": "2026-10-25"
-  },
-  {
    "id": "2250868",
    "ilanNo": "DPB845503",
    "baslik": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı 22 Uzman Yardımcısı Alacak",
@@ -3579,6 +3556,32 @@
     "isletme": "- Gemi Makineleri İşletme Mühendisliği"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2250872",
+   "ilanNo": "YOK853474",
+   "baslik": "Altınbaş Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "ALTINBAŞ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-08T21:00:01Z",
+   "resmiGazete": "09.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2250872/kamu-akademik-personel-akademik-personel-alimlari-altinbas-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-08T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "psikoloji"
+   ],
+   "alintilar": {
+    "psikoloji": "a) Psikoloji Bölümü"
+   },
+   "sonBasvuru": "2026-10-25",
+   "kaldirilma": "2026-10-25T22:19:00.326Z"
   },
   {
    "id": "2250889",
