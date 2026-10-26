@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-26T18:48:05.714Z",
+ "sonGuncelleme": "2026-10-26T23:01:40.096Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -1389,7 +1389,7 @@
    "resmiGazete": "21.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2263496/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tcdd-tasimacilik-as-genel-mudurlugunden-166-surekli-isci-alim-ilani",
    "ilkGorulme": "2026-10-21T07:07:03.608Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -1401,7 +1401,8 @@
    "alintilar": {
     "isletme": "Uçak Bakım Alanı (Uçak Gövde Motor) Denizcilik Alanı (Gemi Makineleri İşletme Dalı)"
    },
-   "sonBasvuru": "2026-10-26"
+   "sonBasvuru": "2026-10-26",
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
   },
   {
    "id": "2262386",
@@ -3478,77 +3479,6 @@
    "sonBasvuru": "2026-10-27"
   },
   {
-   "id": "2252980",
-   "ilanNo": "YOK853481",
-   "baslik": "Türk Hava Kurumu Üniversitesi Rektörlüğünden Akademik Personel Alım İlanı",
-   "kurum": "TÜRK HAVA KURUMU ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-11T21:00:01Z",
-   "resmiGazete": "12.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252980/kamu-akademik-personel-akademik-personel-alimlari-turk hava kurumu universitesi rektorlugunden-akademik-personel-alim-ilani",
-   "ilkGorulme": "2026-10-11T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektrik",
-    "bilgisayar",
-    "yazilim",
-    "makine",
-    "fizik",
-    "matematik",
-    "isletme"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik/Elektronik Mühendisliği veya Yönetim Bilişim Sistemleri alanlarından birinden almış olmak,",
-    "elektrik": " Lisans ve yüksek lisans derecelerini Elektrik-Elektronik Mühendisliği veya Elektrik Mühendisliği alanında, doktora derecesini ise Elektrik Mühendisliği alanında almış olmak.",
-    "bilgisayar": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik/Elektronik Mühendisliği veya Yönetim Bilişim Sistemleri alanlarından birinden almış olmak,",
-    "yazilim": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik/Elektronik Mühendisliği veya Yönetim Bilişim Sistemleri alanlarından birinden almış olmak,",
-    "makine": "Makine Mühendisliği (İngilizce)",
-    "fizik": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik, Bilişim Sistemleri Mühendisliği, Fizik ve Matematik alanlarından birinden almış olmak.",
-    "matematik": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik, Bilişim Sistemleri Mühendisliği, Fizik ve Matematik alanlarından birinden almış olmak.",
-    "isletme": "İşletme Fakültesi"
-   },
-   "sonBasvuru": "2026-10-26"
-  },
-  {
-   "id": "2252978",
-   "ilanNo": "DPB845506",
-   "baslik": "İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi Başkanlığı Muvazzaf Subay Temin İlanı",
-   "kurum": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ BAŞKANLIĞI",
-   "sehir": "ANKARA",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-11T21:00:01Z",
-   "resmiGazete": "12.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252978/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-icisleri-bakanligi-jandarma-ve-sahil-guvenlik-akademisi-baskanligi-muvazzaf-subay-temin-ilani",
-   "ilkGorulme": "2026-10-11T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3",
-    "P4"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "veteriner",
-    "hukuk",
-    "maliye"
-   ],
-   "alintilar": {
-    "veteriner": "Veteriner",
-    "hukuk": "Öğretmen (Hukuk)",
-    "maliye": "Maliye"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2252977",
    "ilanNo": "DPB845505",
    "baslik": "Tasarruf Mevduatı Sigorta Fonu Başkanlığından Fon Denetçi Yardımcısı, Fon Uzman Yardımcısı ve Fon Avukatı Alım İlanı",
@@ -3589,72 +3519,6 @@
     "maliye": "c) Maliye Grubu Kamu Maliyesi Maliye Politikası Bütçe"
    },
    "sonBasvuru": null
-  },
-  {
-   "id": "2252976",
-   "ilanNo": "YOK853479",
-   "baslik": "Şırnak Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
-   "kurum": "ŞIRNAK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ŞIRNAK",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-11T21:00:01Z",
-   "resmiGazete": "12.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252976/kamu-akademik-personel-akademik-personel-alimlari-sirnak-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-11T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "endustri",
-    "mimarlik",
-    "fizik",
-    "veteriner",
-    "eczacilik",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "endustri": "c) Lisans ve Tezli Yüksek Lisans eğitimini Mobilya ve Dekorasyon Eğitimi Bölümünden yapmış olup Ağaç İşleri Endüstri Mühendisliği alanında doktora yapmış olmak. Yükseköğretim Kurumlarında en az 2 (iki) dönem ders vermiş olmak.",
-    "mimarlik": "d) Lisans Eğitimini Fakültelerin İç Mimarlık, İç Mimarlık ve Çevre Tasarımı, Mobilya ve Dekorasyon Öğretmenliği, Mobilya ve Dekorasyon Eğitimi, Ağaç İşleri Endüstri Mühendisliği Bölümlerin birinden yapmış olmak ve ilgili alanda Tezli Yüksek lisans yapmış ol…",
-    "fizik": "a) Fizik lisans mezunu olup, Yüksek Lisans ve Doktorasını fizik alanında yapmış olmak. İnce film güneş hücreleri konusunda çalışmalar yapmış olmak ve TÜBİTAK destekli projelerde görev almış olmak.",
-    "veteriner": "2) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
-    "eczacilik": "2) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
-    "uluslararasi-iliskiler": "4) Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
-   },
-   "sonBasvuru": "2026-10-26"
-  },
-  {
-   "id": "2252975",
-   "ilanNo": "YOK853478",
-   "baslik": "Şırnak Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "ŞIRNAK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ŞIRNAK",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-11T21:00:01Z",
-   "resmiGazete": "12.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252975/kamu-akademik-personel-akademik-personel-alimlari-sirnak-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-11T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "makine",
-    "ziraat",
-    "isletme",
-    "sosyal-hizmet"
-   ],
-   "alintilar": {
-    "makine": "g) Doçentliğini Makine Mühendisliği alanında almış olmak. Alternatif yakıt ve güneş enerjisi konularında çalışmalar yapmış olmak.",
-    "ziraat": "Bahçe Bitkileri",
-    "isletme": "İşletme",
-    "sosyal-hizmet": "Sosyal Hizmet"
-   },
-   "sonBasvuru": "2026-10-26"
   },
   {
    "id": "2252974",
@@ -3711,6 +3575,147 @@
     "maliye": "Maliye"
    },
    "sonBasvuru": "2026-11-22"
+  },
+  {
+   "id": "2252980",
+   "ilanNo": "YOK853481",
+   "baslik": "Türk Hava Kurumu Üniversitesi Rektörlüğünden Akademik Personel Alım İlanı",
+   "kurum": "TÜRK HAVA KURUMU ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-11T21:00:01Z",
+   "resmiGazete": "12.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2252980/kamu-akademik-personel-akademik-personel-alimlari-turk hava kurumu universitesi rektorlugunden-akademik-personel-alim-ilani",
+   "ilkGorulme": "2026-10-11T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "yazilim",
+    "makine",
+    "fizik",
+    "matematik",
+    "isletme"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik/Elektronik Mühendisliği veya Yönetim Bilişim Sistemleri alanlarından birinden almış olmak,",
+    "elektrik": " Lisans ve yüksek lisans derecelerini Elektrik-Elektronik Mühendisliği veya Elektrik Mühendisliği alanında, doktora derecesini ise Elektrik Mühendisliği alanında almış olmak.",
+    "bilgisayar": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik/Elektronik Mühendisliği veya Yönetim Bilişim Sistemleri alanlarından birinden almış olmak,",
+    "yazilim": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik/Elektronik Mühendisliği veya Yönetim Bilişim Sistemleri alanlarından birinden almış olmak,",
+    "makine": "Makine Mühendisliği (İngilizce)",
+    "fizik": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik, Bilişim Sistemleri Mühendisliği, Fizik ve Matematik alanlarından birinden almış olmak.",
+    "matematik": " Lisans derecesini Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik, Bilişim Sistemleri Mühendisliği, Fizik ve Matematik alanlarından birinden almış olmak.",
+    "isletme": "İşletme Fakültesi"
+   },
+   "sonBasvuru": "2026-10-26",
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
+  },
+  {
+   "id": "2252978",
+   "ilanNo": "DPB845506",
+   "baslik": "İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi Başkanlığı Muvazzaf Subay Temin İlanı",
+   "kurum": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-11T21:00:01Z",
+   "resmiGazete": "12.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2252978/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-icisleri-bakanligi-jandarma-ve-sahil-guvenlik-akademisi-baskanligi-muvazzaf-subay-temin-ilani",
+   "ilkGorulme": "2026-10-11T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P4"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "veteriner",
+    "hukuk",
+    "maliye"
+   ],
+   "alintilar": {
+    "veteriner": "Veteriner",
+    "hukuk": "Öğretmen (Hukuk)",
+    "maliye": "Maliye"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
+  },
+  {
+   "id": "2252976",
+   "ilanNo": "YOK853479",
+   "baslik": "Şırnak Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "ŞIRNAK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ŞIRNAK",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-11T21:00:01Z",
+   "resmiGazete": "12.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2252976/kamu-akademik-personel-akademik-personel-alimlari-sirnak-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-11T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "endustri",
+    "mimarlik",
+    "fizik",
+    "veteriner",
+    "eczacilik",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "endustri": "c) Lisans ve Tezli Yüksek Lisans eğitimini Mobilya ve Dekorasyon Eğitimi Bölümünden yapmış olup Ağaç İşleri Endüstri Mühendisliği alanında doktora yapmış olmak. Yükseköğretim Kurumlarında en az 2 (iki) dönem ders vermiş olmak.",
+    "mimarlik": "d) Lisans Eğitimini Fakültelerin İç Mimarlık, İç Mimarlık ve Çevre Tasarımı, Mobilya ve Dekorasyon Öğretmenliği, Mobilya ve Dekorasyon Eğitimi, Ağaç İşleri Endüstri Mühendisliği Bölümlerin birinden yapmış olmak ve ilgili alanda Tezli Yüksek lisans yapmış ol…",
+    "fizik": "a) Fizik lisans mezunu olup, Yüksek Lisans ve Doktorasını fizik alanında yapmış olmak. İnce film güneş hücreleri konusunda çalışmalar yapmış olmak ve TÜBİTAK destekli projelerde görev almış olmak.",
+    "veteriner": "2) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
+    "eczacilik": "2) Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
+    "uluslararasi-iliskiler": "4) Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
+   },
+   "sonBasvuru": "2026-10-26",
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
+  },
+  {
+   "id": "2252975",
+   "ilanNo": "YOK853478",
+   "baslik": "Şırnak Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "ŞIRNAK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ŞIRNAK",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-11T21:00:01Z",
+   "resmiGazete": "12.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2252975/kamu-akademik-personel-akademik-personel-alimlari-sirnak-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-11T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "makine",
+    "ziraat",
+    "isletme",
+    "sosyal-hizmet"
+   ],
+   "alintilar": {
+    "makine": "g) Doçentliğini Makine Mühendisliği alanında almış olmak. Alternatif yakıt ve güneş enerjisi konularında çalışmalar yapmış olmak.",
+    "ziraat": "Bahçe Bitkileri",
+    "isletme": "İşletme",
+    "sosyal-hizmet": "Sosyal Hizmet"
+   },
+   "sonBasvuru": "2026-10-26",
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
   },
   {
    "id": "2252995",
@@ -3855,7 +3860,7 @@
    "resmiGazete": "09.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2250868/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-savunma-sanayii-baskanligi-22-uzman-yardimcisi-alacak",
    "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P1",
@@ -3894,7 +3899,8 @@
     "iktisat": "-İktisat",
     "isletme": "- Gemi Makineleri İşletme Mühendisliği"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
   },
   {
    "id": "2250872",
@@ -5198,7 +5204,7 @@
    "resmiGazete": "03.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2244449/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-adalet-bakanligi-150-icra-muduru-ve-icra-mudur-yardimcisi alacak",
    "ilkGorulme": "2026-10-02T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -5212,7 +5218,8 @@
     "matematik": "b) Matematik, (10)",
     "hukuk": "c) Hukuk fakültesi, adalet meslek yüksekokulu, meslek yüksekokullarının adalet bölümü veya adalet meslek eğitimi ön lisans programı mezunu olmak ve öğrenim yabancı ülkede yapılmış ise denklik belgesi almış olmak,"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
   },
   {
    "id": "2244735",
@@ -5777,7 +5784,7 @@
    "resmiGazete": "17.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2227126/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-sermaye-piyasasi-kurulu-personel-alim-ilani",
    "ilkGorulme": "2026-09-16T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P1",
@@ -5812,7 +5819,8 @@
     "maliye": "- Üniversitelerin 4 yıllık eğitim veren Siyasal Bilgiler, İktisadi ve İdari Bilimler, İktisat, İşletme, İşletme ve Ekonomi, İşletme ve Yönetim Bilimleri, Hukuk, Fen, Fen-Edebiyat, Mühendislik, Ticari Bilimler, İktisadi, İdari ve Sosyal Bilimler, Uygulamalı …",
     "uluslararasi-iliskiler": "- Üniversitelerin 4 yıllık eğitim veren Siyasal Bilgiler, İktisadi ve İdari Bilimler, İktisat, İşletme, İşletme ve Ekonomi, İşletme ve Yönetim Bilimleri, Hukuk, Fen, Fen-Edebiyat, Mühendislik, Ticari Bilimler, İktisadi, İdari ve Sosyal Bilimler, Uygulamalı …"
    },
-   "sonBasvuru": "2026-10-26"
+   "sonBasvuru": "2026-10-26",
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
   },
   {
    "id": "2226095",
@@ -5978,7 +5986,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2220817/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-uzman-yardimciligi-giris-sinavi-duyurusu",
    "ilkGorulme": "2026-09-14T21:00:00Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3",
@@ -6003,7 +6011,8 @@
     "isletme": "İşletme programı ile bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt içindeki veya yurt dışındaki öğretim kurumlarından mezun olmak.",
     "maliye": "Maliye programı ile bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt içindeki veya yurt dışındaki öğretim kurumlarından mezun olmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-26T23:01:40.096Z"
   },
   {
    "id": "2222188",
