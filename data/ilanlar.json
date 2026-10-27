@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-27T19:49:49.027Z",
+ "sonGuncelleme": "2026-10-27T23:31:12.433Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3089,31 +3089,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2257591",
-   "ilanNo": "YOK853495",
-   "baslik": "Düzeltme İlanı (Necmettin Erbakan Üniversitesi Rektörlüğü)",
-   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KONYA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-14T21:00:01Z",
-   "resmiGazete": "15.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2257591/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-necmettin-erbakan-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "hemsirelik"
-   ],
-   "alintilar": {
-    "hemsirelik": "Seydişehir Kamil Akkanat Sağlık Bilimleri Fakültesi/Hemşirelik/Çocuk"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2257588",
    "ilanNo": "YOK853494",
    "baslik": "Belek Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
@@ -3282,6 +3257,32 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-11-06"
+  },
+  {
+   "id": "2257591",
+   "ilanNo": "YOK853495",
+   "baslik": "Düzeltme İlanı (Necmettin Erbakan Üniversitesi Rektörlüğü)",
+   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KONYA",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-14T21:00:01Z",
+   "resmiGazete": "15.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2257591/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-necmettin-erbakan-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-10-14T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "hemsirelik"
+   ],
+   "alintilar": {
+    "hemsirelik": "Seydişehir Kamil Akkanat Sağlık Bilimleri Fakültesi/Hemşirelik/Çocuk"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2256365",
@@ -3548,94 +3549,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2254672",
-   "ilanNo": "YOK853485",
-   "baslik": "Necmettin Erbakan Üniversitesi Öğretim Görevlisi Alım İlanı",
-   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KONYA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254672/kamu-akademik-personel-akademik-personel-alimlari-necmettin-erbakan-universitesi-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "istatistik",
-    "veteriner",
-    "hemsirelik",
-    "eczacilik",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği programı lisans mezunu olmak. Bilgisayar Mühendisliği alanında tezli yüksek lisans yapıyor olmak.",
-    "istatistik": "İstatistik/",
-    "veteriner": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, ilgili yönetmeliğin 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak…",
-    "hemsirelik": "Akkanat Sağlık Bilimleri Fakültesi/ Hemşirelik/ Çocuk Sağlığı ve",
-    "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, ilgili yönetmeliğin 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak…",
-    "uluslararasi-iliskiler": "4- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
-   },
-   "sonBasvuru": "2026-10-28"
-  },
-  {
-   "id": "2254634",
-   "ilanNo": "DPB845511",
-   "baslik": "Orta Karadeniz Kalkınma Ajansı Personel Alım İlanı",
-   "kurum": "ORTA KARADENİZ KALKINMA AJANSI GENEL SEKRETERLİĞİ",
-   "sehir": "SAMSUN",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254634/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-orta-karadeniz-kalkinma-ajansi-personel-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P1",
-    "P2",
-    "P90"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "gida",
-    "elektrik-elektronik",
-    "bilgisayar",
-    "endustri",
-    "cevre",
-    "metalurji",
-    "mimarlik",
-    "sehir-planlama",
-    "iktisat",
-    "isletme",
-    "kamu-yonetimi",
-    "maliye",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "gida": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "elektrik-elektronik": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "bilgisayar": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "endustri": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "cevre": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "metalurji": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "mimarlik": "Şehir ve Bölge Planlama, Mimarlık",
-    "sehir-planlama": "Şehir ve Bölge Planlama, Mimarlık",
-    "iktisat": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği",
-    "isletme": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "kamu-yonetimi": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği",
-    "maliye": "Maliye,",
-    "uluslararasi-iliskiler": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği"
-   },
-   "sonBasvuru": "2026-11-22"
-  },
-  {
    "id": "2254593",
    "ilanNo": "DPB845510",
    "baslik": "Mevlana Kalkınma Ajansı Personel Alım İlanı",
@@ -3682,6 +3595,96 @@
    "sonBasvuru": "2026-11-20"
   },
   {
+   "id": "2254672",
+   "ilanNo": "YOK853485",
+   "baslik": "Necmettin Erbakan Üniversitesi Öğretim Görevlisi Alım İlanı",
+   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KONYA",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-12T21:00:01Z",
+   "resmiGazete": "13.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2254672/kamu-akademik-personel-akademik-personel-alimlari-necmettin-erbakan-universitesi-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-10-12T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar",
+    "istatistik",
+    "veteriner",
+    "hemsirelik",
+    "eczacilik",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "bilgisayar": "Bilgisayar Mühendisliği programı lisans mezunu olmak. Bilgisayar Mühendisliği alanında tezli yüksek lisans yapıyor olmak.",
+    "istatistik": "İstatistik/",
+    "veteriner": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, ilgili yönetmeliğin 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak…",
+    "hemsirelik": "Akkanat Sağlık Bilimleri Fakültesi/ Hemşirelik/ Çocuk Sağlığı ve",
+    "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, ilgili yönetmeliğin 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak…",
+    "uluslararasi-iliskiler": "4- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
+   },
+   "sonBasvuru": "2026-10-28",
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
+  },
+  {
+   "id": "2254634",
+   "ilanNo": "DPB845511",
+   "baslik": "Orta Karadeniz Kalkınma Ajansı Personel Alım İlanı",
+   "kurum": "ORTA KARADENİZ KALKINMA AJANSI GENEL SEKRETERLİĞİ",
+   "sehir": "SAMSUN",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-10-12T21:00:01Z",
+   "resmiGazete": "13.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2254634/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-orta-karadeniz-kalkinma-ajansi-personel-alim-ilani",
+   "ilkGorulme": "2026-10-12T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P1",
+    "P2",
+    "P90"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "gida",
+    "elektrik-elektronik",
+    "bilgisayar",
+    "endustri",
+    "cevre",
+    "metalurji",
+    "mimarlik",
+    "sehir-planlama",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "maliye",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "gida": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "elektrik-elektronik": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "bilgisayar": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "endustri": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "cevre": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "metalurji": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "mimarlik": "Şehir ve Bölge Planlama, Mimarlık",
+    "sehir-planlama": "Şehir ve Bölge Planlama, Mimarlık",
+    "iktisat": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği",
+    "isletme": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
+    "kamu-yonetimi": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği",
+    "maliye": "Maliye,",
+    "uluslararasi-iliskiler": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği"
+   },
+   "sonBasvuru": "2026-11-22",
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
+  },
+  {
    "id": "2254541",
    "ilanNo": "YOK853484",
    "baslik": "Ondokuz Mayıs Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
@@ -3692,7 +3695,7 @@
    "resmiGazete": "13.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2254541/kamu-akademik-personel-akademik-personel-alimlari-ondokuz mayis universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3728,7 +3731,8 @@
     "isletme": "İşletme Yönetimi",
     "psikoloji": "Rehberlik ve Psikolojik Danışmanlık"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2254540",
@@ -3741,7 +3745,7 @@
    "resmiGazete": "13.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2254540/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-istanbul-teknik-universitesi-rektorlugu-personel-alim-ilani",
    "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P93",
@@ -3752,7 +3756,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-27"
+   "sonBasvuru": "2026-10-27",
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2252977",
@@ -5711,7 +5716,7 @@
    "resmiGazete": "30.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2240011/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-iptal-ilani-cukurkuyu-belediye-baskanligi-",
    "ilkGorulme": "2026-09-29T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -5719,7 +5724,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2238204",
@@ -5944,7 +5950,7 @@
    "resmiGazete": "21.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2228917/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dogu-marmara-kalkinma-ajansi-personel-alim-ilani",
    "ilkGorulme": "2026-09-20T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P1",
@@ -5986,7 +5992,8 @@
     "maliye": "İşletme, İktisat, Maliye, Çalışma Ekonomisi ve Endüstri İlişkileri",
     "sosyoloji": "• Kalkınma kuramları, bölgesel ve yerel kalkınma, kent sosyolojisi ve sosyal kalkınma, kırsal kalkınma,"
    },
-   "sonBasvuru": "2026-10-27"
+   "sonBasvuru": "2026-10-27",
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2228897",
@@ -5999,7 +6006,7 @@
    "resmiGazete": "19.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2228897/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cukurkuyu-belediye-baskanligi-zabita-memuru-alim-ilani",
    "ilkGorulme": "2026-09-18T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": false,
@@ -6007,7 +6014,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-27"
+   "sonBasvuru": "2026-10-27",
+   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2227279",
