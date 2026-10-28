@@ -1,7 +1,217 @@
 {
- "sonGuncelleme": "2026-10-28T04:14:12.556Z",
+ "sonGuncelleme": "2026-10-28T10:44:05.524Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2271555",
+   "ilanNo": "DPB845545",
+   "baslik": "Cumhurbaşkanlığı Milli Saraylar İdaresi Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "kurum": "CUMHURBAŞKANLIĞI MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI",
+   "sehir": "İSTANBUL",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271555/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-milli-saraylar-idaresi-baskanligi-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
+   "id": "2271489",
+   "ilanNo": "DPB845544",
+   "baslik": "Burdur Mehmet Akif Ersoy Üniversitesi Sözleşmeli Bilişim Personeli Alım İlanı",
+   "kurum": "BURDUR M.AKİF ERSOY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "BURDUR",
+   "kategori": "Sözleşmeli Bilişim Personeli İstihdamı",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271489/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-burdur-mehmet-akif-ersoy-universitesi-sozlesmeli-bilisim-personeli-alim-ilani",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "yazilim",
+    "endustri",
+    "isletme"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "elektrik": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "bilgisayar": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "yazilim": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "endustri": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "isletme": "p) Merkezi kimlik doğrulama sistemleri (FreeRADIUS) kurulum ve işletme konularında bilgi sahibi olmak,"
+   },
+   "sonBasvuru": "2026-11-11"
+  },
+  {
+   "id": "2271463",
+   "ilanNo": "DPB845543",
+   "baslik": "Elazığ İl Özel İdaresi Sözleşmeli Personel Alım İlanı",
+   "kurum": "ELAZIĞ İL ÖZEL İDARESİ",
+   "sehir": "ELAZIĞ",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271463/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-elazig-il-ozel-idaresi-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "psikoloji"
+   ],
+   "alintilar": {
+    "psikoloji": "Psikolog"
+   },
+   "sonBasvuru": "2026-12-09"
+  },
+  {
+   "id": "2271454",
+   "ilanNo": "YOK853563",
+   "baslik": "İptal İlanı (Alanya Alaaddin Keykubat Üniversitesi Rektörlüğünden)",
+   "kurum": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANTALYA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271454/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-alanya alaaddin keykubat universitesi rektorlugunden-",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "endustri"
+   ],
+   "alintilar": {
+    "endustri": "Endüstri Mühendisliği"
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2271453",
+   "ilanNo": "YOK853562",
+   "baslik": "Yeditepe Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "YEDİTEPE ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271453/kamu-akademik-personel-akademik-personel-alimlari-yeditepe universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "istatistik",
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "sosyoloji"
+   ],
+   "alintilar": {
+    "istatistik": "İstatistik veya ekonometri alanında doktora yapmış olmak.",
+    "hukuk": "Hukuk Fakültesi",
+    "iktisat": "Ekonomi Bölümü",
+    "isletme": "İşletme Fakültesi",
+    "sosyoloji": "Hukuk Felsefesi ve Sosyolojisi Ana Bilim Dalı"
+   },
+   "sonBasvuru": "2026-11-12"
+  },
+  {
+   "id": "2271452",
+   "ilanNo": "YOK853561",
+   "baslik": "İstinye Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "İSTİNYE ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271452/kamu-akademik-personel-akademik-personel-alimlari-istinye-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": true,
+   "akademik": true,
+   "bolumler": [
+    "endustri",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "endustri": "İşletme, İktisat (Ekonomi),Uluslararası Ticaret (Uluslararası Ticaret ve Finansman), İşletme Mühendisliği, Endüstri Mühendisliği, Yönetim Bilişim Sistemleri, Finans (Uluslararası Finans, Bankacılık ve Finans) bölümlerinin herhangi birinden lisans düzeyinde …",
+    "iktisat": "Ekonomi Bölümü",
+    "isletme": "İşletme Bölümü",
+    "kamu-yonetimi": "Siyaset Bilimi ve",
+    "uluslararasi-iliskiler": "Siyaset Bilimi, Siyaset Bilimi ve Uluslararası İlişkiler, Uluslararası İlişkiler ile ilgili bir alandan tezli yüksek lisans veya doktora yapıyor olmak."
+   },
+   "sonBasvuru": "2026-11-11"
+  },
+  {
+   "id": "2271445",
+   "ilanNo": "YOK853560",
+   "baslik": "İstinye Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "İSTİNYE ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-27T21:00:01Z",
+   "resmiGazete": "28.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2271445/kamu-akademik-personel-akademik-personel-alimlari-istinye-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-28T10:44:05.524Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "bilgisayar",
+    "yazilim",
+    "mimarlik",
+    "fizik",
+    "iktisat",
+    "psikoloji"
+   ],
+   "alintilar": {
+    "bilgisayar": "Bilgisayar Mühendisliği",
+    "yazilim": "Bilgisayar Bilimleri, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Bilgisayar Mühendisliği veya Yapay Zeka Mühendisliği alanında Doktora derecesine sahip olmak ve ilgili konularda akademik çalışmalar yapmış olmak.",
+    "mimarlik": "Mimarlık Anabilim Dalı",
+    "fizik": "Fizik alanında Doktora ve Doçentlik derecesine sahip olmak. Metal yüzeylerin yapısal ve titreşimsel özellikleri alanında akademik çalışmalar yapmış olmak.",
+    "iktisat": "Ekonomi (İngilizce)*",
+    "psikoloji": "Psikoloji Bölümü"
+   },
+   "sonBasvuru": "2026-11-11"
+  },
   {
    "id": "2269849",
    "ilanNo": "DPB845542",
