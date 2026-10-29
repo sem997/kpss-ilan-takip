@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-28T21:36:49.725Z",
+ "sonGuncelleme": "2026-10-29T01:34:29.809Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -5976,7 +5976,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2236980/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-rehber-ogretmen-alinacaktir",
    "ilkGorulme": "2026-09-28T21:00:00Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -5984,7 +5984,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-29T01:34:29.809Z"
   },
   {
    "id": "2236934",
