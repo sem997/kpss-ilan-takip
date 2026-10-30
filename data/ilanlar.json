@@ -1,7 +1,115 @@
 {
- "sonGuncelleme": "2026-10-30T00:09:02.519Z",
+ "sonGuncelleme": "2026-10-30T06:13:17.214Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2272756",
+   "ilanNo": "YOK853566",
+   "baslik": "Kayseri Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272756/kamu-akademik-personel-akademik-personel-alimlari-kayseri-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "veteriner",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Bölümü Lisans Mezunu Olmak. Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Alanında Tezli Yüksek Lisans Yapmış Olmak. Yükseköğretim Kurumlarında En Az İki Yıl Eğitim-Öğretim Tecrübesin…",
+    "elektrik": "Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Bölümü Lisans Mezunu Olmak. Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Alanında Tezli Yüksek Lisans Yapmış Olmak. Yükseköğretim Kurumlarında En Az İki Yıl Eğitim-Öğretim Tecrübesin…",
+    "veteriner": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG- 3/3/202231767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadroları…",
+    "eczacilik": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG- 3/3/202231767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadroları…"
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2272751",
+   "ilanNo": "YOK853565",
+   "baslik": "Kayseri Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272751/kamu-akademik-personel-akademik-personel-alimlari-kayseri-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "insaat",
+    "harita"
+   ],
+   "alintilar": {
+    "insaat": "İnşaat Mühendisliği Ana Bilim Dalında Doktora Yapmış Olmak. Geopolimer Beton ve Biyopolimer Alanlarında Çalışmalar Yapmış Olmak.",
+    "harita": "Harita Mühendisliği Ana Bilim Dalında Doktora Yapmış Olmak. Veri Madenciliği ve Arazi Yönetimi Alanlarında Çalışmalar Yapmış Olmak."
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2272750",
+   "ilanNo": "YOK853564",
+   "baslik": "İptal İlanı (Boğaziçi Üniversitesi Rektörlüğü)",
+   "kurum": "BOĞAZİÇİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272750/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-bogazici-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Yapay Zeka veya Bilgisayar Bilimleri Ana Bilim Dallarından birinde veya Elektrik Elektronik Mühendisliği Bölümünde tezli yüksek lisans veya doktora yapıyor olmak."
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2272749",
+   "ilanNo": "DPB845546",
+   "baslik": "Asarcık Belediye Başkanlığı Memur Alım İlanı",
+   "kurum": "ASARCIK BELEDİYE BAŞKANLIĞI",
+   "sehir": "SAMSUN",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272749/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-asarcik-belediye-baskanligi-memur-alim-ilani",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "mimarlik"
+   ],
+   "alintilar": {
+    "mimarlik": "Mimar"
+   },
+   "sonBasvuru": "2026-12-03"
+  },
   {
    "id": "2271555",
    "ilanNo": "DPB845545",
