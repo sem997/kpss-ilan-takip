@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-30T13:19:53.477Z",
+ "sonGuncelleme": "2026-10-30T18:44:03.148Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3666,27 +3666,6 @@
    "sonBasvuru": "2026-11-02"
   },
   {
-   "id": "2258113",
-   "ilanNo": "ILN02571750",
-   "baslik": "Tercüman bilirkişi listesinin düzenlenmesine ilişkin ilan",
-   "kurum": "TOKAT ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOMİSYONU",
-   "sehir": "TOKAT",
-   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
-   "yayin": "2026-10-15T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2258113/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-bilirkisi-listesinin-duzenlenmesine-iliskin-ilan",
-   "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2259085",
    "ilanNo": "DPB845517",
    "baslik": "İskenderun Teknik Üniversitesi Rektörlüğünden İç Denetçi Alım İlanı",
@@ -3747,6 +3726,28 @@
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2258113",
+   "ilanNo": "ILN02571750",
+   "baslik": "Tercüman bilirkişi listesinin düzenlenmesine ilişkin ilan",
+   "kurum": "TOKAT ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOMİSYONU",
+   "sehir": "TOKAT",
+   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
+   "yayin": "2026-10-15T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2258113/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-bilirkisi-listesinin-duzenlenmesine-iliskin-ilan",
+   "ilkGorulme": "2026-10-15T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T18:44:03.148Z"
   },
   {
    "id": "2253698",
