@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-30T18:44:03.148Z",
+ "sonGuncelleme": "2026-10-30T22:47:47.158Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2432,31 +2432,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2262304",
-   "ilanNo": "YOK853527",
-   "baslik": "(Düzeltme İlanı) Uludağ Üniversitesi Rektörlüğü",
-   "kurum": "BURSA ULUDAĞ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "BURSA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-19T21:00:01Z",
-   "resmiGazete": "20.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2262304/kamu-akademik-personel-akademik-personel-alimlari--duzeltme-ilani-uludag-universitesi-rektorlugu",
-   "ilkGorulme": "2026-10-20T11:57:02.398Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "iktisat"
-   ],
-   "alintilar": {
-    "iktisat": "İKTİSAT"
-   },
-   "sonBasvuru": "2026-10-30"
-  },
-  {
    "id": "2262299",
    "ilanNo": "YOK853526",
    "baslik": "İbrahim Çeçen Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
@@ -2748,27 +2723,6 @@
    "sonBasvuru": "2026-11-04"
   },
   {
-   "id": "2262216",
-   "ilanNo": "YOK853517",
-   "baslik": "Düzeltme İlanı (Aksaray Üniversitesi Rektörlüğünden)",
-   "kurum": "AKSARAY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "AKSARAY",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-19T21:00:01Z",
-   "resmiGazete": "20.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2262216/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-aksaray universitesi rektorlugunden-",
-   "ilkGorulme": "2026-10-20T11:57:02.398Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2262215",
    "ilanNo": "YOK853516",
    "baslik": "İptal İlanı (Tarsus Üniversitesi Rektörlüğünden)",
@@ -2788,6 +2742,54 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": null
+  },
+  {
+   "id": "2262304",
+   "ilanNo": "YOK853527",
+   "baslik": "(Düzeltme İlanı) Uludağ Üniversitesi Rektörlüğü",
+   "kurum": "BURSA ULUDAĞ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "BURSA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-19T21:00:01Z",
+   "resmiGazete": "20.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2262304/kamu-akademik-personel-akademik-personel-alimlari--duzeltme-ilani-uludag-universitesi-rektorlugu",
+   "ilkGorulme": "2026-10-20T11:57:02.398Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "iktisat"
+   ],
+   "alintilar": {
+    "iktisat": "İKTİSAT"
+   },
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
+  },
+  {
+   "id": "2262216",
+   "ilanNo": "YOK853517",
+   "baslik": "Düzeltme İlanı (Aksaray Üniversitesi Rektörlüğünden)",
+   "kurum": "AKSARAY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "AKSARAY",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-19T21:00:01Z",
+   "resmiGazete": "20.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2262216/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-aksaray universitesi rektorlugunden-",
+   "ilkGorulme": "2026-10-20T11:57:02.398Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2261370",
@@ -3390,7 +3392,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259316/kamu-akademik-personel-akademik-personel-alimlari-istanbul-gedik-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3398,7 +3400,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259262",
@@ -3411,7 +3414,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259262/kamu-akademik-personel-akademik-personel-alimlari-istanbul-gedik-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3425,7 +3428,8 @@
     "metalurji": "Doçentliğini Malzeme ve Metalurji Mühendisliği alanında almış olmak. Kaynak Teknolojileri ve Kompozit Malzemeler konularında bilimsel çalışmalar yapmış olmak.",
     "hemsirelik": "Hemşirelik"
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259248",
@@ -3438,7 +3442,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259248/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turk-akreditasyon-kurumu-sozlesmeli-bilisim-personeli-sinav-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3460,7 +3464,8 @@
     "yazilim": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
     "endustri": "b) Fakültelerin dört yıllık bilgisayar mühendisliği, yazılım mühendisliği, elektrik mühendisliği, elektronik mühendisliği, elektrik ve elektronik mühendisliği ve endüstri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259125",
@@ -3473,7 +3478,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259125/kamu-akademik-personel-akademik-personel-alimlari-kocaeli-saglik-ve-teknoloji-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3487,7 +3492,8 @@
     "hemsirelik": "Hemşirelik Pr.",
     "isletme": "İşletme Pr."
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259123",
@@ -3500,7 +3506,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259123/kamu-akademik-personel-akademik-personel-alimlari-bursa-uludag-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3533,7 +3539,8 @@
     "isletme": "İŞLETME",
     "maliye": "Doçentliğini makro iktisat alanından almış olmak. Yeşil finans, yenilenebilir enerji, para ve maliye politikaları konularında çalışmalar yapmış olmak."
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259121",
@@ -3546,7 +3553,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259121/kamu-akademik-personel-akademik-personel-alimlari-kocaeli-saglik-ve-teknoloji-universitesi-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3564,7 +3571,8 @@
     "hemsirelik": "Hemşirelik Pr.",
     "isletme": "İşletme Pr."
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259120",
@@ -3577,7 +3585,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259120/kamu-akademik-personel-akademik-personel-alimlari-abdullah-gul-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3595,7 +3603,8 @@
     "iktisat": "Fakültelerin Ekonomi, Ekonometri, İktisat, Uluslararası Ticaret, Uluslararası Ticaret ve Finansman, Uluslararası Ticaret ve İşletmecilik, Uluslararası İşletme Yönetimi, Finans ve Bankacılık, İşletme veya İşletme Mühendisliği ile bu lisans programlarına eşde…",
     "isletme": "İşletme"
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259119",
@@ -3608,7 +3617,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259119/kamu-akademik-personel-akademik-personel-alimlari-abdullah-gul-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3622,7 +3631,8 @@
     "makine": "Makine Mühendisliği",
     "endustri": "Endüstri Mühendisliği"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259086",
@@ -3635,7 +3645,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259086/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turk-akreditasyon-kurumu-uzman-yardimciligi-giris-sinavi-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P2"
@@ -3663,7 +3673,8 @@
     "metalurji": "Metalurji ve Malzeme Mühendisliği lisans programından mezun olmak",
     "veteriner": "Veteriner lisans programından mezun olmak"
    },
-   "sonBasvuru": "2026-11-02"
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259085",
@@ -3676,7 +3687,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259085/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-iskenderun teknik universitesi rektorlugunden-ic-denetci-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3684,7 +3695,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2259083",
@@ -3697,7 +3709,7 @@
    "resmiGazete": "16.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2259083/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-sayistay baskanligindan-sozlesmeli-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3725,7 +3737,8 @@
     "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…",
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2258113",
@@ -3829,6 +3842,27 @@
    "sonBasvuru": "2026-12-04"
   },
   {
+   "id": "2257507",
+   "ilanNo": "YOK853490",
+   "baslik": "Başkent Üniversitesi Rektörlüğü Öğreti Üyesi Alım İlanı",
+   "kurum": "BAŞKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-14T21:00:01Z",
+   "resmiGazete": "15.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2257507/kamu-akademik-personel-akademik-personel-alimlari-baskent-universitesi-rektorlugu-ogreti-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-14T21:00:01Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": "2026-11-06"
+  },
+  {
    "id": "2257510",
    "ilanNo": "YOK853493",
    "baslik": "İnönü Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
@@ -3839,7 +3873,7 @@
    "resmiGazete": "15.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2257510/kamu-akademik-personel-akademik-personel-alimlari-inonu universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3855,7 +3889,8 @@
     "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
     "uluslararasi-iliskiler": "4- Yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 tarihli ve …"
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2257508",
@@ -3868,7 +3903,7 @@
    "resmiGazete": "15.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2257508/kamu-akademik-personel-akademik-personel-alimlari-aksaray universitesi rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3892,28 +3927,8 @@
     "iktisat": "Mali İktisat",
     "maliye": "Maliye"
    },
-   "sonBasvuru": "2026-10-30"
-  },
-  {
-   "id": "2257507",
-   "ilanNo": "YOK853490",
-   "baslik": "Başkent Üniversitesi Rektörlüğü Öğreti Üyesi Alım İlanı",
-   "kurum": "BAŞKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-14T21:00:01Z",
-   "resmiGazete": "15.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2257507/kamu-akademik-personel-akademik-personel-alimlari-baskent-universitesi-rektorlugu-ogreti-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-11-06"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2257588",
@@ -4477,48 +4492,6 @@
    "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
-   "id": "2252977",
-   "ilanNo": "DPB845505",
-   "baslik": "Tasarruf Mevduatı Sigorta Fonu Başkanlığından Fon Denetçi Yardımcısı, Fon Uzman Yardımcısı ve Fon Avukatı Alım İlanı",
-   "kurum": "TASARRUF MEVDUATI SİGORTA FONU BAŞKANLIĞI",
-   "sehir": "İSTANBUL",
-   "kategori": "A Grubu Kadro Alımları",
-   "yayin": "2026-10-11T21:00:01Z",
-   "resmiGazete": "12.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252977/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tasarruf mevduati sigorta fonu baskanligindan-fon-denetci-yardimcisi-fon-uzman-yardimcisi-ve-fon-avukati-alim-ilani",
-   "ilkGorulme": "2026-10-11T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3",
-    "P8",
-    "P9",
-    "P11",
-    "P16",
-    "P17"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "matematik",
-    "istatistik",
-    "hukuk",
-    "iktisat",
-    "isletme",
-    "maliye"
-   ],
-   "alintilar": {
-    "matematik": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
-    "istatistik": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
-    "hukuk": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
-    "iktisat": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
-    "isletme": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
-    "maliye": "c) Maliye Grubu Kamu Maliyesi Maliye Politikası Bütçe"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2252974",
    "ilanNo": "DPB845504",
    "baslik": "İstanbul Kalkınma Ajansı Personel Alım İlanı",
@@ -4573,6 +4546,49 @@
     "maliye": "Maliye"
    },
    "sonBasvuru": "2026-11-22"
+  },
+  {
+   "id": "2252977",
+   "ilanNo": "DPB845505",
+   "baslik": "Tasarruf Mevduatı Sigorta Fonu Başkanlığından Fon Denetçi Yardımcısı, Fon Uzman Yardımcısı ve Fon Avukatı Alım İlanı",
+   "kurum": "TASARRUF MEVDUATI SİGORTA FONU BAŞKANLIĞI",
+   "sehir": "İSTANBUL",
+   "kategori": "A Grubu Kadro Alımları",
+   "yayin": "2026-10-11T21:00:01Z",
+   "resmiGazete": "12.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2252977/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tasarruf mevduati sigorta fonu baskanligindan-fon-denetci-yardimcisi-fon-uzman-yardimcisi-ve-fon-avukati-alim-ilani",
+   "ilkGorulme": "2026-10-11T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P8",
+    "P9",
+    "P11",
+    "P16",
+    "P17"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "matematik",
+    "istatistik",
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "maliye"
+   ],
+   "alintilar": {
+    "matematik": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
+    "istatistik": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
+    "hukuk": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
+    "iktisat": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
+    "isletme": "• Üniversitelerin en az 4 (Dört) yıl süreli eğitim veren siyasal bilgiler, hukuk, iktisadi ve idari bilimler, iktisat ve işletme, bankacılık, bankacılık ve finans fakülteleri ve yüksekokulları ile mühendislik ve fen edebiyat fakültelerinin bilgisayar, yazıl…",
+    "maliye": "c) Maliye Grubu Kamu Maliyesi Maliye Politikası Bütçe"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2252980",
@@ -6265,27 +6281,6 @@
    "sonBasvuru": "2026-11-04"
   },
   {
-   "id": "2240651",
-   "ilanNo": "ILN02560210",
-   "baslik": "2027 Yılı Tercüman Bilirkişi İlanı",
-   "kurum": "ESKİŞEHİR ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOM. BAŞK.",
-   "sehir": "ESKİŞEHİR",
-   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
-   "yayin": "2026-10-01T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2240651/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-2027-yili-tercuman-bilirkisi-ilani",
-   "ilkGorulme": "2026-10-01T21:00:00Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2242996",
    "ilanNo": "DPB845488",
    "baslik": "Şile Belediye Başkanlığı Memur Alım İlanı",
@@ -6326,6 +6321,28 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-11-06"
+  },
+  {
+   "id": "2240651",
+   "ilanNo": "ILN02560210",
+   "baslik": "2027 Yılı Tercüman Bilirkişi İlanı",
+   "kurum": "ESKİŞEHİR ADLİ YARGI İLK DERECE MAHKEMESİ ADALET KOM. BAŞK.",
+   "sehir": "ESKİŞEHİR",
+   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
+   "yayin": "2026-10-01T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2240651/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-2027-yili-tercuman-bilirkisi-ilani",
+   "ilkGorulme": "2026-10-01T21:00:00Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
    "id": "2237196",
