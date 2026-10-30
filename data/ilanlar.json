@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-29T20:26:54.276Z",
+ "sonGuncelleme": "2026-10-30T00:09:02.519Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -1608,7 +1608,7 @@
    "resmiGazete": "22.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2265050/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-iptal-ilani-elmakaya-belediye-baskanligi-",
    "ilkGorulme": "2026-10-22T10:26:22.682Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -1616,7 +1616,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T00:09:02.519Z"
   },
   {
    "id": "2264127",
@@ -3300,37 +3301,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2257588",
-   "ilanNo": "YOK853494",
-   "baslik": "Belek Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "ANTALYA BELEK ÜNİVERSİTESİ",
-   "sehir": "ANTALYA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-14T21:00:01Z",
-   "resmiGazete": "15.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2257588/kamu-akademik-personel-akademik-personel-alimlari-belek-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "bilgisayar",
-    "yazilim",
-    "mimarlik"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "Doktorasını Bilgisayar Mühendisliği, Yazılım Mühendisliği ya da Elektrik Elektronik Mühendisliği alanında almış olmak.",
-    "bilgisayar": "Doçentliğini Bilgisayar Mühendisliği ya da Yazılım Mühendisliği alanında almış olmak.",
-    "yazilim": "Yazılım Mühendisliği",
-    "mimarlik": "Mühendislik Mimarlık"
-   },
-   "sonBasvuru": "2026-10-29"
-  },
-  {
    "id": "2257554",
    "ilanNo": "DPB845515",
    "baslik": "Ankara Büyükşehir Belediye Başkanlığı Müfettiş Yardımcısı Alım İlanı",
@@ -3391,27 +3361,6 @@
    "sonBasvuru": "2026-10-30"
   },
   {
-   "id": "2257509",
-   "ilanNo": "YOK853492",
-   "baslik": "Atatürk Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "ATATÜRK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ERZURUM",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-14T21:00:01Z",
-   "resmiGazete": "15.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2257509/kamu-akademik-personel-akademik-personel-alimlari-ataturk universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2257508",
    "ilanNo": "YOK853491",
    "baslik": "Aksaray Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
@@ -3468,6 +3417,60 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-11-06"
+  },
+  {
+   "id": "2257588",
+   "ilanNo": "YOK853494",
+   "baslik": "Belek Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "ANTALYA BELEK ÜNİVERSİTESİ",
+   "sehir": "ANTALYA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-14T21:00:01Z",
+   "resmiGazete": "15.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2257588/kamu-akademik-personel-akademik-personel-alimlari-belek-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-14T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "bilgisayar",
+    "yazilim",
+    "mimarlik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Doktorasını Bilgisayar Mühendisliği, Yazılım Mühendisliği ya da Elektrik Elektronik Mühendisliği alanında almış olmak.",
+    "bilgisayar": "Doçentliğini Bilgisayar Mühendisliği ya da Yazılım Mühendisliği alanında almış olmak.",
+    "yazilim": "Yazılım Mühendisliği",
+    "mimarlik": "Mühendislik Mimarlık"
+   },
+   "sonBasvuru": "2026-10-29",
+   "kaldirilma": "2026-10-30T00:09:02.519Z"
+  },
+  {
+   "id": "2257509",
+   "ilanNo": "YOK853492",
+   "baslik": "Atatürk Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "ATATÜRK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ERZURUM",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-14T21:00:01Z",
+   "resmiGazete": "15.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2257509/kamu-akademik-personel-akademik-personel-alimlari-ataturk universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-14T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-30T00:09:02.519Z"
   },
   {
    "id": "2257591",
