@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-31T19:27:16.353Z",
+ "sonGuncelleme": "2026-10-31T22:43:29.066Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -1928,6 +1928,45 @@
    "sonBasvuru": null
   },
   {
+   "id": "2265071",
+   "ilanNo": "YOK853534",
+   "baslik": "İstanbul Beykent Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "İSTANBUL BEYKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-21T21:00:01Z",
+   "resmiGazete": "22.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2265071/kamu-akademik-personel-akademik-personel-alimlari-istanbul beykent universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-22T10:26:22.682Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "bilgisayar",
+    "yazilim",
+    "insaat",
+    "mimarlik",
+    "matematik",
+    "istatistik",
+    "iktisat"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Elektrik Elektronik Mühendisliği",
+    "bilgisayar": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Bilişim Sistemleri ve Teknolojileri, Veri Bilimi ve Analiti…",
+    "yazilim": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Bilişim Sistemleri ve Teknolojileri, Veri Bilimi ve Analiti…",
+    "insaat": "İnşaat Mühendisliği (İngilizce)",
+    "mimarlik": "Üniversitemize 2547 Sayılı Yükseköğretim Kanunu ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği” ile “İstanbul Beykent Üniversitesi Öğretim Üyeliğine Yükseltme ve Atama Yönergesi” ( https://www.beykent.edu.tr/yonetmelikler-yonergeler/yonergeler ) hük…",
+    "matematik": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Bilişim Sistemleri ve Teknolojileri, Veri Bilimi ve Analiti…",
+    "istatistik": "İstatistik ve Bilgisayar Bilimleri",
+    "iktisat": "İktisat (İngilizce)"
+   },
+   "sonBasvuru": "2026-11-05"
+  },
+  {
    "id": "2265072",
    "ilanNo": "DPB845532",
    "baslik": "Galatasaray Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
@@ -1969,45 +2008,6 @@
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin, bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik b…"
    },
    "sonBasvuru": null
-  },
-  {
-   "id": "2265071",
-   "ilanNo": "YOK853534",
-   "baslik": "İstanbul Beykent Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "İSTANBUL BEYKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-21T21:00:01Z",
-   "resmiGazete": "22.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2265071/kamu-akademik-personel-akademik-personel-alimlari-istanbul beykent universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-22T10:26:22.682Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "bilgisayar",
-    "yazilim",
-    "insaat",
-    "mimarlik",
-    "matematik",
-    "istatistik",
-    "iktisat"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "Elektrik Elektronik Mühendisliği",
-    "bilgisayar": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Bilişim Sistemleri ve Teknolojileri, Veri Bilimi ve Analiti…",
-    "yazilim": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Bilişim Sistemleri ve Teknolojileri, Veri Bilimi ve Analiti…",
-    "insaat": "İnşaat Mühendisliği (İngilizce)",
-    "mimarlik": "Üniversitemize 2547 Sayılı Yükseköğretim Kanunu ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği” ile “İstanbul Beykent Üniversitesi Öğretim Üyeliğine Yükseltme ve Atama Yönergesi” ( https://www.beykent.edu.tr/yonetmelikler-yonergeler/yonergeler ) hük…",
-    "matematik": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Bilişim Sistemleri ve Teknolojileri, Veri Bilimi ve Analiti…",
-    "istatistik": "İstatistik ve Bilgisayar Bilimleri",
-    "iktisat": "İktisat (İngilizce)"
-   },
-   "sonBasvuru": "2026-11-05"
   },
   {
    "id": "2265055",
@@ -3301,7 +3301,7 @@
    "resmiGazete": "17.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2261184/kamu-akademik-personel-akademik-personel-alimlari-istanbul esenyurt universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3317,7 +3317,8 @@
     "hemsirelik": "Ebelik veya Hemşirelik Bölümlerinden birinden lisans mezunu olmak ve Ebelik, Doğum ve Kadın Hastalıkları Hemşireliği, Çocuk Sağlığı ve Hastalıkları Hemşireliği alanlarından birinde tezli yüksek lisans yapmış olmak.",
     "iktisat": "Bankacılık, Bankacılık ve Sigortacılık, Sigortacılık, Finans ve Bankacılık, Uluslararası Finans ve Bankacılık, Ekonomi ve Finans veya İktisat bölümlerinin birinden lisans mezunu olup, ilgili alanda tezli yüksek lisans yapmış olmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2261176",
@@ -3330,7 +3331,7 @@
    "resmiGazete": "17.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2261176/kamu-akademik-personel-akademik-personel-alimlari-istanbul esenyurt universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3354,7 +3355,8 @@
     "iktisat": "Doktorasını İktisat alanında yapmış olmak. Bankacılık, İktisat Politikaları alanlarında akademik çalışmalar yapmış olmak. Yükseköğretim kurumlarında ders verme deneyimine sahip olmak.",
     "isletme": "İşletme ve Yönetim Bilimleri Fakültesi"
    },
-   "sonBasvuru": "2026-10-31"
+   "sonBasvuru": "2026-10-31",
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2260891",
@@ -3367,7 +3369,7 @@
    "resmiGazete": "17.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260891/kamu-akademik-personel-akademik-personel-alimlari-bursa-uludag-universitesi-duzeltme-ilani-",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3379,7 +3381,8 @@
    "alintilar": {
     "hemsirelik": "HEMŞİRELİK"
    },
-   "sonBasvuru": "2026-10-30"
+   "sonBasvuru": "2026-10-30",
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2259316",
@@ -4249,7 +4252,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2255032/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-2027-yili-istanbul-ili-tercuman-listesine-basvuru-ilani",
    "ilkGorulme": "2026-10-13T21:00:00Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -4257,7 +4260,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2254190",
@@ -5303,7 +5307,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2246674/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercumanlik-yapacaklarin-listesi-ile-ilgili-duyuru",
    "ilkGorulme": "2026-10-06T21:00:00Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -5311,7 +5315,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2247946",
@@ -5847,7 +5852,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2243231/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercumanlik-bilirkisi-listelerine-basvuru-duyurusu",
    "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -5855,7 +5860,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2244869",
@@ -6587,7 +6593,7 @@
    "resmiGazete": "22.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2230483/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-duzeltme-ilani-bati-akdeniz-kalkinma-ajansi-",
    "ilkGorulme": "2026-09-21T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -6595,7 +6601,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-10-31"
+   "sonBasvuru": "2026-10-31",
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2229184",
@@ -7048,7 +7055,7 @@
    "resmiGazete": "14.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2222188/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bati-akdeniz-kalkinma-ajansi-personel-alim-ilani",
    "ilkGorulme": "2026-09-13T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -7084,7 +7091,8 @@
     "kamu-yonetimi": "İktisat, Ekonomi, Maliye, İstatistik, Ekonometri, İşletme, Finans ve Bankacılık, Muhasebe ve Finans Yönetimi, Kamu Yönetimi",
     "maliye": "İktisat, Ekonomi, Maliye, İstatistik, Ekonometri, İşletme, Finans ve Bankacılık, Muhasebe ve Finans Yönetimi, Kamu Yönetimi"
    },
-   "sonBasvuru": "2026-10-23"
+   "sonBasvuru": "2026-10-23",
+   "kaldirilma": "2026-10-31T22:43:29.066Z"
   },
   {
    "id": "2188158",
