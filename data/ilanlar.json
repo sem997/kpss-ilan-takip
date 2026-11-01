@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-01T20:14:16.137Z",
+ "sonGuncelleme": "2026-11-01T23:46:36.219Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3240,7 +3240,7 @@
    "resmiGazete": "18.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260916/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-izmir-ili-karabaglar-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -3252,7 +3252,8 @@
    "alintilar": {
     "cevre": "Lisans düzeyinde eğitim veren kurumların çevre mühendisliği programından mezun olmak, En az (B) sınıfı sürücü belgesine sahip olmak."
    },
-   "sonBasvuru": "2026-12-04"
+   "sonBasvuru": "2026-12-04",
+   "kaldirilma": "2026-11-01T23:46:36.219Z"
   },
   {
    "id": "2260900",
@@ -3265,7 +3266,7 @@
    "resmiGazete": "18.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260900/kamu-akademik-personel-akademik-personel-alimlari-alparslan-turkes-bilim-ve-teknoloji-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3289,7 +3290,8 @@
     "uluslararasi-iliskiler": "Uluslararası İlişkiler",
     "psikoloji": "Psikoloji"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-01T23:46:36.219Z"
   },
   {
    "id": "2261184",
