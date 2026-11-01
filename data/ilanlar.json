@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-10-31T22:43:29.066Z",
+ "sonGuncelleme": "2026-11-01T01:52:58.234Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2232,27 +2232,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2261868",
-   "ilanNo": "ILN02574268",
-   "baslik": "Tercüman listesi başvuruları hakkında duyuru",
-   "kurum": "YALOVA CUMHURİYET BAŞSAVCILIĞI",
-   "sehir": "YALOVA",
-   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
-   "yayin": "2026-10-20T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2261868/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-listesi-basvurulari-hakkinda-duyuru",
-   "ilkGorulme": "2026-10-21T13:04:21.708Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2263556",
    "ilanNo": "DPB845528",
    "baslik": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
@@ -2339,6 +2318,28 @@
     "psikoloji": "Psikoloji lisans mezunu olmak. Klinik psikoloji alanında doktora yapmış olmak. Engelli bakımı ve rehabilitasyon programı alanında deneyimli olmak ve engelli bakım hizmeti alanında bilimsel çalışmaları bulunmak."
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2261868",
+   "ilanNo": "ILN02574268",
+   "baslik": "Tercüman listesi başvuruları hakkında duyuru",
+   "kurum": "YALOVA CUMHURİYET BAŞSAVCILIĞI",
+   "sehir": "YALOVA",
+   "kategori": "Adli ve İdari Bilirkişi Başvuruları",
+   "yayin": "2026-10-20T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2261868/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tercuman-listesi-basvurulari-hakkinda-duyuru",
+   "ilkGorulme": "2026-10-21T13:04:21.708Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-01T01:52:58.234Z"
   },
   {
    "id": "2264013",
