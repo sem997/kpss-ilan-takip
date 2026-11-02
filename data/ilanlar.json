@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-02T13:08:00.305Z",
+ "sonGuncelleme": "2026-11-02T22:24:37.442Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3338,6 +3338,31 @@
    "sonBasvuru": "2026-12-03"
   },
   {
+   "id": "2260956",
+   "ilanNo": "YOK853508",
+   "baslik": "Koç Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "KOÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-18T21:00:01Z",
+   "resmiGazete": "19.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2260956/kamu-akademik-personel-akademik-personel-alimlari-koc-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-19T11:04:22.711Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "uluslararasi-iliskiler": "Uluslararası İlişkiler"
+   },
+   "sonBasvuru": null
+  },
+  {
    "id": "2261215",
    "ilanNo": "YOK853515",
    "baslik": "İzmir Bakırçay Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
@@ -3348,7 +3373,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2261215/kamu-akademik-personel-akademik-personel-alimlari-izmir bakircay universitesi rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3368,7 +3393,8 @@
     "eczacilik": "• Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğr…",
     "hukuk": "Hukuk Fakültesi Kamu Hukuku Bölümü Hukuk Tarihi Anabilim Dalı"
    },
-   "sonBasvuru": "2026-11-02"
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2261214",
@@ -3381,7 +3407,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2261214/kamu-akademik-personel-akademik-personel-alimlari-izmir bakircay universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3407,7 +3433,8 @@
     "iktisat": "Doçentlik ünvanını Endüstri Mühendisliği alanında almış olmak. Tedarik zincirlerinde dayanıklılık, sürdürülebilirlik ve döngüsel ekonomi ile sistem dinamiği ve optimizasyon konularında bilimsel çalışmalar yapmış olmak.",
     "psikoloji": "Yüksek lisans, doktora ve doçentliğini Psikiyatri Hemşireliği alanında almış olmak. Standart hastayla iletişim eğitimi, ortoreksiya, uyku kalitesi ve psikolojik sağlamlık konularında bilimsel çalışmalar yapmış olmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2261015",
@@ -3420,7 +3447,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2261015/kamu-akademik-personel-akademik-personel-alimlari-kirikkale-universitesi-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3448,7 +3475,8 @@
     "maliye": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ / MALİYE BÖLÜMÜ",
     "psikoloji": "Rehberlik ve Psikolojik Danışmanlık"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2261004",
@@ -3461,7 +3489,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2261004/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-uzman-yardimciligi-giris-sinav-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P1",
@@ -3490,7 +3518,8 @@
     "isletme": "2- 13 adet uzman yardımcısı (genel alan) kadrosu için: Üniversitelerin en az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler ile ticari bilimler fakültelerinden veya bunlara denkliği Yükseköğretim Kurul…",
     "maliye": "2- Maliye: (maliye teorisi, kamu maliyesi, maliye politikası, bütçe, vergi hukuku ve Türk vergi sistemi),"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2260973",
@@ -3503,7 +3532,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260973/kamu-akademik-personel-akademik-personel-alimlari-konak-meslek-yuksekokulu-mudurlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3517,7 +3546,8 @@
     "elektrik-elektronik": "Elektrik Mühendisliği, Elektronik Mühendisliği veya Elektrik-Elektronik Mühendisliği programından lisans mezunu olup, herhangi bir alanda tezli yüksek lisans yapmış olmak.",
     "elektrik": "Elektrik Mühendisliği, Elektronik Mühendisliği veya Elektrik-Elektronik Mühendisliği programından lisans mezunu olup, herhangi bir alanda tezli yüksek lisans yapmış olmak."
    },
-   "sonBasvuru": "2026-11-02"
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2260966",
@@ -3530,7 +3560,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260966/kamu-akademik-personel-akademik-personel-alimlari-dicle-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3548,32 +3578,8 @@
     "veteriner": "Veteriner Fakültesi",
     "eczacilik": "Eczacılık Fakültesi"
    },
-   "sonBasvuru": "2026-11-02"
-  },
-  {
-   "id": "2260956",
-   "ilanNo": "YOK853508",
-   "baslik": "Koç Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "KOÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-18T21:00:01Z",
-   "resmiGazete": "19.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2260956/kamu-akademik-personel-akademik-personel-alimlari-koc-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "uluslararasi-iliskiler": "Uluslararası İlişkiler"
-   },
-   "sonBasvuru": null
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2260944",
@@ -3586,7 +3592,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260944/kamu-akademik-personel-akademik-personel-alimlari-ekonomi-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3608,7 +3614,8 @@
     "kamu-yonetimi": "Siyaset Bilimi, Uluslararası İlişkiler, İktisat, İşletme, Enerji Yönetimi, Sürdürülebilir Enerji, Enerji Ekonomisi ve Politikası, Enerji Hukuku veya Sosyal Çevre Bilimleri programlarının birinde Tezli Yüksek Lisans yapıyor olmak veya bu programların birinde…",
     "uluslararasi-iliskiler": "Siyaset Bilimi, Uluslararası İlişkiler, İktisat, İşletme, Enerji Yönetimi, Sürdürülebilir Enerji, Enerji Ekonomisi ve Politikası, Enerji Hukuku veya Sosyal Çevre Bilimleri programlarının birinde Tezli Yüksek Lisans yapıyor olmak veya bu programların birinde…"
    },
-   "sonBasvuru": "2026-11-02"
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2260904",
@@ -3621,7 +3628,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260904/kamu-akademik-personel-akademik-personel-alimlari-ekonomi-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3637,7 +3644,8 @@
     "hemsirelik": "Hemşirelik",
     "iktisat": "İzmir Ekonomi Üniversitesi Rektörlüğünden:"
    },
-   "sonBasvuru": "2026-11-02"
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2261344",
@@ -4229,33 +4237,6 @@
    "kaldirilma": "2026-10-30T18:44:03.148Z"
   },
   {
-   "id": "2253698",
-   "ilanNo": "ILN02568517",
-   "baslik": "Proje Teknik Elemanı Alım İlanı",
-   "kurum": "MERSİN İLİ DAMIZLIK KOYUN-KEÇİ YETİŞTİRİCİLERİ BİRLİĞİ",
-   "sehir": "MERSİN",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-15T21:00:00Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2253698/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-proje teknik-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-15T21:00:01Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "ziraat",
-    "veteriner"
-   ],
-   "alintilar": {
-    "ziraat": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…",
-    "veteriner": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2256657",
    "ilanNo": "ILN02570715",
    "baslik": "Personel Alımı Duyurusu",
@@ -4275,6 +4256,34 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": null
+  },
+  {
+   "id": "2253698",
+   "ilanNo": "ILN02568517",
+   "baslik": "Proje Teknik Elemanı Alım İlanı",
+   "kurum": "MERSİN İLİ DAMIZLIK KOYUN-KEÇİ YETİŞTİRİCİLERİ BİRLİĞİ",
+   "sehir": "MERSİN",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-15T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2253698/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-proje teknik-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-15T21:00:01Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "ziraat",
+    "veteriner"
+   ],
+   "alintilar": {
+    "ziraat": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…",
+    "veteriner": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2257554",
@@ -5667,7 +5676,7 @@
    "resmiGazete": "08.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2249323/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bankacilik-duzenleme-ve-denetleme-kurumu-sozlesmeli-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-10-07T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -5695,7 +5704,8 @@
     "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik bö…",
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik bö…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2249332",
@@ -7110,7 +7120,7 @@
    "resmiGazete": "20.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2229085/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-istanbul-buyuksehir-belediye-baskanligi-iett-isletmeleri-genel-mudurlugu-memur-alim-ilani",
    "ilkGorulme": "2026-09-20T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -7146,7 +7156,8 @@
     "maliye": "-Maliye, muhasebe ve maliye, yönetim bilişim sistemleri lisans programlarının birinden mezun olmak.",
     "psikoloji": "Psikolog"
    },
-   "sonBasvuru": "2026-11-02"
+   "sonBasvuru": "2026-11-02",
+   "kaldirilma": "2026-11-02T22:24:37.442Z"
   },
   {
    "id": "2228917",
