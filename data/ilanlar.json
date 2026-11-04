@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-04T15:08:15.902Z",
+ "sonGuncelleme": "2026-11-04T21:25:07.960Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2967,6 +2967,31 @@
    "sonBasvuru": null
   },
   {
+   "id": "2263556",
+   "ilanNo": "DPB845528",
+   "baslik": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "kurum": "DOĞANYOL BELEDİYE BAŞKANLIĞI",
+   "sehir": "MALATYA",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-20T21:00:01Z",
+   "resmiGazete": "21.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2263556/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-doganyol-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-10-21T07:07:03.608Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "kamu-yonetimi"
+   ],
+   "alintilar": {
+    "kamu-yonetimi": "Lisans düzeyinde eğitim veren kurumların kamu yönetimi, halkla ilişkiler ve tanıtım ve yerel yönetimler bölümlerinin birinden mezun olmak"
+   },
+   "sonBasvuru": "2026-12-04"
+  },
+  {
    "id": "2264012",
    "ilanNo": "YOK853530",
    "baslik": "Çağ Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
@@ -2977,7 +3002,7 @@
    "resmiGazete": "21.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2264012/kamu-akademik-personel-akademik-personel-alimlari-cag-universitesi-rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-21T13:04:21.708Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -2991,7 +3016,8 @@
     "endustri": "Uluslararası ticaret ve lojistik, lojistik, lojistik yönetimi, tedarik zinciri yönetimi, endüstri mühendisliği alanlarının birinde tezli yüksek lisans mezunu veya öğrencisi olmak.",
     "iktisat": "Finans, Bankacılık, Finans ve Bankacılık, Finansal Ekonomi, Finansal Teknolojiler veya Sermaye Piyasaları alanlarının birinde tezli yüksek lisans mezunu veya öğrencisi olmak."
    },
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2263775",
@@ -3004,7 +3030,7 @@
    "resmiGazete": "21.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2263775/kamu-akademik-personel-akademik-personel-alimlari-pamukkale-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-21T13:04:21.708Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3032,32 +3058,8 @@
     "iktisat": "Doçentliğini Ceza ve Ceza Muhakemesi Hukuku alanında almış olmak, Çevre ve Ekonomi Ceza Hukuku alanlarında bilimsel çalışmalar yapmış olmak.",
     "psikoloji": "Psikoloji Bölümü"
    },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2263556",
-   "ilanNo": "DPB845528",
-   "baslik": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
-   "kurum": "DOĞANYOL BELEDİYE BAŞKANLIĞI",
-   "sehir": "MALATYA",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-20T21:00:01Z",
-   "resmiGazete": "21.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2263556/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-doganyol-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
-   "ilkGorulme": "2026-10-21T07:07:03.608Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "kamu-yonetimi"
-   ],
-   "alintilar": {
-    "kamu-yonetimi": "Lisans düzeyinde eğitim veren kurumların kamu yönetimi, halkla ilişkiler ve tanıtım ve yerel yönetimler bölümlerinin birinden mezun olmak"
-   },
-   "sonBasvuru": "2026-12-04"
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2263522",
@@ -3070,7 +3072,7 @@
    "resmiGazete": "21.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2263522/kamu-akademik-personel-akademik-personel-alimlari-ege-universitesi-rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-21T07:07:03.608Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3120,7 +3122,8 @@
     "uluslararasi-iliskiler": "Uluslararası İlişkiler Bölümü",
     "psikoloji": "Psikoloji lisans mezunu olmak. Klinik psikoloji alanında doktora yapmış olmak. Engelli bakımı ve rehabilitasyon programı alanında deneyimli olmak ve engelli bakım hizmeti alanında bilimsel çalışmaları bulunmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2261868",
@@ -3236,94 +3239,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2262299",
-   "ilanNo": "YOK853526",
-   "baslik": "İbrahim Çeçen Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
-   "kurum": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "AĞRI",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-19T21:00:01Z",
-   "resmiGazete": "20.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2262299/kamu-akademik-personel-akademik-personel-alimlari-ibrahim-cecen-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-20T11:57:02.398Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "yazilim",
-    "makine",
-    "kimya-muh",
-    "endustri",
-    "cevre",
-    "harita",
-    "biyomuhendislik",
-    "ziraat",
-    "kimya",
-    "istatistik",
-    "veteriner",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "bilgisayar": "Yapay Zeka Mühendisliği, Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Bilgisayar teknolojisi ve Bilişim Sistemleri, Bilgisayar Bilimleri, Bilişim Sistemleri ve Teknolojileri lisans mezunu olup bu alanların birinde tezli yü…",
-    "yazilim": "Yapay Zeka Mühendisliği, Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Bilgisayar teknolojisi ve Bilişim Sistemleri, Bilgisayar Bilimleri, Bilişim Sistemleri ve Teknolojileri lisans mezunu olup bu alanların birinde tezli yü…",
-    "makine": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
-    "kimya-muh": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
-    "endustri": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
-    "cevre": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
-    "harita": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
-    "biyomuhendislik": "Tarım Makineleri, Tarım Makineleri ve Teknolojileri Mühendisliği, Tarım Teknolojisi, Tarımsal Biyoteknoloji, Tarımsal Yapılar ve Sulama, Bahçe Bitkileri, Bitki Koruma, Tarla Bitkileri, Toprak Bilimi ve Bitki Besleme, Biyosistem Mühendisliği veya Tarım Ekono…",
-    "ziraat": "Tarım Makineleri, Tarım Makineleri ve Teknolojileri Mühendisliği, Tarım Teknolojisi, Tarımsal Biyoteknoloji, Tarımsal Yapılar ve Sulama, Bahçe Bitkileri, Bitki Koruma, Tarla Bitkileri, Toprak Bilimi ve Bitki Besleme, Biyosistem Mühendisliği veya Tarım Ekono…",
-    "kimya": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
-    "istatistik": "İstatistik Bölümü/ Büyük veri",
-    "veteriner": "1- Doktora ve yatıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık yada sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG-3/3/2022-31767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrola…",
-    "eczacilik": "1- Doktora ve yatıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık yada sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG-3/3/2022-31767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrola…"
-   },
-   "sonBasvuru": "2026-11-04"
-  },
-  {
-   "id": "2262290",
-   "ilanNo": "YOK853525",
-   "baslik": "İbrahim Çeçen Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "AĞRI",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-19T21:00:01Z",
-   "resmiGazete": "20.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2262290/kamu-akademik-personel-akademik-personel-alimlari-ibrahim-cecen-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-20T11:57:02.398Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "ziraat",
-    "matematik",
-    "beslenme",
-    "veteriner",
-    "hemsirelik",
-    "iktisat",
-    "isletme",
-    "psikoloji"
-   ],
-   "alintilar": {
-    "ziraat": "Zootekni alanında doçentliğini almış olmak.",
-    "matematik": "Erken çocuklukta matematik eğitimi ve matematiksel problem kurma üzerine çalışmalar yapmış olmak.",
-    "beslenme": "Beslenme ve Diyetetik Bölümü/ Beslenme ve Diyetetik A.B.D.",
-    "veteriner": "Veteriner Cerrahi bilim alanında doçentliğini almış olmak.",
-    "hemsirelik": "Hemşirelik Bölümü/Hemşirelik A.B.D.",
-    "iktisat": "İktisat Bölümü/İktisat Politikası A.B.D.",
-    "isletme": "Lisans ve yüksek lisans derecelerini işletme alanında, doktora derecesini spor yönetimi alanında almış olmak.",
-    "psikoloji": "Eğitim Bilimleri Bölümü/ Rehberlik ve Psikolojik Danışmanlık A.B.D."
-   },
-   "sonBasvuru": "2026-11-04"
-  },
-  {
    "id": "2262262",
    "ilanNo": "YOK853523",
    "baslik": "Akdeniz Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
@@ -3394,6 +3309,96 @@
    "sonBasvuru": "2026-11-05"
   },
   {
+   "id": "2262299",
+   "ilanNo": "YOK853526",
+   "baslik": "İbrahim Çeçen Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "AĞRI",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-19T21:00:01Z",
+   "resmiGazete": "20.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2262299/kamu-akademik-personel-akademik-personel-alimlari-ibrahim-cecen-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-20T11:57:02.398Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar",
+    "yazilim",
+    "makine",
+    "kimya-muh",
+    "endustri",
+    "cevre",
+    "harita",
+    "biyomuhendislik",
+    "ziraat",
+    "kimya",
+    "istatistik",
+    "veteriner",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "bilgisayar": "Yapay Zeka Mühendisliği, Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Bilgisayar teknolojisi ve Bilişim Sistemleri, Bilgisayar Bilimleri, Bilişim Sistemleri ve Teknolojileri lisans mezunu olup bu alanların birinde tezli yü…",
+    "yazilim": "Yapay Zeka Mühendisliği, Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Bilgisayar teknolojisi ve Bilişim Sistemleri, Bilgisayar Bilimleri, Bilişim Sistemleri ve Teknolojileri lisans mezunu olup bu alanların birinde tezli yü…",
+    "makine": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
+    "kimya-muh": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
+    "endustri": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
+    "cevre": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
+    "harita": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
+    "biyomuhendislik": "Tarım Makineleri, Tarım Makineleri ve Teknolojileri Mühendisliği, Tarım Teknolojisi, Tarımsal Biyoteknoloji, Tarımsal Yapılar ve Sulama, Bahçe Bitkileri, Bitki Koruma, Tarla Bitkileri, Toprak Bilimi ve Bitki Besleme, Biyosistem Mühendisliği veya Tarım Ekono…",
+    "ziraat": "Tarım Makineleri, Tarım Makineleri ve Teknolojileri Mühendisliği, Tarım Teknolojisi, Tarımsal Biyoteknoloji, Tarımsal Yapılar ve Sulama, Bahçe Bitkileri, Bitki Koruma, Tarla Bitkileri, Toprak Bilimi ve Bitki Besleme, Biyosistem Mühendisliği veya Tarım Ekono…",
+    "kimya": "Çevre Mühendisliği, Kimya Mühendisliği, Makine Mühendisliği, Enerji Sistemleri Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği veya Kimya lisans mezunu olup bu alanlardan birinde tezli yüksek lisans yapmış olmak ve lisans sonrası olmak kaydıyla Çev…",
+    "istatistik": "İstatistik Bölümü/ Büyük veri",
+    "veteriner": "1- Doktora ve yatıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık yada sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG-3/3/2022-31767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrola…",
+    "eczacilik": "1- Doktora ve yatıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık yada sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG-3/3/2022-31767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrola…"
+   },
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
+  },
+  {
+   "id": "2262290",
+   "ilanNo": "YOK853525",
+   "baslik": "İbrahim Çeçen Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "AĞRI",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-19T21:00:01Z",
+   "resmiGazete": "20.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2262290/kamu-akademik-personel-akademik-personel-alimlari-ibrahim-cecen-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-20T11:57:02.398Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "ziraat",
+    "matematik",
+    "beslenme",
+    "veteriner",
+    "hemsirelik",
+    "iktisat",
+    "isletme",
+    "psikoloji"
+   ],
+   "alintilar": {
+    "ziraat": "Zootekni alanında doçentliğini almış olmak.",
+    "matematik": "Erken çocuklukta matematik eğitimi ve matematiksel problem kurma üzerine çalışmalar yapmış olmak.",
+    "beslenme": "Beslenme ve Diyetetik Bölümü/ Beslenme ve Diyetetik A.B.D.",
+    "veteriner": "Veteriner Cerrahi bilim alanında doçentliğini almış olmak.",
+    "hemsirelik": "Hemşirelik Bölümü/Hemşirelik A.B.D.",
+    "iktisat": "İktisat Bölümü/İktisat Politikası A.B.D.",
+    "isletme": "Lisans ve yüksek lisans derecelerini işletme alanında, doktora derecesini spor yönetimi alanında almış olmak.",
+    "psikoloji": "Eğitim Bilimleri Bölümü/ Rehberlik ve Psikolojik Danışmanlık A.B.D."
+   },
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
+  },
+  {
    "id": "2262254",
    "ilanNo": "YOK853521",
    "baslik": "Tarsus Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
@@ -3404,7 +3409,7 @@
    "resmiGazete": "20.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2262254/kamu-akademik-personel-akademik-personel-alimlari-tarsus universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-10-20T11:57:02.398Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3412,7 +3417,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2262277",
@@ -3696,7 +3702,7 @@
    "resmiGazete": "19.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2260956/kamu-akademik-personel-akademik-personel-alimlari-koc-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3708,7 +3714,8 @@
    "alintilar": {
     "uluslararasi-iliskiler": "Uluslararası İlişkiler"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2261215",
@@ -6388,7 +6395,7 @@
    "resmiGazete": "06.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2246165/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-duzeltme-ilani-malazgirt-belediye-baskanligi-",
    "ilkGorulme": "2026-10-05T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -6396,7 +6403,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2246315",
@@ -7086,29 +7094,6 @@
    "kaldirilma": "2026-10-17T22:35:16.140Z"
   },
   {
-   "id": "2243042",
-   "ilanNo": "DPB845489",
-   "baslik": "Posof Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
-   "kurum": "POSOF BELEDİYE BAŞKANLIĞI",
-   "sehir": "ARDAHAN",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-01T21:00:01Z",
-   "resmiGazete": "02.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2243042/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-posof-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
-   "ilkGorulme": "2026-10-01T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P94"
-   ],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-11-04"
-  },
-  {
    "id": "2242996",
    "ilanNo": "DPB845488",
    "baslik": "Şile Belediye Başkanlığı Memur Alım İlanı",
@@ -7149,6 +7134,30 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-11-06"
+  },
+  {
+   "id": "2243042",
+   "ilanNo": "DPB845489",
+   "baslik": "Posof Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "kurum": "POSOF BELEDİYE BAŞKANLIĞI",
+   "sehir": "ARDAHAN",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-01T21:00:01Z",
+   "resmiGazete": "02.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2243042/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-posof-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-10-01T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P94"
+   ],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2240651",
@@ -7227,7 +7236,7 @@
    "resmiGazete": "30.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2240064/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turkiye-bilimsel-ve-teknolojik-arastirma-kurumu-baskanligi-kismi-sureli-proje-personeli-alimi",
    "ilkGorulme": "2026-09-29T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -7267,7 +7276,8 @@
     "istatistik": "Yükseköğretim kurumlarının en az dört yıllık lisans eğitimi veren Bilgisayar Mühendisliği, Bilgisayar Bilimleri, Bilgisayar Bilimi ve Mühendisliği, Bilişim Sistemleri Mühendisliği, Elektrik ve Elektronik Mühendisliği, Elektrik Elektronik Mühendisliği, Elekt…",
     "isletme": "Yükseköğretim kurumlarının en az dört yıllık lisans eğitimi veren İşletme Mühendisliği, Bilgisayar Mühendisliği, Bilgisayar Bilimi ve Mühendisliği, Endüstri Mühendisliği veya Endüstri ve Sistem Mühendisliği bölümlerinin birinde 2026-2027 eğitim-öğretim yılı…"
    },
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2240011",
@@ -7388,7 +7398,7 @@
    "resmiGazete": "23.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2232010/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-agri ili eleskirt belediye baskanligindan-memur-alim-ilani",
    "ilkGorulme": "2026-09-22T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -7402,7 +7412,8 @@
     "isletme": "Lisans düzeyinde eğitim veren fakültelerin İşletme, Siyaset Bilimi ve yerel yönetimler bölümlerinin birinden mezun olmak.",
     "kamu-yonetimi": "Lisans düzeyinde eğitim veren fakültelerin İşletme, Siyaset Bilimi ve yerel yönetimler bölümlerinin birinden mezun olmak."
    },
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2230483",
@@ -7437,7 +7448,7 @@
    "resmiGazete": "20.09.2026",
    "link": "https://www.ilan.gov.tr/ilan/2229184/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-malazgirt-belediye-baskanligi-memur-alim-ilani",
    "ilkGorulme": "2026-09-20T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -7455,7 +7466,8 @@
     "mimarlik": "Mimar",
     "maliye": "Lisans düzeyinde eğitim veren fakültelerin Muhasebe ve Maliye programından mezun olmak."
    },
-   "sonBasvuru": "2026-11-04"
+   "sonBasvuru": "2026-11-04",
+   "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
    "id": "2229085",
