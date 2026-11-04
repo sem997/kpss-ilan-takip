@@ -1,7 +1,43 @@
 {
- "sonGuncelleme": "2026-11-04T06:51:23.723Z",
+ "sonGuncelleme": "2026-11-04T15:08:15.902Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2276025",
+   "ilanNo": "ILN02585195",
+   "baslik": "Müfettiş Yardımcılığı Giriş Sınavı Duyurusu",
+   "kurum": "KOCAELİ BÜYÜKŞEHİR BELEDİYESİ İSU GENEL MÜDÜRLÜĞÜ",
+   "sehir": "KOCAELİ",
+   "kategori": "Denetçi Alım Sınavları (İç-Bağımsız-Kamu)",
+   "yayin": "2026-11-03T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2276025/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-mufettis-yardimciligi-giris-sinavi-duyurusu",
+   "ilkGorulme": "2026-11-04T15:08:15.902Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P8",
+    "P9",
+    "P14",
+    "P15",
+    "P16",
+    "P17"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "hukuk",
+    "iktisat",
+    "isletme"
+   ],
+   "alintilar": {
+    "hukuk": "Hukuk, İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler fakültelerinden ve bunlara denkliği yetkili makamlarca kabul edilen, en az dört yıllık eğitim veren yurt içi ve yurt dışındaki fakültelerin/yükseköğretim kurumlarının bölümlerinden mezun …",
+    "iktisat": "Hukuk, İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler fakültelerinden ve bunlara denkliği yetkili makamlarca kabul edilen, en az dört yıllık eğitim veren yurt içi ve yurt dışındaki fakültelerin/yükseköğretim kurumlarının bölümlerinden mezun …",
+    "isletme": "Hukuk, İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler fakültelerinden ve bunlara denkliği yetkili makamlarca kabul edilen, en az dört yıllık eğitim veren yurt içi ve yurt dışındaki fakültelerin/yükseköğretim kurumlarının bölümlerinden mezun …"
+   },
+   "sonBasvuru": null
+  },
   {
    "id": "2277600",
    "ilanNo": "DPB845563",
