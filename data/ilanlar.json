@@ -1,7 +1,48 @@
 {
- "sonGuncelleme": "2026-11-04T00:05:04.949Z",
+ "sonGuncelleme": "2026-11-04T06:51:23.723Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2277600",
+   "ilanNo": "DPB845563",
+   "baslik": "Zafer Kalkınma Ajansı Personel Alım İlanı",
+   "kurum": "ZAFER KALKINMA AJANSI GENEL SEKRETERLİK",
+   "sehir": "KÜTAHYA",
+   "kategori": "Kalkınma Ajansları Personel Alımları",
+   "yayin": "2026-11-03T21:00:01Z",
+   "resmiGazete": "04.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2277600/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-zafer-kalkinma-ajansi-personel-alim-ilani",
+   "ilkGorulme": "2026-11-04T06:51:23.723Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P1"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "sehir-planlama",
+    "istatistik",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "maliye",
+    "uluslararasi-iliskiler",
+    "sosyoloji"
+   ],
+   "alintilar": {
+    "sehir-planlama": "Mühendislik Bölümleri, Şehir ve Bölge Planlama",
+    "istatistik": "İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "iktisat": "İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "isletme": "İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "kamu-yonetimi": "İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "maliye": "İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "uluslararasi-iliskiler": "İstatistik, Ekonometri, İktisat (Ekonomi), Maliye, İşletme, Kamu Yönetimi (Siyaset Bilimi ve Kamu Yönetimi), Uluslararası İlişkiler (Siyaset Bilimi ve Uluslararası İlişkiler), Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "sosyoloji": "* Kalkınma kuramları, bölgesel ve yerel kalkınma, kent sosyolojisi ve sosyal kalkınma, kırsal kalkınma,"
+   },
+   "sonBasvuru": "2026-12-14"
+  },
   {
    "id": "2276031",
    "ilanNo": "YOK853584",
