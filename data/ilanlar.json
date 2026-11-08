@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-08T18:57:10.248Z",
+ "sonGuncelleme": "2026-11-08T22:43:05.398Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2893,7 +2893,7 @@
    "resmiGazete": "25.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268404/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-izmir-buyuksehir-belediye-baskanligi-zabita-memur-alim-ilani",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -2905,7 +2905,8 @@
    "alintilar": {
     "kamu-yonetimi": "Lisans düzeyinde eğitim veren kurumların yerel yönetimler, kamu yönetimi, siyaset bilimi ve kamu yönetimi programlarının birinden mezun olmak,"
    },
-   "sonBasvuru": "2026-12-04"
+   "sonBasvuru": "2026-12-04",
+   "kaldirilma": "2026-11-08T22:43:05.398Z"
   },
   {
    "id": "2268384",
@@ -4436,47 +4437,6 @@
    "kaldirilma": "2026-10-30T22:47:47.158Z"
   },
   {
-   "id": "2261370",
-   "ilanNo": "DPB845523",
-   "baslik": "Türkiye İş Kurumu Genel Müdürlüğünden Sözleşmeli Bilişim Personeli Alım İlanı",
-   "kurum": "TÜRKİYE İŞ KURUMU GENEL MÜDÜRLÜĞÜ (İŞKUR)",
-   "sehir": "ANKARA",
-   "kategori": "Sözleşmeli Bilişim Personeli İstihdamı",
-   "yayin": "2026-10-18T21:00:01Z",
-   "resmiGazete": "18.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2261370/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turkiye-is-kurumu-genel-mudurlugunden-sozlesmeli-bilisim-personeli-alim-ilani",
-   "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektrik",
-    "bilgisayar",
-    "yazilim",
-    "endustri",
-    "fizik",
-    "matematik",
-    "istatistik"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "elektrik": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "bilgisayar": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "yazilim": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "endustri": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
-    "fizik": "c. (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin Mühendislik bölümlerinden, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakültelerinin, Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik b…",
-    "matematik": "c. (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin Mühendislik bölümlerinden, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakültelerinin, Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik b…",
-    "istatistik": "c. (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin Mühendislik bölümlerinden, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakültelerinin, Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik b…"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2261343",
    "ilanNo": "DPB845521",
    "baslik": "Orta Anadolu Kalkınma Ajansından Personel Alım İlanı",
@@ -4519,6 +4479,48 @@
     "uluslararasi-iliskiler": "İktisat, İşletme, Maliye, Uluslararası İlişkiler, İstatistik, Kamu Yönetimi, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Ekonomi, Ekonometri Lisans Programları"
    },
    "sonBasvuru": "2026-12-03"
+  },
+  {
+   "id": "2261370",
+   "ilanNo": "DPB845523",
+   "baslik": "Türkiye İş Kurumu Genel Müdürlüğünden Sözleşmeli Bilişim Personeli Alım İlanı",
+   "kurum": "TÜRKİYE İŞ KURUMU GENEL MÜDÜRLÜĞÜ (İŞKUR)",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Bilişim Personeli İstihdamı",
+   "yayin": "2026-10-18T21:00:01Z",
+   "resmiGazete": "18.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2261370/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turkiye-is-kurumu-genel-mudurlugunden-sozlesmeli-bilisim-personeli-alim-ilani",
+   "ilkGorulme": "2026-10-19T11:04:22.711Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "yazilim",
+    "endustri",
+    "fizik",
+    "matematik",
+    "istatistik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "elektrik": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "bilgisayar": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "yazilim": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "endustri": "b. Fakültelerin dört yıllık Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik Mühendisliği, Elektronik Mühendisliği, Elektrik ve Elektronik Mühendisliği ve Endüstri Mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmi…",
+    "fizik": "c. (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin Mühendislik bölümlerinden, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakültelerinin, Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik b…",
+    "matematik": "c. (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin Mühendislik bölümlerinden, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakültelerinin, Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik b…",
+    "istatistik": "c. (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin Mühendislik bölümlerinden, Fen-Edebiyat, Eğitim ve Eğitim Bilimleri Fakültelerinin, Bilgisayar ve Teknoloji üzerine eğitim veren bölümleri ile İstatistik, Matematik ve Fizik b…"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-08T22:43:05.398Z"
   },
   {
    "id": "2260956",
