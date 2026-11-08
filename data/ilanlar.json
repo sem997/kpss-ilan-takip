@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-07T20:40:35.623Z",
+ "sonGuncelleme": "2026-11-08T00:13:30.598Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2918,7 +2918,7 @@
    "resmiGazete": "24.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268384/kamu-akademik-personel-akademik-personel-alimlari-saglik-bilimleri-universitesi-iptal-ve-duzeltme-ilani-",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -2930,7 +2930,8 @@
    "alintilar": {
     "hemsirelik": "- 4 sıra nolu 4. derece Doktor Öğretim Üyesi kadrosunun ilan şartı \"Hemşirelik veya Halk Sağlığı Hemşireliği programında doktora yapmış olmak. Zihinsel engelli bireylerin ebeveynleri tarafından sağlık hizmetlerine ulaşım konusunda çalışması olmak. şeklinde …"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-08T00:13:30.598Z"
   },
   {
    "id": "2266585",
