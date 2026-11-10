@@ -1,7 +1,315 @@
 {
- "sonGuncelleme": "2026-11-10T03:19:09.188Z",
+ "sonGuncelleme": "2026-11-10T11:31:47.525Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2285089",
+   "ilanNo": "DPB845582",
+   "baslik": "Samsun İli Asarcık Belediye Başkanlığı (İptal İlanı)",
+   "kurum": "ASARCIK BELEDİYE BAŞKANLIĞI",
+   "sehir": "SAMSUN",
+   "kategori": "KPSS Kamu Görevlerine İlk Defa Atanacaklar",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285089/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-samsun-ili-asarcik-belediye-baskanligi-iptal-ilani-",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
+   "id": "2285086",
+   "ilanNo": "YOK853626",
+   "baslik": "Bahçeşehir Üniversitesi Öğretim Üyesi Alım İlanı",
+   "kurum": "BAHÇEŞEHİR ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285086/kamu-akademik-personel-akademik-personel-alimlari-bahcesehir-universitesi-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar"
+   ],
+   "alintilar": {
+    "bilgisayar": "Bilgisayar mühendisliği veya ilgili alanlardan lisans, Mühendislik alanlarından doktora mezunu olmak. Uzaktan eğitim sistemleri konusunda bilimsel araştırmaları olmak dijital eğitim veya web tabanlı eğitim konularına yönelik"
+   },
+   "sonBasvuru": "2026-11-24"
+  },
+  {
+   "id": "2285038",
+   "ilanNo": "YOK853625",
+   "baslik": "Düzeltme İlanı (Toros Üniversitesi Rektörlüğünden)",
+   "kurum": "TOROS ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "MERSİN",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285038/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-toros universitesi rektorlugunden-",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
+   "id": "2285031",
+   "ilanNo": "YOK853624",
+   "baslik": "Munzur Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "MUNZUR ÜNİVERSİTESİ",
+   "sehir": "TUNCELİ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285031/kamu-akademik-personel-akademik-personel-alimlari-munzur universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "veteriner"
+   ],
+   "alintilar": {
+    "veteriner": "Veteriner Fakültesi lisans mezunu olmak, Veteriner Patoloji alanında tezli yüksek lisans yapmış olmak, Yükseköğrenim kurumunda en az 5 yıl tecrübe ve ders vermiş olmak, Deney Hayvanları Kullanım Sertifikasına sahip olmak."
+   },
+   "sonBasvuru": "2026-11-25"
+  },
+  {
+   "id": "2285027",
+   "ilanNo": "YOK853623",
+   "baslik": "Munzur Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "MUNZUR ÜNİVERSİTESİ",
+   "sehir": "TUNCELİ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285027/kamu-akademik-personel-akademik-personel-alimlari-munzur universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "insaat",
+    "mimarlik",
+    "kimya",
+    "fizik",
+    "kamu-yonetimi"
+   ],
+   "alintilar": {
+    "insaat": "Doçentlik unvanını İnşaat Mühendisliği bilim alanında almış olmak. Ilık Asfalt Karışımları konularında bilimsel çalışmaları olmak.",
+    "mimarlik": "Güzel Sanatlar, Tasarım ve Mimarlık",
+    "kimya": "Kimya ve Kimyasal İşleme Teknolojileri Bölümü Laboratuvar Teknolojisi Pr.",
+    "fizik": "Doçentliğini Fizik alanında almış, İnce Film Formunda Kalıcı Mıknatıs Termoelektrik ve Tribo Elektrik Malzemeler üzerine çalışmaları",
+    "kamu-yonetimi": "Siyaset Bilimi ve Kamu Yönetimi Bölümü Yönetim Bilimleri"
+   },
+   "sonBasvuru": "2026-11-25"
+  },
+  {
+   "id": "2285010",
+   "ilanNo": "DPB845581",
+   "baslik": "Sayıştay Başkanlığından Sözleşmeli Çözümleyici ve Programcı Alım İlanı",
+   "kurum": "SAYIŞTAY BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285010/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-sayistay baskanligindan-sozlesmeli-cozumleyici-ve-programci-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P1",
+    "P93"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "elektronik-haberlesme",
+    "fizik",
+    "matematik",
+    "istatistik",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "maliye",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "elektronik-haberlesme": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "fizik": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "matematik": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "istatistik": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "iktisat": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "isletme": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "kamu-yonetimi": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "maliye": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…",
+    "uluslararasi-iliskiler": "1.En az dört yıllık bilgisayar, elektrik, elektronik, elektrik-elektronik, endüstri, fizik, matematik, haberleşme mühendislikleri ile fakültelerin matematik, istatistik, bilgisayar bilimleri, bilgisayar enformatik, bilgisayar enformasyon sistemleri, bilgisa…"
+   },
+   "sonBasvuru": "2026-11-25"
+  },
+  {
+   "id": "2285009",
+   "ilanNo": "YOK853622",
+   "baslik": "İzmir Bakırçay Üniversitesi (İptal İlanı)",
+   "kurum": "İZMİR BAKIRÇAY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285009/kamu-akademik-personel-akademik-personel-alimlari-izmir-bakircay-universitesi-iptal-ilani-",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "hukuk"
+   ],
+   "alintilar": {
+    "hukuk": "Hukuk Fakültesi Kamu Hukuku Bölümü Ceza ve Ceza Muhakemesi Hukuku Anabilim Dalı"
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2284965",
+   "ilanNo": "YOK853621",
+   "baslik": "Sabancı Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "SABANCI ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2284965/kamu-akademik-personel-akademik-personel-alimlari-sabanci-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "psikoloji"
+   ],
+   "alintilar": {
+    "psikoloji": "Tüketici davranışı, tüketici psikolojisi, tüketim karşıtlığı ve kültürler arası tüketici davranışı konularında üst düzey ve uluslararası dergilerde yayın yapmış olmak."
+   },
+   "sonBasvuru": "2026-11-24"
+  },
+  {
+   "id": "2284946",
+   "ilanNo": "YOK853620",
+   "baslik": "Düzeltme İlanı (Gümüşhane Üniversitesi Rektörlüğü)",
+   "kurum": "GÜMÜŞHANE ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "GÜMÜŞHANE",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2284946/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-gumushane-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "yazilim",
+    "hemsirelik"
+   ],
+   "alintilar": {
+    "yazilim": "Yazılım Mühendisliği Bölümü",
+    "hemsirelik": "Hemşirelik Bölümü"
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2284939",
+   "ilanNo": "YOK853619",
+   "baslik": "Sağlık Bilimleri Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2284939/kamu-akademik-personel-akademik-personel-alimlari-saglik-bilimleri-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "veteriner",
+    "hemsirelik",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "veteriner": "8- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
+    "hemsirelik": "Hemşirelik lisans mezunu olup Cerrahi Hastalıklar Hemşireliği programında tezli yüksek lisans yapmış olmak. Doku ve organ nakli alanında 5 yıl süre ile çalışmış olmak.",
+    "eczacilik": "8- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…"
+   },
+   "sonBasvuru": "2026-11-24"
+  },
+  {
+   "id": "2284932",
+   "ilanNo": "YOK853618",
+   "baslik": "İstanbul Bilgi Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "İSTANBUL BİLGİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2284932/kamu-akademik-personel-akademik-personel-alimlari-istanbul-bilgi-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "makine",
+    "mimarlik",
+    "fizik",
+    "beslenme",
+    "hemsirelik"
+   ],
+   "alintilar": {
+    "makine": "Mekatronik Mühendisliği, Makine Mühendisliği veya Fizik Bilim alanında doçentliğini almış olmak, genel görelilik ve matematiksel fizik alanlarında bilimsel yayınlar yapmış olmak ve yükseköğretim kurumlarında lisans düzeyinde İngilizce ders verme deneyimine …",
+    "mimarlik": "Mimarlık Fakültesi",
+    "fizik": "Mekatronik Mühendisliği, Makine Mühendisliği veya Fizik Bilim alanında doçentliğini almış olmak, genel görelilik ve matematiksel fizik alanlarında bilimsel yayınlar yapmış olmak ve yükseköğretim kurumlarında lisans düzeyinde İngilizce ders verme deneyimine …",
+    "beslenme": "Beslenme ve Diyetetik Lisans Programı",
+    "hemsirelik": "Cerrahi Hastalıklar Hemşireliği alanında doktora yapmış olmak, bu alanda bilimsel yayınları bulunmak ve yükseköğretim kurumlarının Anestezi ön lisans programlarında en az 2 akademik yıl uygulamalı ders verme deneyimine sahip olmak."
+   },
+   "sonBasvuru": "2026-11-25"
+  },
   {
    "id": "2283277",
    "ilanNo": "YOK853617",
