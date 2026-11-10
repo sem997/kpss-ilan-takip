@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-09T20:57:02.705Z",
+ "sonGuncelleme": "2026-11-10T03:19:09.188Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2948,27 +2948,6 @@
    "sonBasvuru": "2026-12-11"
   },
   {
-   "id": "2269837",
-   "ilanNo": "YOK853559",
-   "baslik": "Düzeltme İlanı (Fırat Üniversitesi Rektörlüğü)",
-   "kurum": "FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ELAZIĞ",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-26T21:00:01Z",
-   "resmiGazete": "27.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2269837/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-firat-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-10-27T08:13:13.767Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2269836",
    "ilanNo": "DPB845541",
    "baslik": "İptal İlanı (Doğanyol Belediye Başkanlığı)",
@@ -3174,6 +3153,28 @@
    "sonBasvuru": "2026-11-10"
   },
   {
+   "id": "2269837",
+   "ilanNo": "YOK853559",
+   "baslik": "Düzeltme İlanı (Fırat Üniversitesi Rektörlüğü)",
+   "kurum": "FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ELAZIĞ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-26T21:00:01Z",
+   "resmiGazete": "27.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2269837/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-firat-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-10-27T08:13:13.767Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
+  },
+  {
    "id": "2268403",
    "ilanNo": "YOK853553",
    "baslik": "Fırat Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
@@ -3227,6 +3228,33 @@
    "sonBasvuru": "2026-11-10"
   },
   {
+   "id": "2268385",
+   "ilanNo": "YOK853551",
+   "baslik": "Dokuz Eylül Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "DOKUZ EYLÜL ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-25T21:00:01Z",
+   "resmiGazete": "26.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2268385/kamu-akademik-personel-akademik-personel-alimlari-dokuz-eylul-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-26T12:19:57.091Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "veteriner",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "veteriner": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğret…",
+    "eczacilik": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğret…"
+   },
+   "sonBasvuru": "2026-11-10"
+  },
+  {
    "id": "2268397",
    "ilanNo": "YOK853552",
    "baslik": "Fırat Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
@@ -3237,7 +3265,7 @@
    "resmiGazete": "26.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268397/kamu-akademik-personel-akademik-personel-alimlari-firat-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3277,7 +3305,8 @@
     "iktisat": "İktisat Teorisi Anabilim Dalı",
     "isletme": "İşletme alanında lisans ve doktora derecelerine sahip olmak. Akıllı ulaşım simtemleri konusunda bilimsel çalışmaları bulunmak."
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2268396",
@@ -3290,7 +3319,7 @@
    "resmiGazete": "26.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268396/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-duzeltme-ilani-marmara-universitesi-rektorlugu-",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P94"
@@ -3300,34 +3329,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-11-09"
-  },
-  {
-   "id": "2268385",
-   "ilanNo": "YOK853551",
-   "baslik": "Dokuz Eylül Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
-   "kurum": "DOKUZ EYLÜL ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İZMİR",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-25T21:00:01Z",
-   "resmiGazete": "26.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2268385/kamu-akademik-personel-akademik-personel-alimlari-dokuz-eylul-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "veteriner",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "veteriner": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğret…",
-    "eczacilik": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğret…"
-   },
-   "sonBasvuru": "2026-11-10"
+   "sonBasvuru": "2026-11-09",
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2268383",
@@ -3340,7 +3343,7 @@
    "resmiGazete": "26.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268383/kamu-akademik-personel-akademik-personel-alimlari-dokuz-eylul-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3348,7 +3351,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2268380",
@@ -3361,7 +3365,7 @@
    "resmiGazete": "26.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268380/kamu-akademik-personel-akademik-personel-alimlari-turkiye uluslararasi islam- bilim ve teknoloji universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3379,7 +3383,8 @@
     "uluslararasi-iliskiler": "Siyaset Bilimi ve Uluslararası İlişkiler",
     "sosyoloji": "Sosyoloji"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2268379",
@@ -3392,7 +3397,7 @@
    "resmiGazete": "26.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268379/kamu-akademik-personel-akademik-personel-alimlari-nevsehir haci bektas veli universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3425,7 +3430,8 @@
     "kamu-yonetimi": "Doktorasını Güvenlik Stratejileri ve Yönetimi alanında yapmış olmak. Doçentlik ünvanını Kamu Yönetimi bilim alanında almış olmak. Özel Güvenlik, Turizm Güvenliği, Terörizm konularında çalışmalar yapmış olmak. TR Dizin kapsamındaki dergilerde yayımlanmış mak…",
     "psikoloji": "PSİKOLOJİ"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2268378",
@@ -3438,7 +3444,7 @@
    "resmiGazete": "26.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2268378/kamu-akademik-personel-akademik-personel-alimlari-haci-bayram-veli-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-10-26T12:19:57.091Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3460,7 +3466,8 @@
     "iktisat": "Sermaye Piyasası, Finans ve Bankacılık, Bankacılık ve Finans, İktisat veya İşletme programlarından birinden Lisans mezunu olup; Sermaye Piyasası, Sermaye Piyasaları, Sermaye Piyasası ve Borsa, Bankacılık ve Finans, Finansman, Finansal Matematik, İktisat vey…",
     "isletme": "Sermaye Piyasası, Finans ve Bankacılık, Bankacılık ve Finans, İktisat veya İşletme programlarından birinden Lisans mezunu olup; Sermaye Piyasası, Sermaye Piyasaları, Sermaye Piyasası ve Borsa, Bankacılık ve Finans, Finansman, Finansal Matematik, İktisat vey…"
    },
-   "sonBasvuru": "2026-11-09"
+   "sonBasvuru": "2026-11-09",
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2269389",
@@ -3537,45 +3544,6 @@
    "kaldirilma": "2026-11-08T00:13:30.598Z"
   },
   {
-   "id": "2266585",
-   "ilanNo": "DPB845538",
-   "baslik": "Tarım ve Orman Bakanlığı Orman Genel Müdürlüğünden Müfettiş Yardımcısı Alım İlanı",
-   "kurum": "TARIM VE ORMAN BAKANLIĞI ORMAN GENEL MÜDÜRLÜĞÜ (OGM)",
-   "sehir": "ANKARA",
-   "kategori": "A Grubu Kadro Alımları",
-   "yayin": "2026-10-22T21:00:01Z",
-   "resmiGazete": "23.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2266585/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tarim ve orman bakanligi orman genel mudurlugunden-mufettis-yardimcisi-alim-ilani",
-   "ilkGorulme": "2026-10-23T11:55:55.371Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3",
-    "P4",
-    "P48"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "endustri",
-    "orman",
-    "hukuk",
-    "iktisat",
-    "isletme",
-    "maliye"
-   ],
-   "alintilar": {
-    "endustri": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
-    "orman": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
-    "hukuk": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
-    "iktisat": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
-    "isletme": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
-    "maliye": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…"
-   },
-   "sonBasvuru": "2026-11-09"
-  },
-  {
    "id": "2266555",
    "ilanNo": "DPB845537",
    "baslik": "Manisa İli Akhisar Belediye Başkanlığından Memur Alım İlanı",
@@ -3622,6 +3590,46 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-11-16"
+  },
+  {
+   "id": "2266585",
+   "ilanNo": "DPB845538",
+   "baslik": "Tarım ve Orman Bakanlığı Orman Genel Müdürlüğünden Müfettiş Yardımcısı Alım İlanı",
+   "kurum": "TARIM VE ORMAN BAKANLIĞI ORMAN GENEL MÜDÜRLÜĞÜ (OGM)",
+   "sehir": "ANKARA",
+   "kategori": "A Grubu Kadro Alımları",
+   "yayin": "2026-10-22T21:00:01Z",
+   "resmiGazete": "23.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2266585/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tarim ve orman bakanligi orman genel mudurlugunden-mufettis-yardimcisi-alim-ilani",
+   "ilkGorulme": "2026-10-23T11:55:55.371Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P4",
+    "P48"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "endustri",
+    "orman",
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "maliye"
+   ],
+   "alintilar": {
+    "endustri": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
+    "orman": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
+    "hukuk": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
+    "iktisat": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
+    "isletme": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…",
+    "maliye": "2) Orman Fakültelerinin Orman Mühendisliği, Orman Endüstri Mühendisliği bölümü, Hukuk Fakültesi ve İktisadi ve İdari Bilimler, İktisat, İşletme veya Siyasal Bilgiler Fakültelerinin İktisat, İşletme, Maliye bölümlerinden birinden mezun olması veya bunlara de…"
+   },
+   "sonBasvuru": "2026-11-09",
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2266674",
@@ -5475,7 +5483,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2259136/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-sondor-belgesi-sinav-ilani",
    "ilkGorulme": "2026-10-19T11:04:22.711Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -5483,7 +5491,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-11-09"
+   "sonBasvuru": "2026-11-09",
+   "kaldirilma": "2026-11-10T03:19:09.188Z"
   },
   {
    "id": "2260916",
