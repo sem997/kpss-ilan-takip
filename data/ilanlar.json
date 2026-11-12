@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-12T18:42:38.882Z",
+ "sonGuncelleme": "2026-11-12T23:58:15.314Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3330,7 +3330,7 @@
    "resmiGazete": "28.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2271453/kamu-akademik-personel-akademik-personel-alimlari-yeditepe universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-10-28T10:44:05.524Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3350,7 +3350,8 @@
     "isletme": "İşletme Fakültesi",
     "sosyoloji": "Hukuk Felsefesi ve Sosyolojisi Ana Bilim Dalı"
    },
-   "sonBasvuru": "2026-11-12"
+   "sonBasvuru": "2026-11-12",
+   "kaldirilma": "2026-11-12T23:58:15.314Z"
   },
   {
    "id": "2271555",
