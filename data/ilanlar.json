@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-12T10:41:10.719Z",
+ "sonGuncelleme": "2026-11-12T18:42:38.882Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -748,6 +748,43 @@
    "sonBasvuru": null
   },
   {
+   "id": "2279637",
+   "ilanNo": "ILN02587829",
+   "baslik": "Kamu Denetçiliği Uzman Yardımcılığı Giriş Sınavı Duyurusu",
+   "kurum": "TBMM KAMU DENETÇİLİĞİ KURUMU (OMBUDSMANLIK)",
+   "sehir": "ANKARA",
+   "kategori": "Denetçi Alım Sınavları (İç-Bağımsız-Kamu)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2279637/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-denetciligi-uzman-yardimciligi-giris-sinavi-duyurusu",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P4",
+    "P33",
+    "P38"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "maliye"
+   ],
+   "alintilar": {
+    "hukuk": "HUKUK (I. GRUP)",
+    "iktisat": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
+    "isletme": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
+    "kamu-yonetimi": "-KAMU YÖNETİMİ: Yönetim Bilimi ve Türk Kamu Yönetimi, Siyaset Bilimi. Personel Yönetimi. Mahalli İdareler ve Türk Siyaset Tarihi",
+    "maliye": "-MALİYE: Kamu Maliyesi, Bütçe ve Bütçe Politikası, Türk Bütçe Sistemi. Vergi Hukuku ve Türk Vergi Sisteminin Genel Esasları, Maliye Politikası"
+   },
+   "sonBasvuru": null
+  },
+  {
    "id": "2283151",
    "ilanNo": "YOK853612",
    "baslik": "İzmir Yüksek Teknoloji Enstitüsü Rektörlüğünden Öğretim Elemanı Alım İlanı",
@@ -1000,43 +1037,6 @@
     "harita": "-Lisans düzeyinde eğitim veren fakültelerin harita mühendisliği, jeodezi ve fotogrametri mühendisliği, geomatik mühendisliği programlarının birinden mezun olmak."
    },
    "sonBasvuru": "2026-12-25"
-  },
-  {
-   "id": "2279637",
-   "ilanNo": "ILN02587829",
-   "baslik": "Kamu Denetçiliği Uzman Yardımcısı Giriş Sınavı Duyurusu",
-   "kurum": "TBMM KAMU DENETÇİLİĞİ KURUMU (OMBUDSMANLIK)",
-   "sehir": "ANKARA",
-   "kategori": "Denetçi Alım Sınavları (İç-Bağımsız-Kamu)",
-   "yayin": "2026-11-08T21:00:00Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2279637/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-denetciligi-uzman-yardimcisi-giris-sinavi-duyurusu",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P4",
-    "P33",
-    "P38"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "hukuk",
-    "iktisat",
-    "isletme",
-    "kamu-yonetimi",
-    "maliye"
-   ],
-   "alintilar": {
-    "hukuk": "HUKUK (I. GRUP)",
-    "iktisat": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
-    "isletme": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
-    "kamu-yonetimi": "-KAMU YÖNETİMİ: Yönetim Bilimi ve Türk Kamu Yönetimi, Siyaset Bilimi. Personel Yönetimi. Mahalli İdareler ve Türk Siyaset Tarihi",
-    "maliye": "-MALİYE: Kamu Maliyesi, Bütçe ve Bütçe Politikası, Türk Bütçe Sistemi. Vergi Hukuku ve Türk Vergi Sisteminin Genel Esasları, Maliye Politikası"
-   },
-   "sonBasvuru": null
   },
   {
    "id": "2276025",
