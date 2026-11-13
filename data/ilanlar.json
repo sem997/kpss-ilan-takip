@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-13T14:48:34.255Z",
+ "sonGuncelleme": "2026-11-13T21:12:29.579Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -27,48 +27,6 @@
     "biyoloji": "Moleküler Biyoloji ve Genetik",
     "molekuler-biyoloji": "Moleküler Biyoloji ve Genetik"
    },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2290061",
-   "ilanNo": "YOK853643",
-   "baslik": "İptal İlanı (Kayseri Üniversitesi Rektörlüğü)",
-   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAYSERİ",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-12T21:00:01Z",
-   "resmiGazete": "13.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2290061/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kayseri-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-11-13T14:48:34.255Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
-   "id": "2290060",
-   "ilanNo": "YOK853642",
-   "baslik": "İptal İlanı (Kayseri Üniversitesi Rektörlüğü)",
-   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAYSERİ",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-12T21:00:01Z",
-   "resmiGazete": "13.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2290060/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kayseri-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-11-13T14:48:34.255Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
    "sonBasvuru": null
   },
   {
@@ -365,6 +323,50 @@
     "hukuk": "Afet Yönetimi veya Özel Hukuk alanlarından birinde doktorasını yapmış olmak."
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2290061",
+   "ilanNo": "YOK853643",
+   "baslik": "İptal İlanı (Kayseri Üniversitesi Rektörlüğü)",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-12T21:00:01Z",
+   "resmiGazete": "13.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2290061/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kayseri-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2290060",
+   "ilanNo": "YOK853642",
+   "baslik": "İptal İlanı (Kayseri Üniversitesi Rektörlüğü)",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-12T21:00:01Z",
+   "resmiGazete": "13.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2290060/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kayseri-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
    "id": "2286929",
@@ -2192,7 +2194,7 @@
    "resmiGazete": "06.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2280926/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-bakircay-universitesi-rektorlugu-",
    "ilkGorulme": "2026-11-06T11:20:26.482Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -2204,7 +2206,8 @@
    "alintilar": {
     "hukuk": "Hukuk Fakültesi Kamu Hukuku Bölümü Hukuk Tarihi Anabilim Dalı"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
    "id": "2279290",
@@ -3018,7 +3021,7 @@
    "resmiGazete": null,
    "link": "https://www.ilan.gov.tr/ilan/2270609/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-proje teknik-elemani-alinacak",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3032,7 +3035,8 @@
     "ziraat": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…",
     "veteriner": "Gen Kaynaklarının Korunması ve Geliştirilmesi Kapsamında Mersin İlinde uygulanmakta olan Halk Elinde Hayvan Islahı Ülkesel Projelerinde çalıştırılmak ve Mersin İli Damızlık Koyun Keçi Yetiştiricileri Birliğinde istihdam edilmek üzere sınav ve mülakat ile aş…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
    "id": "2274518",
@@ -3191,100 +3195,6 @@
    "sonBasvuru": "2026-11-14"
   },
   {
-   "id": "2272947",
-   "ilanNo": "YOK853574",
-   "baslik": "Beykent Üniversitesi (Düzeltme İlanı)",
-   "kurum": "İSTANBUL BEYKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272947/kamu-akademik-personel-akademik-personel-alimlari-beykent-universitesi-duzeltme-ilani-",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "isletme"
-   ],
-   "alintilar": {
-    "isletme": "22.10.2026 tarih ve 33408 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan Öğretim Üyesi Alım İlanımızda yer alan İktisadi ve İdari Bilimler Fakültesi İşletme (İngilizce) Bölümü Öğretim Üyesi alım ilanımızda bölüm ismi bilgisi aşağıdaki şekilde düzelti…"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2272900",
-   "ilanNo": "DPB845549",
-   "baslik": "Kamu İhale Kurumu Kamu İhale Uzman Yardımcılığı Giriş Sınavı İlanı",
-   "kurum": "KAMU İHALE KURUMU BAŞKANLIĞI (KİK)",
-   "sehir": "ANKARA",
-   "kategori": "Kamu Atama ve Görevde Yükselme Sınavları",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272900/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-ihale-kurumu-kamu-ihale-uzman-yardimciligi-giris-sinavi-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P1",
-    "P2",
-    "P4",
-    "P18",
-    "P23",
-    "P28"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "makine",
-    "insaat",
-    "hukuk",
-    "iktisat",
-    "isletme",
-    "maliye"
-   ],
-   "alintilar": {
-    "makine": "Makine Mühendisliği",
-    "insaat": "İnşaat Mühendisliği",
-    "hukuk": "Hukuk Fakültesi",
-    "iktisat": "İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler Fakülteleri",
-    "isletme": "İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler Fakülteleri",
-    "maliye": "ç) Maliye Grubu: Kamu Maliyesi, Maliye Politikası, Bütçe, Vergi Hukuku ve Türk Vergi Sistemi,"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2272871",
-   "ilanNo": "DPB845548",
-   "baslik": "Sağlık Bakanlığı 2026 Yılı 3. Dönem İlk Defa Ve Yeniden Atama Kurası İlanı",
-   "kurum": "T.C. SAĞLIK BAKANLIĞI",
-   "sehir": "ANKARA",
-   "kategori": "SB İlk Defa ve Yeniden Açıktan Atama Kurası",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272871/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-saglik-bakanligi-2026-yili-3-donem-ilk-defa-ve-yeniden-atama-kurasi-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "kimya",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "kimya": "- Eczacılık fakültesi bölümlerinde (Farmasötik Teknoloji, Farmasötik Toksikoloji, Analitik Kimya) lisansüstü eğitim derecesini (yüksek lisans veya doktora) tamamladığını gösteren belgeye sahip olması.",
-    "eczacilik": "Sağlık Hizmetleri Temel Kanununun ek birinci maddesi ile Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Bazı Sağlık Personelinin Atama Usul ve Esaslarına İlişkin Yönetmelik hükümlerine göre Sağlık Bakanlığı ve Bağlı Kuruluşları ile diğer kamu kurum v…"
-   },
-   "sonBasvuru": "2026-11-24"
-  },
-  {
    "id": "2272810",
    "ilanNo": "YOK853573",
    "baslik": "Haliç Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
@@ -3345,176 +3255,6 @@
     "isletme": "Lisans, Yüksek Lisans ve Doktora eğitimini Endüstri Mühendisliği ya da İşletme Mühendisliği alanında tamamlamış olmak. Doçent unvanını Endüstri Mühendisliği alanında almış olmak. Üretim ve hizmet sistemleri yönetimi ve modelleme-optimizasyon alanlarında bil…"
    },
    "sonBasvuru": "2026-11-16"
-  },
-  {
-   "id": "2272803",
-   "ilanNo": "YOK853571",
-   "baslik": "Gazi Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
-   "kurum": "GAZİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272803/kamu-akademik-personel-akademik-personel-alimlari-gazi universitesi rektorlugunden-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "yazilim",
-    "metalurji",
-    "mimarlik",
-    "veteriner",
-    "hemsirelik",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "bilgisayar": "BİLGİSAYAR MÜHENDİSLİĞİ",
-    "yazilim": "Bilgisayar mühendisliği, yazılım mühendisliği, bilişim sistemleri mühendisliği, yönetim bilişim sistemleri veya bilgisayar ve öğretim teknolojileri eğitimi lisans mezunu olmak, bu alanların birinden tezli yüksek lisans yapmış olmak, belgelendirmek kaydıyla …",
-    "metalurji": "METALURJİ VE MALZEME MÜHENDİSLİĞİ",
-    "mimarlik": "MİMARLIK FAKÜLTESİ",
-    "veteriner": "1. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare: RG-3/3/2022- 31767) 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadr…",
-    "hemsirelik": "HEMŞİRELİK FAKÜLTESİ",
-    "eczacilik": "1. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare: RG-3/3/2022- 31767) 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadr…"
-   },
-   "sonBasvuru": "2026-11-13"
-  },
-  {
-   "id": "2272799",
-   "ilanNo": "YOK853570",
-   "baslik": "Gazi Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "GAZİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272799/kamu-akademik-personel-akademik-personel-alimlari-gazi universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektronik-haberlesme",
-    "bilgisayar",
-    "makine",
-    "kimya-muh",
-    "endustri",
-    "metalurji",
-    "biyomuhendislik",
-    "mimarlik",
-    "sehir-planlama",
-    "kimya",
-    "biyoloji",
-    "matematik",
-    "istatistik",
-    "beslenme",
-    "hemsirelik",
-    "eczacilik",
-    "psikoloji"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ",
-    "elektronik-haberlesme": "Doçentliğini elektrik-elektronik ve haberleşme mühendisliği alanında almış olmak, bulanık mantık tipleri ve elektrik makinelerinin yapay zeka tabanlı arıza sınıflandırması konularında çalışmaları olmak.",
-    "bilgisayar": "BİLGİSAYAR MÜHENDİSLİĞİ",
-    "makine": "MAKİNA MÜHENDİSLİĞİ",
-    "kimya-muh": "KİMYA MÜHENDİSLİĞİ",
-    "endustri": "ENDÜSTRİ MÜHENDİSLİĞİ",
-    "metalurji": "METALURJİ VE MALZEME MÜHENDİSLİĞİ",
-    "biyomuhendislik": "BİYOTEKNOLOJİ",
-    "mimarlik": "MİMARLIK FAKÜLTESİ",
-    "sehir-planlama": "ŞEHİR VE BÖLGE PLANLAMA",
-    "kimya": "FARMASÖTİK KİMYA",
-    "biyoloji": "Doçentliğini biyoloji alanında almış olmak, organizmalarda ağır metal",
-    "matematik": "MATEMATİK",
-    "istatistik": "İSTATİSTİK",
-    "beslenme": "BESLENME VE DİYETETİK",
-    "hemsirelik": "HEMŞİRELİK FAKÜLTESİ",
-    "eczacilik": "ECZACILIK FAKÜLTESİ",
-    "psikoloji": "REHBERLİK VE PSİKOLOJİK DANIŞMANLIK"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2272795",
-   "ilanNo": "YOK853569",
-   "baslik": "Batman Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
-   "kurum": "BATMAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "BATMAN",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272795/kamu-akademik-personel-akademik-personel-alimlari-batman universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "mimarlik",
-    "veteriner",
-    "eczacilik",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "mimarlik": "Teknoloji, Mühendislik, Mühendislik ve Mimarlık fakültelerinin birinden lisans mezunu olup bu alanların birinden tezli yüksek lisans mezunu olmak.",
-    "veteriner": "3- ALES’ten en az 70, Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavından en az 50 puan veya eşdeğerliği kabul edilen bir sınavdan bu puan muadili bir puan almış olmak gerekir. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve vet…",
-    "eczacilik": "3- ALES’ten en az 70, Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavından en az 50 puan veya eşdeğerliği kabul edilen bir sınavdan bu puan muadili bir puan almış olmak gerekir. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve vet…",
-    "uluslararasi-iliskiler": "4- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
-   },
-   "sonBasvuru": "2026-11-13"
-  },
-  {
-   "id": "2272787",
-   "ilanNo": "YOK853568",
-   "baslik": "Batman Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "BATMAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "BATMAN",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272787/kamu-akademik-personel-akademik-personel-alimlari-batman universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektronik-haberlesme",
-    "insaat",
-    "ziraat",
-    "mimarlik",
-    "kimya",
-    "biyoloji",
-    "hemsirelik",
-    "psikoloji",
-    "sosyoloji"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ ELEKTRİK TESİSLERİ",
-    "elektronik-haberlesme": "Elektrik-Elektronik ve Haberleşme Mühendisliği alanında doçent unvanı almış olup elektromanyetik, mikrodalga ve anten teknolojileri ile kontrol teorisi ve uygulamaları konularında bilimsel çalışmalar yapmış olmak.",
-    "insaat": "İNŞAAT MÜHENDİSLİĞİ GEOTEKNİK",
-    "ziraat": "Tarla Bitkileri Yetiştirme ve Islahı alanında doçent ünvanı almış olup endüstri bitkileri ile çayır-mera ve yem bitkileri alanlarında bilimsel çalışmalar yapmış olmak.",
-    "mimarlik": "MÜHENDİSLİK MİMARLIK FAKÜLTESİ",
-    "kimya": "KİMYA VE KİMYASAL İŞLEME TEKNOLOJİLERİ RAFİNERİ VE PETRO-KİMYA TEKNOLOJİSİ",
-    "biyoloji": "BİYOLOJİ",
-    "hemsirelik": "Ebelik veya Doğum ve Kadın Hastalıkları Hemşireliği alanında doktora yapmış olup",
-    "psikoloji": "Çocuk Gelişimi veya Okul Öncesi Eğitim alanında doktora yapmış olup rehberlik ve psikolojik danışmanlık ile okul öncesi eğitimi alanlarında bilimsel çalışmalar yapmış olmak.",
-    "sosyoloji": "SOSYOLOJİ SOSYOMETRİ"
-   },
-   "sonBasvuru": null
   },
   {
    "id": "2272784",
@@ -3579,64 +3319,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2272756",
-   "ilanNo": "YOK853566",
-   "baslik": "Kayseri Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
-   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAYSERİ",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272756/kamu-akademik-personel-akademik-personel-alimlari-kayseri-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-10-30T06:13:17.214Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektrik",
-    "veteriner",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Bölümü Lisans Mezunu Olmak. Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Alanında Tezli Yüksek Lisans Yapmış Olmak. Yükseköğretim Kurumlarında En Az İki Yıl Eğitim-Öğretim Tecrübesin…",
-    "elektrik": "Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Bölümü Lisans Mezunu Olmak. Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Alanında Tezli Yüksek Lisans Yapmış Olmak. Yükseköğretim Kurumlarında En Az İki Yıl Eğitim-Öğretim Tecrübesin…",
-    "veteriner": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG- 3/3/202231767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadroları…",
-    "eczacilik": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG- 3/3/202231767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadroları…"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2272751",
-   "ilanNo": "YOK853565",
-   "baslik": "Kayseri Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAYSERİ",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272751/kamu-akademik-personel-akademik-personel-alimlari-kayseri-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-30T06:13:17.214Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "insaat",
-    "harita"
-   ],
-   "alintilar": {
-    "insaat": "İnşaat Mühendisliği Ana Bilim Dalında Doktora Yapmış Olmak. Geopolimer Beton ve Biyopolimer Alanlarında Çalışmalar Yapmış Olmak.",
-    "harita": "Harita Mühendisliği Ana Bilim Dalında Doktora Yapmış Olmak. Veri Madenciliği ve Arazi Yönetimi Alanlarında Çalışmalar Yapmış Olmak."
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2272749",
    "ilanNo": "DPB845546",
    "baslik": "Asarcık Belediye Başkanlığı Memur Alım İlanı",
@@ -3660,6 +3342,337 @@
     "mimarlik": "Mimar"
    },
    "sonBasvuru": "2026-12-03"
+  },
+  {
+   "id": "2272947",
+   "ilanNo": "YOK853574",
+   "baslik": "Beykent Üniversitesi (Düzeltme İlanı)",
+   "kurum": "İSTANBUL BEYKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272947/kamu-akademik-personel-akademik-personel-alimlari-beykent-universitesi-duzeltme-ilani-",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "isletme"
+   ],
+   "alintilar": {
+    "isletme": "22.10.2026 tarih ve 33408 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan Öğretim Üyesi Alım İlanımızda yer alan İktisadi ve İdari Bilimler Fakültesi İşletme (İngilizce) Bölümü Öğretim Üyesi alım ilanımızda bölüm ismi bilgisi aşağıdaki şekilde düzelti…"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272900",
+   "ilanNo": "DPB845549",
+   "baslik": "Kamu İhale Kurumu Kamu İhale Uzman Yardımcılığı Giriş Sınavı İlanı",
+   "kurum": "KAMU İHALE KURUMU BAŞKANLIĞI (KİK)",
+   "sehir": "ANKARA",
+   "kategori": "Kamu Atama ve Görevde Yükselme Sınavları",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272900/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-ihale-kurumu-kamu-ihale-uzman-yardimciligi-giris-sinavi-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P1",
+    "P2",
+    "P4",
+    "P18",
+    "P23",
+    "P28"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "makine",
+    "insaat",
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "maliye"
+   ],
+   "alintilar": {
+    "makine": "Makine Mühendisliği",
+    "insaat": "İnşaat Mühendisliği",
+    "hukuk": "Hukuk Fakültesi",
+    "iktisat": "İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler Fakülteleri",
+    "isletme": "İktisat, Siyasal Bilgiler, İşletme, İktisadi ve İdari Bilimler Fakülteleri",
+    "maliye": "ç) Maliye Grubu: Kamu Maliyesi, Maliye Politikası, Bütçe, Vergi Hukuku ve Türk Vergi Sistemi,"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272871",
+   "ilanNo": "DPB845548",
+   "baslik": "Sağlık Bakanlığı 2026 Yılı 3. Dönem İlk Defa Ve Yeniden Atama Kurası İlanı",
+   "kurum": "T.C. SAĞLIK BAKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "SB İlk Defa ve Yeniden Açıktan Atama Kurası",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272871/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-saglik-bakanligi-2026-yili-3-donem-ilk-defa-ve-yeniden-atama-kurasi-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "kimya",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "kimya": "- Eczacılık fakültesi bölümlerinde (Farmasötik Teknoloji, Farmasötik Toksikoloji, Analitik Kimya) lisansüstü eğitim derecesini (yüksek lisans veya doktora) tamamladığını gösteren belgeye sahip olması.",
+    "eczacilik": "Sağlık Hizmetleri Temel Kanununun ek birinci maddesi ile Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Bazı Sağlık Personelinin Atama Usul ve Esaslarına İlişkin Yönetmelik hükümlerine göre Sağlık Bakanlığı ve Bağlı Kuruluşları ile diğer kamu kurum v…"
+   },
+   "sonBasvuru": "2026-11-24",
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272803",
+   "ilanNo": "YOK853571",
+   "baslik": "Gazi Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "kurum": "GAZİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272803/kamu-akademik-personel-akademik-personel-alimlari-gazi universitesi rektorlugunden-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar",
+    "yazilim",
+    "metalurji",
+    "mimarlik",
+    "veteriner",
+    "hemsirelik",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "bilgisayar": "BİLGİSAYAR MÜHENDİSLİĞİ",
+    "yazilim": "Bilgisayar mühendisliği, yazılım mühendisliği, bilişim sistemleri mühendisliği, yönetim bilişim sistemleri veya bilgisayar ve öğretim teknolojileri eğitimi lisans mezunu olmak, bu alanların birinden tezli yüksek lisans yapmış olmak, belgelendirmek kaydıyla …",
+    "metalurji": "METALURJİ VE MALZEME MÜHENDİSLİĞİ",
+    "mimarlik": "MİMARLIK FAKÜLTESİ",
+    "veteriner": "1. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare: RG-3/3/2022- 31767) 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadr…",
+    "hemsirelik": "HEMŞİRELİK FAKÜLTESİ",
+    "eczacilik": "1. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare: RG-3/3/2022- 31767) 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadr…"
+   },
+   "sonBasvuru": "2026-11-13",
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272799",
+   "ilanNo": "YOK853570",
+   "baslik": "Gazi Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "GAZİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272799/kamu-akademik-personel-akademik-personel-alimlari-gazi universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektronik-haberlesme",
+    "bilgisayar",
+    "makine",
+    "kimya-muh",
+    "endustri",
+    "metalurji",
+    "biyomuhendislik",
+    "mimarlik",
+    "sehir-planlama",
+    "kimya",
+    "biyoloji",
+    "matematik",
+    "istatistik",
+    "beslenme",
+    "hemsirelik",
+    "eczacilik",
+    "psikoloji"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ",
+    "elektronik-haberlesme": "Doçentliğini elektrik-elektronik ve haberleşme mühendisliği alanında almış olmak, bulanık mantık tipleri ve elektrik makinelerinin yapay zeka tabanlı arıza sınıflandırması konularında çalışmaları olmak.",
+    "bilgisayar": "BİLGİSAYAR MÜHENDİSLİĞİ",
+    "makine": "MAKİNA MÜHENDİSLİĞİ",
+    "kimya-muh": "KİMYA MÜHENDİSLİĞİ",
+    "endustri": "ENDÜSTRİ MÜHENDİSLİĞİ",
+    "metalurji": "METALURJİ VE MALZEME MÜHENDİSLİĞİ",
+    "biyomuhendislik": "BİYOTEKNOLOJİ",
+    "mimarlik": "MİMARLIK FAKÜLTESİ",
+    "sehir-planlama": "ŞEHİR VE BÖLGE PLANLAMA",
+    "kimya": "FARMASÖTİK KİMYA",
+    "biyoloji": "Doçentliğini biyoloji alanında almış olmak, organizmalarda ağır metal",
+    "matematik": "MATEMATİK",
+    "istatistik": "İSTATİSTİK",
+    "beslenme": "BESLENME VE DİYETETİK",
+    "hemsirelik": "HEMŞİRELİK FAKÜLTESİ",
+    "eczacilik": "ECZACILIK FAKÜLTESİ",
+    "psikoloji": "REHBERLİK VE PSİKOLOJİK DANIŞMANLIK"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272795",
+   "ilanNo": "YOK853569",
+   "baslik": "Batman Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "BATMAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "BATMAN",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272795/kamu-akademik-personel-akademik-personel-alimlari-batman universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "mimarlik",
+    "veteriner",
+    "eczacilik",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "mimarlik": "Teknoloji, Mühendislik, Mühendislik ve Mimarlık fakültelerinin birinden lisans mezunu olup bu alanların birinden tezli yüksek lisans mezunu olmak.",
+    "veteriner": "3- ALES’ten en az 70, Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavından en az 50 puan veya eşdeğerliği kabul edilen bir sınavdan bu puan muadili bir puan almış olmak gerekir. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve vet…",
+    "eczacilik": "3- ALES’ten en az 70, Yükseköğretim Kurulu tarafından kabul edilen merkezi yabancı dil sınavından en az 50 puan veya eşdeğerliği kabul edilen bir sınavdan bu puan muadili bir puan almış olmak gerekir. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve vet…",
+    "uluslararasi-iliskiler": "4- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
+   },
+   "sonBasvuru": "2026-11-13",
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272787",
+   "ilanNo": "YOK853568",
+   "baslik": "Batman Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "BATMAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "BATMAN",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272787/kamu-akademik-personel-akademik-personel-alimlari-batman universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektronik-haberlesme",
+    "insaat",
+    "ziraat",
+    "mimarlik",
+    "kimya",
+    "biyoloji",
+    "hemsirelik",
+    "psikoloji",
+    "sosyoloji"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ ELEKTRİK TESİSLERİ",
+    "elektronik-haberlesme": "Elektrik-Elektronik ve Haberleşme Mühendisliği alanında doçent unvanı almış olup elektromanyetik, mikrodalga ve anten teknolojileri ile kontrol teorisi ve uygulamaları konularında bilimsel çalışmalar yapmış olmak.",
+    "insaat": "İNŞAAT MÜHENDİSLİĞİ GEOTEKNİK",
+    "ziraat": "Tarla Bitkileri Yetiştirme ve Islahı alanında doçent ünvanı almış olup endüstri bitkileri ile çayır-mera ve yem bitkileri alanlarında bilimsel çalışmalar yapmış olmak.",
+    "mimarlik": "MÜHENDİSLİK MİMARLIK FAKÜLTESİ",
+    "kimya": "KİMYA VE KİMYASAL İŞLEME TEKNOLOJİLERİ RAFİNERİ VE PETRO-KİMYA TEKNOLOJİSİ",
+    "biyoloji": "BİYOLOJİ",
+    "hemsirelik": "Ebelik veya Doğum ve Kadın Hastalıkları Hemşireliği alanında doktora yapmış olup",
+    "psikoloji": "Çocuk Gelişimi veya Okul Öncesi Eğitim alanında doktora yapmış olup rehberlik ve psikolojik danışmanlık ile okul öncesi eğitimi alanlarında bilimsel çalışmalar yapmış olmak.",
+    "sosyoloji": "SOSYOLOJİ SOSYOMETRİ"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272756",
+   "ilanNo": "YOK853566",
+   "baslik": "Kayseri Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272756/kamu-akademik-personel-akademik-personel-alimlari-kayseri-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "veteriner",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Bölümü Lisans Mezunu Olmak. Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Alanında Tezli Yüksek Lisans Yapmış Olmak. Yükseköğretim Kurumlarında En Az İki Yıl Eğitim-Öğretim Tecrübesin…",
+    "elektrik": "Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Bölümü Lisans Mezunu Olmak. Elektrik Mühendisliği veya Elektrik-Elektronik Mühendisliği Alanında Tezli Yüksek Lisans Yapmış Olmak. Yükseköğretim Kurumlarında En Az İki Yıl Eğitim-Öğretim Tecrübesin…",
+    "veteriner": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG- 3/3/202231767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadroları…",
+    "eczacilik": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare:RG- 3/3/202231767) 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadroları…"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
+  },
+  {
+   "id": "2272751",
+   "ilanNo": "YOK853565",
+   "baslik": "Kayseri Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272751/kamu-akademik-personel-akademik-personel-alimlari-kayseri-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "insaat",
+    "harita"
+   ],
+   "alintilar": {
+    "insaat": "İnşaat Mühendisliği Ana Bilim Dalında Doktora Yapmış Olmak. Geopolimer Beton ve Biyopolimer Alanlarında Çalışmalar Yapmış Olmak.",
+    "harita": "Harita Mühendisliği Ana Bilim Dalında Doktora Yapmış Olmak. Veri Madenciliği ve Arazi Yönetimi Alanlarında Çalışmalar Yapmış Olmak."
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
    "id": "2272750",
@@ -7549,31 +7562,6 @@
    "kaldirilma": "2026-10-31T02:02:18.737Z"
   },
   {
-   "id": "2254593",
-   "ilanNo": "DPB845510",
-   "baslik": "Mevlana Kalkınma Ajansı Personel Alım İlanı",
-   "kurum": "MEVLANA KALKINMA AJANSI GENEL SEKRETERLİĞİ",
-   "sehir": "KONYA",
-   "kategori": "Kalkınma Ajansları Personel Alımları",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254593/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-mevlana-kalkinma-ajansi-personel-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "insaat"
-   ],
-   "alintilar": {
-    "insaat": "İnşaat Mühendisliği"
-   },
-   "sonBasvuru": "2026-11-13"
-  },
-  {
    "id": "2254568",
    "ilanNo": "DPB845509",
    "baslik": "Sarıidris Belediye Başkanlığı Zabıta Memuru Alım İlanı",
@@ -7593,6 +7581,32 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-11-20"
+  },
+  {
+   "id": "2254593",
+   "ilanNo": "DPB845510",
+   "baslik": "Mevlana Kalkınma Ajansı Personel Alım İlanı",
+   "kurum": "MEVLANA KALKINMA AJANSI GENEL SEKRETERLİĞİ",
+   "sehir": "KONYA",
+   "kategori": "Kalkınma Ajansları Personel Alımları",
+   "yayin": "2026-10-12T21:00:01Z",
+   "resmiGazete": "13.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2254593/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-mevlana-kalkinma-ajansi-personel-alim-ilani",
+   "ilkGorulme": "2026-10-12T21:00:01Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "insaat"
+   ],
+   "alintilar": {
+    "insaat": "İnşaat Mühendisliği"
+   },
+   "sonBasvuru": "2026-11-13",
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
    "id": "2254672",
@@ -9541,7 +9555,7 @@
    "resmiGazete": "02.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2242996/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-sile-belediye-baskanligi-memur-alim-ilani",
    "ilkGorulme": "2026-10-01T21:00:01Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -9549,7 +9563,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-11-13"
+   "sonBasvuru": "2026-11-13",
+   "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
    "id": "2242993",
