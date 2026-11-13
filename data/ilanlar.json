@@ -1,17 +1,120 @@
 {
- "sonGuncelleme": "2026-11-13T06:22:29.377Z",
+ "sonGuncelleme": "2026-11-13T14:48:34.255Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
-   "id": "2289997",
-   "ilanNo": "DPB845586",
-   "baslik": "Hazine Kontrolörleri Kurulu Başkanlığı Sınav Duyurusu",
-   "kurum": "HAZİNE KONTROLÖRLERİ KURULU BAŞKANLIĞI",
-   "sehir": "ANKARA",
-   "kategori": "Kamu Atama ve Görevde Yükselme Sınavları",
+   "id": "2290071",
+   "ilanNo": "YOK853644",
+   "baslik": "İptal İlanı (Erzurum Teknik Üniversitesi Rektörlüğü)",
+   "kurum": "ERZURUM TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ERZURUM",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
    "yayin": "2026-11-12T21:00:01Z",
    "resmiGazete": "13.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2289997/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-hazine-kontrolorleri-kurulu-baskanligi-sinav-duyurusu",
+   "link": "https://www.ilan.gov.tr/ilan/2290071/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-erzurum-teknik-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "biyoloji",
+    "molekuler-biyoloji"
+   ],
+   "alintilar": {
+    "biyoloji": "Moleküler Biyoloji ve Genetik",
+    "molekuler-biyoloji": "Moleküler Biyoloji ve Genetik"
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2290061",
+   "ilanNo": "YOK853643",
+   "baslik": "İptal İlanı (Kayseri Üniversitesi Rektörlüğü)",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-12T21:00:01Z",
+   "resmiGazete": "13.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2290061/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kayseri-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
+   "id": "2290060",
+   "ilanNo": "YOK853642",
+   "baslik": "İptal İlanı (Kayseri Üniversitesi Rektörlüğü)",
+   "kurum": "KAYSERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAYSERİ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-12T21:00:01Z",
+   "resmiGazete": "13.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2290060/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kayseri-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
+   "id": "2290015",
+   "ilanNo": "DPB845587",
+   "baslik": "Yükseköğretim Kalite Kurulu Başkanlığı Uzman Yardımcısı Alım İlanı",
+   "kurum": "YÜKSEKÖĞRETİM KALİTE KURULU BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "A Grubu Kadro Alımları",
+   "yayin": "2026-11-12T21:00:01Z",
+   "resmiGazete": "13.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2290015/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-yuksekogretim-kalite-kurulu-baskanligi-uzman-yardimcisi-alim-ilani",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P14",
+    "P29",
+    "P34"
+   ],
+   "lisans": true,
+   "genel": true,
+   "akademik": false,
+   "bolumler": [
+    "iktisat",
+    "kamu-yonetimi",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "iktisat": "Yükseköğretim kurumlarının İktisat lisans programından mezun olmak.",
+    "kamu-yonetimi": "Yükseköğretim kurumlarının, Kamu Yönetimi ile Siyaset Bilimi ve Kamu Yönetimi lisans programlarının herhangi birinden mezun olmak.",
+    "uluslararasi-iliskiler": "Yükseköğretim Kurumlarının Uluslararası İlişkiler ile Siyaset Bilimi ve Uluslararası İlişkiler lisans programlarının herhangi birinden mezun olmak."
+   },
+   "sonBasvuru": "2026-12-14"
+  },
+  {
+   "id": "2289997",
+   "ilanNo": "DPB845586",
+   "baslik": "Stajyer Hazine Kontrolörlüğü Giriş Sınavı İlanı",
+   "kurum": "HAZİNE KONTROLÖRLERİ KURULU BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "A Grubu Kadro Alımları",
+   "yayin": "2026-11-12T21:00:01Z",
+   "resmiGazete": "13.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2289997/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-stajyer-hazine-kontrolorlugu-giris-sinavi-ilani",
    "ilkGorulme": "2026-11-13T06:22:29.377Z",
    "aktif": true,
    "kpss": true,
@@ -260,6 +363,35 @@
     "hemsirelik": "Hemşirelik alanında doktorasını yapmış olmak veya Tıp Fakültesi mezunu olup tıp alanlarından birinde uzmanlık eğitimini tamamlamış olmak.",
     "eczacilik": "ECZACILIK FAKÜLTESİ",
     "hukuk": "Afet Yönetimi veya Özel Hukuk alanlarından birinde doktorasını yapmış olmak."
+   },
+   "sonBasvuru": null
+  },
+  {
+   "id": "2286929",
+   "ilanNo": "ILN02593074",
+   "baslik": "10 Devlet Memuru İstihdam Edilecek",
+   "kurum": "İÇİŞLERİ BAKANLIĞI SAHİL GÜVENLİK KOMUTANLIĞI PERSONEL BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "Sivil Memur Alımı",
+   "yayin": "2026-11-12T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2286929/kamu-akademik-personel-askeri-personel-alimlari-10-devlet-memuru-istihdam-edilecek",
+   "ilkGorulme": "2026-11-13T14:48:34.255Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P03",
+    "P93"
+   ],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "psikoloji"
+   ],
+   "alintilar": {
+    "psikoloji": "a) Mali İşler Uzmanı(Merkez/Taşra Teşkilatı), Psikolog(Merkez/Taşra Teşkilatı), Yabancı Dil Öğretmeni (İngilizce)(Merkez Teşkilatı), Tedarik Uzmanı(Merkez Teşkilatı) unvanlarına yapılacak başvurularda 2026 yılı KPSS sınavına ait KPSSP03 puan türünden,"
    },
    "sonBasvuru": null
   },
@@ -1009,43 +1141,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2279637",
-   "ilanNo": "ILN02587829",
-   "baslik": "Kamu Denetçiliği Uzman Yardımcılığı Giriş Sınavı Duyurusu",
-   "kurum": "TBMM KAMU DENETÇİLİĞİ KURUMU (OMBUDSMANLIK)",
-   "sehir": "ANKARA",
-   "kategori": "Denetçi Alım Sınavları (İç-Bağımsız-Kamu)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2279637/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-denetciligi-uzman-yardimciligi-giris-sinavi-duyurusu",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P4",
-    "P33",
-    "P38"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "hukuk",
-    "iktisat",
-    "isletme",
-    "kamu-yonetimi",
-    "maliye"
-   ],
-   "alintilar": {
-    "hukuk": "HUKUK (I. GRUP)",
-    "iktisat": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
-    "isletme": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
-    "kamu-yonetimi": "-KAMU YÖNETİMİ: Yönetim Bilimi ve Türk Kamu Yönetimi, Siyaset Bilimi. Personel Yönetimi. Mahalli İdareler ve Türk Siyaset Tarihi",
-    "maliye": "-MALİYE: Kamu Maliyesi, Bütçe ve Bütçe Politikası, Türk Bütçe Sistemi. Vergi Hukuku ve Türk Vergi Sisteminin Genel Esasları, Maliye Politikası"
-   },
-   "sonBasvuru": null
-  },
-  {
    "id": "2283151",
    "ilanNo": "YOK853612",
    "baslik": "İzmir Yüksek Teknoloji Enstitüsü Rektörlüğünden Öğretim Elemanı Alım İlanı",
@@ -1298,6 +1393,43 @@
     "harita": "-Lisans düzeyinde eğitim veren fakültelerin harita mühendisliği, jeodezi ve fotogrametri mühendisliği, geomatik mühendisliği programlarının birinden mezun olmak."
    },
    "sonBasvuru": "2026-12-25"
+  },
+  {
+   "id": "2279637",
+   "ilanNo": "ILN02587829",
+   "baslik": "Kamu Denetçiliği Uzman Yardımcılığı Giriş Sınavı Duyurusu",
+   "kurum": "TBMM KAMU DENETÇİLİĞİ KURUMU (OMBUDSMANLIK)",
+   "sehir": "ANKARA",
+   "kategori": "Denetçi Alım Sınavları (İç-Bağımsız-Kamu)",
+   "yayin": "2026-11-08T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2279637/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kamu-denetciligi-uzman-yardimciligi-giris-sinavi-duyurusu",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P4",
+    "P33",
+    "P38"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "hukuk",
+    "iktisat",
+    "isletme",
+    "kamu-yonetimi",
+    "maliye"
+   ],
+   "alintilar": {
+    "hukuk": "HUKUK (I. GRUP)",
+    "iktisat": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
+    "isletme": "SİYASAL BİLGİLER, İKTİSADİ VE İDARİ BİLİMLER FAKÜLTELERİ, İKTİSAT VE İŞLETME FAKÜLTELERİ VEYA BUNLARA DENKLİĞİ YÜKSEK ÖĞRETİM KURULUNCA KABUL EDİLEN YURT DIŞINDAKİ FAKÜLTE VEYA YÜKSEKOKULLARDAN BİRİNİ BİTİRMİŞ OLMAK (II. GRUP)",
+    "kamu-yonetimi": "-KAMU YÖNETİMİ: Yönetim Bilimi ve Türk Kamu Yönetimi, Siyaset Bilimi. Personel Yönetimi. Mahalli İdareler ve Türk Siyaset Tarihi",
+    "maliye": "-MALİYE: Kamu Maliyesi, Bütçe ve Bütçe Politikası, Türk Bütçe Sistemi. Vergi Hukuku ve Türk Vergi Sisteminin Genel Esasları, Maliye Politikası"
+   },
+   "sonBasvuru": null
   },
   {
    "id": "2276025",
