@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-14T20:26:45.001Z",
+ "sonGuncelleme": "2026-11-15T00:06:30.609Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -722,27 +722,6 @@
    "sonBasvuru": "2026-11-24"
   },
   {
-   "id": "2285038",
-   "ilanNo": "YOK853625",
-   "baslik": "Düzeltme İlanı (Toros Üniversitesi Rektörlüğünden)",
-   "kurum": "TOROS ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "MERSİN",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-09T21:00:01Z",
-   "resmiGazete": "10.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2285038/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-toros universitesi rektorlugunden-",
-   "ilkGorulme": "2026-11-10T11:31:47.525Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2285031",
    "ilanNo": "YOK853624",
    "baslik": "Munzur Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
@@ -982,6 +961,28 @@
     "hemsirelik": "Cerrahi Hastalıklar Hemşireliği alanında doktora yapmış olmak, bu alanda bilimsel yayınları bulunmak ve yükseköğretim kurumlarının Anestezi ön lisans programlarında en az 2 akademik yıl uygulamalı ders verme deneyimine sahip olmak."
    },
    "sonBasvuru": "2026-11-25"
+  },
+  {
+   "id": "2285038",
+   "ilanNo": "YOK853625",
+   "baslik": "Düzeltme İlanı (Toros Üniversitesi Rektörlüğünden)",
+   "kurum": "TOROS ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "MERSİN",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-09T21:00:01Z",
+   "resmiGazete": "10.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2285038/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-toros universitesi rektorlugunden-",
+   "ilkGorulme": "2026-11-10T11:31:47.525Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
    "id": "2283277",
@@ -1551,27 +1552,6 @@
    "sonBasvuru": "2027-01-05"
   },
   {
-   "id": "2283093",
-   "ilanNo": "DPB845570",
-   "baslik": "İptal İlanı (Eleşkirt Belediye Başkanlığı)",
-   "kurum": "ELEŞKİRT BELEDİYE BAŞKANLIĞI",
-   "sehir": "AĞRI",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-11-06T21:00:01Z",
-   "resmiGazete": "07.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283093/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-iptal-ilani-eleskirt-belediye-baskanligi-",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2283080",
    "ilanNo": "YOK853605",
    "baslik": "İptal İlanı (Dicle Üniversitesi Rektörlüğü)",
@@ -1620,6 +1600,28 @@
     "hukuk": "a. Yükseköğretim kurumlarının Hukuk Fakültelerinden mezun olmak,"
    },
    "sonBasvuru": "2026-11-20"
+  },
+  {
+   "id": "2283093",
+   "ilanNo": "DPB845570",
+   "baslik": "İptal İlanı (Eleşkirt Belediye Başkanlığı)",
+   "kurum": "ELEŞKİRT BELEDİYE BAŞKANLIĞI",
+   "sehir": "AĞRI",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-11-06T21:00:01Z",
+   "resmiGazete": "07.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283093/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-iptal-ilani-eleskirt-belediye-baskanligi-",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
    "id": "2281218",
@@ -3105,7 +3107,7 @@
    "resmiGazete": "31.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274950/kamu-akademik-personel-akademik-personel-alimlari-toros-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3113,7 +3115,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
    "id": "2274715",
@@ -3126,7 +3129,7 @@
    "resmiGazete": "31.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274715/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-konya-ili-karatay-belediye-baskanligi-zabita-memuru-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": false,
@@ -3134,7 +3137,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-12-18"
+   "sonBasvuru": "2026-12-18",
+   "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
    "id": "2274583",
@@ -3147,7 +3151,7 @@
    "resmiGazete": "31.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274583/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-izmir-ili-karsiyaka-belediye-baskanligi-memur-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [],
    "lisans": true,
@@ -3163,7 +3167,8 @@
     "isletme": "-Lisans düzeyinde eğitim veren kurumların maliye, işletme, iktisat, muhasebe ve finans yönetimi, bankacılık ve finans, çalışma ekonomisi ve endüstri ilişkileri programlarının birinden mezun olmak.",
     "maliye": "-Lisans düzeyinde eğitim veren kurumların maliye, işletme, iktisat, muhasebe ve finans yönetimi, bankacılık ve finans, çalışma ekonomisi ve endüstri ilişkileri programlarının birinden mezun olmak."
    },
-   "sonBasvuru": "2026-12-02"
+   "sonBasvuru": "2026-12-02",
+   "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
    "id": "2274523",
@@ -3176,7 +3181,7 @@
    "resmiGazete": "31.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274523/kamu-akademik-personel-akademik-personel-alimlari-bitlis-eren-universitesi-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3192,7 +3197,8 @@
     "mimarlik": "MÜHENDİSLİK-MİMARLIK FAKÜLTESİ",
     "kimya": "KİMYA"
    },
-   "sonBasvuru": "2026-11-14"
+   "sonBasvuru": "2026-11-14",
+   "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
    "id": "2272810",
