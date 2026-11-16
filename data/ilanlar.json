@@ -1,7 +1,32 @@
 {
- "sonGuncelleme": "2026-11-16T00:10:20.843Z",
+ "sonGuncelleme": "2026-11-16T07:03:48.659Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2290254",
+   "ilanNo": "ILN02595923",
+   "baslik": "Personel Alımı yapılacaktır",
+   "kurum": "UZUNKÖPRÜ TİCARET VE SANAYİ ODASI",
+   "sehir": "EDİRNE",
+   "kategori": "4/C Personel Alımları",
+   "yayin": "2026-11-15T21:00:00Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2290254/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-personel-alimi-yapilacaktir",
+   "ilkGorulme": "2026-11-16T07:03:48.659Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "maliye"
+   ],
+   "alintilar": {
+    "maliye": "- Üniversitelerin 4 yıllık muhasebe, maliye veya ilgili bölümlerden mezun olmak"
+   },
+   "sonBasvuru": "2026-11-20"
+  },
   {
    "id": "2290071",
    "ilanNo": "YOK853644",
