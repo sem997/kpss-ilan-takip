@@ -1,7 +1,28 @@
 {
- "sonGuncelleme": "2026-11-17T08:55:59.927Z",
+ "sonGuncelleme": "2026-11-17T18:14:31.812Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
+  {
+   "id": "2294232",
+   "ilanNo": "DPB845592",
+   "baslik": "Hazine ve Maliye Bakanlığı Hazine Kontrolörleri Kurulu Başkanlığı (Düzeltme İlanı)",
+   "kurum": "HAZİNE KONTROLÖRLERİ KURULU BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "Diğer Öğrenci Alım ve Sınavları",
+   "yayin": "2026-11-16T21:00:01Z",
+   "resmiGazete": "17.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2294232/kamu-akademik-personel-yuksek-ogretim-ve-egitim-ilanlari-hazine-ve-maliye-bakanligi-hazine kontrolorleri kurulu baskanligi-duzeltme-ilani-",
+   "ilkGorulme": "2026-11-17T18:14:31.812Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
   {
    "id": "2293631",
    "ilanNo": "YOK853649",
