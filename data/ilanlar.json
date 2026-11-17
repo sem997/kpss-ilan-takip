@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-16T17:16:37.348Z",
+ "sonGuncelleme": "2026-11-17T00:57:14.703Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3085,70 +3085,6 @@
    "sonBasvuru": null
   },
   {
-   "id": "2274517",
-   "ilanNo": "YOK853578",
-   "baslik": "İzmir Katip Çelebi Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
-   "kurum": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
-   "sehir": "İZMİR",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-01T21:00:01Z",
-   "resmiGazete": null,
-   "link": "https://www.ilan.gov.tr/ilan/2274517/kamu-akademik-personel-akademik-personel-alimlari-izmir-katip-celebi-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "harita",
-    "orman",
-    "mimarlik",
-    "iktisat",
-    "isletme"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği",
-    "harita": "Orman İnşaatı Jeodezi ve Fotogrametri",
-    "orman": "Orman Mühendisliği",
-    "mimarlik": "Mühendislik ve Mimarlık",
-    "iktisat": "İktisat",
-    "isletme": "Gemi Makineleri İşletme Mühendisliği"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2274513",
-   "ilanNo": "YOK853577",
-   "baslik": "İzmir Demokrasi Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
-   "kurum": "İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İZMİR",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-01T21:00:01Z",
-   "resmiGazete": "02.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2274513/kamu-akademik-personel-akademik-personel-alimlari-izmir-demokrasi-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "endustri",
-    "mimarlik"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği lisans programından mezun olmak. Bilgisayar Mühendisliği alanında tezli yüksek lisans yapmış olmak.",
-    "endustri": "Endüstri Mühendisliği Bölümü",
-    "mimarlik": "Fen, Mühendislik, Mimarlık veya İş Sağlığı ve Güvenliği alanlarında tezli yüksek lisans yapmış olmak. Çalışma ve Sosyal Güvenlik Bakanlığı tarafından verilmiş geçerli İş Güvenliği Uzmanlığı Belgesine (A veya B sınıfı) sahip olmak."
-   },
-   "sonBasvuru": "2026-11-16"
-  },
-  {
    "id": "2274511",
    "ilanNo": "DPB845554",
    "baslik": "Doğu Karadeniz Kalkınma Ajansından (DOKA) Personel Alım İlanı",
@@ -3184,6 +3120,72 @@
    "sonBasvuru": "2026-12-06"
   },
   {
+   "id": "2274517",
+   "ilanNo": "YOK853578",
+   "baslik": "İzmir Katip Çelebi Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+   "sehir": "İZMİR",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-01T21:00:01Z",
+   "resmiGazete": null,
+   "link": "https://www.ilan.gov.tr/ilan/2274517/kamu-akademik-personel-akademik-personel-alimlari-izmir-katip-celebi-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-11-02T13:08:00.305Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar",
+    "harita",
+    "orman",
+    "mimarlik",
+    "iktisat",
+    "isletme"
+   ],
+   "alintilar": {
+    "bilgisayar": "Bilgisayar Mühendisliği",
+    "harita": "Orman İnşaatı Jeodezi ve Fotogrametri",
+    "orman": "Orman Mühendisliği",
+    "mimarlik": "Mühendislik ve Mimarlık",
+    "iktisat": "İktisat",
+    "isletme": "Gemi Makineleri İşletme Mühendisliği"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
+  },
+  {
+   "id": "2274513",
+   "ilanNo": "YOK853577",
+   "baslik": "İzmir Demokrasi Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "kurum": "İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-01T21:00:01Z",
+   "resmiGazete": "02.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2274513/kamu-akademik-personel-akademik-personel-alimlari-izmir-demokrasi-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-11-02T13:08:00.305Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar",
+    "endustri",
+    "mimarlik"
+   ],
+   "alintilar": {
+    "bilgisayar": "Bilgisayar Mühendisliği lisans programından mezun olmak. Bilgisayar Mühendisliği alanında tezli yüksek lisans yapmış olmak.",
+    "endustri": "Endüstri Mühendisliği Bölümü",
+    "mimarlik": "Fen, Mühendislik, Mimarlık veya İş Sağlığı ve Güvenliği alanlarında tezli yüksek lisans yapmış olmak. Çalışma ve Sosyal Güvenlik Bakanlığı tarafından verilmiş geçerli İş Güvenliği Uzmanlığı Belgesine (A veya B sınıfı) sahip olmak."
+   },
+   "sonBasvuru": "2026-11-16",
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
+  },
+  {
    "id": "2274507",
    "ilanNo": "YOK853576",
    "baslik": "İzmir Demokrasi Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
@@ -3194,7 +3196,7 @@
    "resmiGazete": "02.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274507/kamu-akademik-personel-akademik-personel-alimlari-izmir-demokrasi-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3214,7 +3216,8 @@
     "hukuk": "Hukuk Fakültesi",
     "iktisat": "İktisat Bölümü"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
   },
   {
    "id": "2274493",
@@ -3227,7 +3230,7 @@
    "resmiGazete": "02.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274493/kamu-akademik-personel-askeri-personel-alimlari-icisleri bakanligi jandarma ve sahil guvenlik akademisi baskanligindan-memur-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3243,7 +3246,8 @@
     "kimya": "Kimyager",
     "psikoloji": "Psikolog"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
   },
   {
    "id": "2274491",
@@ -3256,7 +3260,7 @@
    "resmiGazete": "02.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2274491/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-yuksekogretim kurulu baskanligindan-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-11-02T13:08:00.305Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3272,7 +3276,8 @@
     "bilgisayar": "a. Bilgisayar mühendisliği, yazılım mühendisliği ya da bunlara denkliği/eşdeğerliği Yükseköğretim Kurulu'nca kabul edilmiş yükseköğretim kurumlarından mezun olmak.",
     "yazilim": "a. Bilgisayar mühendisliği, yazılım mühendisliği ya da bunlara denkliği/eşdeğerliği Yükseköğretim Kurulu'nca kabul edilmiş yükseköğretim kurumlarından mezun olmak."
    },
-   "sonBasvuru": "2026-11-16"
+   "sonBasvuru": "2026-11-16",
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
   },
   {
    "id": "2274506",
@@ -3511,68 +3516,6 @@
    "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
-   "id": "2272810",
-   "ilanNo": "YOK853573",
-   "baslik": "Haliç Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
-   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272810/kamu-akademik-personel-akademik-personel-alimlari-halic universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-11-16"
-  },
-  {
-   "id": "2272804",
-   "ilanNo": "YOK853572",
-   "baslik": "Haliç Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272804/kamu-akademik-personel-akademik-personel-alimlari-halic universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektrik",
-    "bilgisayar",
-    "yazilim",
-    "makine",
-    "endustri",
-    "fizik",
-    "beslenme",
-    "isletme"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "Elektrik-Elektronik Mühendisliği (İngilizce)",
-    "elektrik": "Lisans, yüksek lisans ve doktora derecelerini Elektrik-Elektronik Mühendisliği ya da Elektrik Mühendisliği alanlarında almış olmak. Son 10 (on) yılda en az 20 (yirmi) Web of Science indeksli yayını bulunmak. Görüntü işleme ve yapay zekâ alanlarında çalışmış…",
-    "bilgisayar": "Lisans, Yüksek Lisans ve Doktora derecelerinin en az ikisini Yapay Zekâ Mühendisliği, Yazılım Mühendisliği, Bilgisayar Mühendisliği ya da Bilgisayar Bilimleri alanlarında almış olmak. Son 3 (üç) yılda en az 6 (altı) Web of Science indeksli yayını bulunmak.",
-    "yazilim": "Lisans, Yüksek Lisans ve Doktora derecelerinin en az ikisini Yapay Zekâ Mühendisliği, Yazılım Mühendisliği, Bilgisayar Mühendisliği ya da Bilgisayar Bilimleri alanlarında almış olmak. Son 3 (üç) yılda en az 6 (altı) Web of Science indeksli yayını bulunmak.",
-    "makine": "Makine Mühendisliği (İngilizce)",
-    "endustri": "Endüstri Mühendisliği (İngilizce)",
-    "fizik": "Lisans, yüksek lisans ve doktora derecelerinin en az ikisini Fizik, Fizik Öğretmenliği ya da Fizik Mühendisliği alanlarında almış olmak. Son 3 (üç) yılda Web of Science indeksli dergilerde yayımlanan en az 3 (üç) makalesi bulunmak. Yükseköğretim kurumlarınd…",
-    "beslenme": "Beslenme ve Diyetetik (Türkçe)",
-    "isletme": "Lisans, Yüksek Lisans ve Doktora eğitimini Endüstri Mühendisliği ya da İşletme Mühendisliği alanında tamamlamış olmak. Doçent unvanını Endüstri Mühendisliği alanında almış olmak. Üretim ve hizmet sistemleri yönetimi ve modelleme-optimizasyon alanlarında bil…"
-   },
-   "sonBasvuru": "2026-11-16"
-  },
-  {
    "id": "2272784",
    "ilanNo": "YOK853567",
    "baslik": "Boğaziçi Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
@@ -3658,6 +3601,70 @@
     "mimarlik": "Mimar"
    },
    "sonBasvuru": "2026-12-03"
+  },
+  {
+   "id": "2272810",
+   "ilanNo": "YOK853573",
+   "baslik": "Haliç Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272810/kamu-akademik-personel-akademik-personel-alimlari-halic universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": "2026-11-16",
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
+  },
+  {
+   "id": "2272804",
+   "ilanNo": "YOK853572",
+   "baslik": "Haliç Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272804/kamu-akademik-personel-akademik-personel-alimlari-halic universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-10-30T13:19:53.477Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "yazilim",
+    "makine",
+    "endustri",
+    "fizik",
+    "beslenme",
+    "isletme"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+    "elektrik": "Lisans, yüksek lisans ve doktora derecelerini Elektrik-Elektronik Mühendisliği ya da Elektrik Mühendisliği alanlarında almış olmak. Son 10 (on) yılda en az 20 (yirmi) Web of Science indeksli yayını bulunmak. Görüntü işleme ve yapay zekâ alanlarında çalışmış…",
+    "bilgisayar": "Lisans, Yüksek Lisans ve Doktora derecelerinin en az ikisini Yapay Zekâ Mühendisliği, Yazılım Mühendisliği, Bilgisayar Mühendisliği ya da Bilgisayar Bilimleri alanlarında almış olmak. Son 3 (üç) yılda en az 6 (altı) Web of Science indeksli yayını bulunmak.",
+    "yazilim": "Lisans, Yüksek Lisans ve Doktora derecelerinin en az ikisini Yapay Zekâ Mühendisliği, Yazılım Mühendisliği, Bilgisayar Mühendisliği ya da Bilgisayar Bilimleri alanlarında almış olmak. Son 3 (üç) yılda en az 6 (altı) Web of Science indeksli yayını bulunmak.",
+    "makine": "Makine Mühendisliği (İngilizce)",
+    "endustri": "Endüstri Mühendisliği (İngilizce)",
+    "fizik": "Lisans, yüksek lisans ve doktora derecelerinin en az ikisini Fizik, Fizik Öğretmenliği ya da Fizik Mühendisliği alanlarında almış olmak. Son 3 (üç) yılda Web of Science indeksli dergilerde yayımlanan en az 3 (üç) makalesi bulunmak. Yükseköğretim kurumlarınd…",
+    "beslenme": "Beslenme ve Diyetetik (Türkçe)",
+    "isletme": "Lisans, Yüksek Lisans ve Doktora eğitimini Endüstri Mühendisliği ya da İşletme Mühendisliği alanında tamamlamış olmak. Doçent unvanını Endüstri Mühendisliği alanında almış olmak. Üretim ve hizmet sistemleri yönetimi ve modelleme-optimizasyon alanlarında bil…"
+   },
+   "sonBasvuru": "2026-11-16",
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
   },
   {
    "id": "2272947",
@@ -4900,7 +4907,7 @@
    "resmiGazete": "23.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2266544/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur ve turizm bakanligindan-162-sozlesmeli-kutuphaneci-alim-ilani",
    "ilkGorulme": "2026-10-23T11:55:55.371Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -4910,7 +4917,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": "2026-11-16"
+   "sonBasvuru": "2026-11-16",
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
   },
   {
    "id": "2266585",
@@ -5965,7 +5973,7 @@
    "resmiGazete": "20.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2262386/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-yurtdisi-turkler-ve-akraba-topluluklar-baskanligi-uzman-yardimcisi-alim-ilani",
    "ilkGorulme": "2026-10-20T11:57:02.398Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -5995,7 +6003,8 @@
     "psikoloji": "Ekonometri, Ekonomi, Endüstri Mühendisliği, Felsefe, Gazetecilik, Halkla İlişkiler, İletişim ve Tasarım, İktisat, Uluslararası İlahiyat, İlahiyat, İletişim, İnsan Kaynakları Yönetimi, İslami İlimler, İstatistik, İşletme, İşletme Mühendisliği, Kamu Yönetimi,…",
     "sosyoloji": "Ekonometri, Ekonomi, Endüstri Mühendisliği, Felsefe, Gazetecilik, Halkla İlişkiler, İletişim ve Tasarım, İktisat, Uluslararası İlahiyat, İlahiyat, İletişim, İnsan Kaynakları Yönetimi, İslami İlimler, İstatistik, İşletme, İşletme Mühendisliği, Kamu Yönetimi,…"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-17T00:57:14.703Z"
   },
   {
    "id": "2262262",
@@ -9711,62 +9720,6 @@
    "kaldirilma": "2026-10-19T22:02:01.153Z"
   },
   {
-   "id": "2244914",
-   "ilanNo": "YOK853452",
-   "baslik": "İptal İlanı (Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Rektörlüğü)",
-   "kurum": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ADANA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-04T21:00:01Z",
-   "resmiGazete": "03.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2244914/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-alparslan-turkes-bilim-ve-teknoloji-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-17T22:35:16.140Z"
-  },
-  {
-   "id": "2244738",
-   "ilanNo": "YOK853444",
-   "baslik": "Beykent Üniversitesi Rektörlüğü Araştırma Görevlisi Alım İlanı",
-   "kurum": "İSTANBUL BEYKENT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-04T21:00:01Z",
-   "resmiGazete": "03.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2244738/kamu-akademik-personel-akademik-personel-alimlari-beykent-universitesi-rektorlugu-arastirma-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-04T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "yazilim",
-    "endustri",
-    "mimarlik",
-    "matematik"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Yönetim Bilişim Sistemleri, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Teknoloji ve Bilgi Yönetimi, Bi…",
-    "yazilim": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Yönetim Bilişim Sistemleri, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Teknoloji ve Bilgi Yönetimi, Bi…",
-    "endustri": "Endüstri Mühendisliği alanında lisans mezunu olup Endüstri Mühendisliği alanında en az tezli yüksek lisans yapıyor olmak.",
-    "mimarlik": "-Mimarlık Fakültesi",
-    "matematik": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Yönetim Bilişim Sistemleri, Bilgisayar ve Öğretim Teknolojileri, Bilgisayar Bilimleri ve Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri Mühendisliği, Bilgi Teknolojileri, Teknoloji ve Bilgi Yönetimi, Bi…"
-   },
-   "sonBasvuru": "2026-10-17",
-   "kaldirilma": "2026-10-17T22:35:16.140Z"
-  },
-  {
    "id": "2244741",
    "ilanNo": "DPB845494",
    "baslik": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Personel Alım İlanı",
@@ -9837,28 +9790,6 @@
    },
    "sonBasvuru": null,
    "kaldirilma": "2026-10-26T23:01:40.096Z"
-  },
-  {
-   "id": "2244735",
-   "ilanNo": "YOK853443",
-   "baslik": "Samsun Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "SAMSUN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "SAMSUN",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-02T21:00:01Z",
-   "resmiGazete": "03.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2244735/kamu-akademik-personel-akademik-personel-alimlari-samsun-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-02T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-17T22:35:16.140Z"
   },
   {
    "id": "2242996",
