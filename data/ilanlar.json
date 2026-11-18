@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-17T18:14:31.812Z",
+ "sonGuncelleme": "2026-11-18T01:09:10.144Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -2103,29 +2103,6 @@
    "sonBasvuru": "2026-12-23"
   },
   {
-   "id": "2283156",
-   "ilanNo": "DPB845579",
-   "baslik": "Cumhurbaşkanlığı Milli Saraylar İdaresi Başkanlığı Sözleşmeli Personel Alım İlanı",
-   "kurum": "CUMHURBAŞKANLIĞI MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI",
-   "sehir": "İSTANBUL",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-11-06T21:00:01Z",
-   "resmiGazete": "07.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283156/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-milli-saraylar-idaresi-baskanligi-sozlesmeli-personel-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P93"
-   ],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2283105",
    "ilanNo": "DPB845574",
    "baslik": "Gündoğmuş Belediye Başkanlığı Memur Alım İlanı",
@@ -2211,6 +2188,30 @@
     "hukuk": "a. Yükseköğretim kurumlarının Hukuk Fakültelerinden mezun olmak,"
    },
    "sonBasvuru": "2026-11-20"
+  },
+  {
+   "id": "2283156",
+   "ilanNo": "DPB845579",
+   "baslik": "Cumhurbaşkanlığı Milli Saraylar İdaresi Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "kurum": "CUMHURBAŞKANLIĞI MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI",
+   "sehir": "İSTANBUL",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-11-06T21:00:01Z",
+   "resmiGazete": "07.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283156/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-milli-saraylar-idaresi-baskanligi-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P93"
+   ],
+   "lisans": false,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-18T01:09:10.144Z"
   },
   {
    "id": "2283093",
@@ -3080,6 +3081,54 @@
    "sonBasvuru": "2026-12-14"
   },
   {
+   "id": "2275940",
+   "ilanNo": "DPB845562",
+   "baslik": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansından Personel Alım İlanı",
+   "kurum": "KÜLTÜR VE TURİZM BAKANLIĞI TÜRKİYE TURİZM TANITIM VE GELİŞTİRME AJANSI",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-11-02T21:00:01Z",
+   "resmiGazete": "03.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2275940/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur ve turizm bakanligi turkiye turizm tanitim ve gelistirme ajansindan-personel-alim-ilani",
+   "ilkGorulme": "2026-11-03T11:38:54.723Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
+   "id": "2275934",
+   "ilanNo": "DPB845561",
+   "baslik": "Dokuz Eylül Üniversitesi Rektörlüğünden Sözleşmeli Personel Alım İlanı",
+   "kurum": "DOKUZ EYLÜL ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-11-02T21:00:01Z",
+   "resmiGazete": "03.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2275934/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dokuz eylul universitesi rektorlugunden-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-11-03T11:38:54.723Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [
+    "P3"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "hemsirelik"
+   ],
+   "alintilar": {
+    "hemsirelik": "HEMŞİRE"
+   },
+   "sonBasvuru": "2026-11-19"
+  },
+  {
    "id": "2276031",
    "ilanNo": "YOK853584",
    "baslik": "Gaziantep Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
@@ -3090,7 +3139,7 @@
    "resmiGazete": "03.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2276031/kamu-akademik-personel-akademik-personel-alimlari-gaziantep-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3116,7 +3165,8 @@
     "veteriner": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare: RG- 3/3/2022 - 31767) 7. maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolar…",
     "eczacilik": "Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, (Değişik ibare: RG- 3/3/2022 - 31767) 7. maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolar…"
    },
-   "sonBasvuru": "2026-11-17"
+   "sonBasvuru": "2026-11-17",
+   "kaldirilma": "2026-11-18T01:09:10.144Z"
   },
   {
    "id": "2276004",
@@ -3129,7 +3179,7 @@
    "resmiGazete": "03.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2276004/kamu-akademik-personel-akademik-personel-alimlari-gaziantep-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3179,7 +3229,8 @@
     "kamu-yonetimi": "SİYASET BİLİMİ VE KAMU YÖNETİMİ BÖLÜMÜ",
     "sosyoloji": "SOSYOLOJİ BÖLÜMÜ"
    },
-   "sonBasvuru": "2026-11-03"
+   "sonBasvuru": "2026-11-03",
+   "kaldirilma": "2026-11-18T01:09:10.144Z"
   },
   {
    "id": "2275960",
@@ -3192,7 +3243,7 @@
    "resmiGazete": "03.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2275960/kamu-akademik-personel-akademik-personel-alimlari-istanbul-arel-universitesi-rektorlugu-akademik-personel-alim-ilani",
    "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3226,28 +3277,8 @@
     "isletme": "İşletme Programı",
     "uluslararasi-iliskiler": "Uluslararası İlişkiler Programı"
    },
-   "sonBasvuru": "2026-11-17"
-  },
-  {
-   "id": "2275940",
-   "ilanNo": "DPB845562",
-   "baslik": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansından Personel Alım İlanı",
-   "kurum": "KÜLTÜR VE TURİZM BAKANLIĞI TÜRKİYE TURİZM TANITIM VE GELİŞTİRME AJANSI",
-   "sehir": "ANKARA",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-11-02T21:00:01Z",
-   "resmiGazete": "03.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2275940/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur ve turizm bakanligi turkiye turizm tanitim ve gelistirme ajansindan-personel-alim-ilani",
-   "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": "2026-11-17",
+   "kaldirilma": "2026-11-18T01:09:10.144Z"
   },
   {
    "id": "2275935",
@@ -3260,7 +3291,7 @@
    "resmiGazete": "03.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2275935/kamu-akademik-personel-akademik-personel-alimlari-antalya-bilim-universitesi-ogretim-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3294,34 +3325,8 @@
     "uluslararasi-iliskiler": "3- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki Öğretim Görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak Öğretim Görevlisi atamaları ile 2547 sayıl…",
     "psikoloji": "Uçak-Havacılık-Uzay Mühendisliği veya Klinik psikoloji veya sporda psikososyal alanlar veya öğrenme-bilişsel-biyo-deneysel psikoloji veya uygulamalı psikoloji bilim/sanat alanlarının birinden doçent olmak ve Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından…"
    },
-   "sonBasvuru": "2026-11-17"
-  },
-  {
-   "id": "2275934",
-   "ilanNo": "DPB845561",
-   "baslik": "Dokuz Eylül Üniversitesi Rektörlüğünden Sözleşmeli Personel Alım İlanı",
-   "kurum": "DOKUZ EYLÜL ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İZMİR",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-11-02T21:00:01Z",
-   "resmiGazete": "03.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2275934/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dokuz eylul universitesi rektorlugunden-sozlesmeli-personel-alim-ilani",
-   "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "hemsirelik"
-   ],
-   "alintilar": {
-    "hemsirelik": "HEMŞİRE"
-   },
-   "sonBasvuru": "2026-11-19"
+   "sonBasvuru": "2026-11-17",
+   "kaldirilma": "2026-11-18T01:09:10.144Z"
   },
   {
    "id": "2275931",
@@ -3334,7 +3339,7 @@
    "resmiGazete": "03.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2275931/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-posof-belediye-baskanligi-iptal-ilani-",
    "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": false,
@@ -3342,7 +3347,8 @@
    "akademik": false,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-18T01:09:10.144Z"
   },
   {
    "id": "2274524",
