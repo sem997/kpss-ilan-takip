@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-19T15:57:55.363Z",
+ "sonGuncelleme": "2026-11-19T22:58:56.002Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3377,79 +3377,6 @@
    "kaldirilma": "2026-11-13T21:12:29.579Z"
   },
   {
-   "id": "2279290",
-   "ilanNo": "YOK853589",
-   "baslik": "İzmir Demokrasi Üniversitesi (İptal İlanı)",
-   "kurum": "İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İZMİR",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-04T21:00:01Z",
-   "resmiGazete": "05.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2279290/kamu-akademik-personel-akademik-personel-alimlari-izmir-demokrasi-universitesi-iptal-ilani-",
-   "ilkGorulme": "2026-11-05T08:59:51.369Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "makine"
-   ],
-   "alintilar": {
-    "makine": "Makine Mühendisliği Bölümü"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2279285",
-   "ilanNo": "DPB845565",
-   "baslik": "Türkiye Şeker Fabrikaları Sözleşmeli Mühendis ve Tekniker Giriş Sınav İlanı",
-   "kurum": "TÜRKİYE ŞEKER FABRİKALARI A.Ş. GENEL MÜDÜRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-11-04T21:00:01Z",
-   "resmiGazete": "05.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2279285/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turkiye-seker-fabrikalari-sozlesmeli-muhendis-ve-tekniker-giris-sinav-ilani",
-   "ilkGorulme": "2026-11-05T08:59:51.369Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [
-    "P3",
-    "P93"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "gida",
-    "elektrik-elektronik",
-    "elektrik",
-    "bilgisayar",
-    "makine",
-    "insaat",
-    "kimya-muh",
-    "metalurji",
-    "ziraat",
-    "mimarlik",
-    "kimya"
-   ],
-   "alintilar": {
-    "gida": "Gıda Mühendisliği, Gıda İşleme Mühendisliği lisans programlarının birinden mezun olmak.",
-    "elektrik-elektronik": "Elektrik ve Elektronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektrik Mühendisliği lisans programlarının birinden mezun olmak",
-    "elektrik": "Elektrik ve Elektronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektrik Mühendisliği lisans programlarının birinden mezun olmak",
-    "bilgisayar": "Bilgisayar Mühendisliği, Bilgisayar Birimleri Mühendisliği,Bilgisayar Bilimi ve Mühendisliği, Bilişim Sistemleri Mühendisliği, Kontrol ve Bilgisayar Mühendisliği lisans programlarının birinden mezun olmak",
-    "makine": "Makine Mühendisliği lisans programından mezun olmak.",
-    "insaat": "İnşaat Mühendisliği lisans programından mezun olmak",
-    "kimya-muh": "Kimya Mühendisliği, Kimya ve Süreç Mühendisliği, Kimya Mühendisliği ve Uygulamalı Kimya lisans programlarının birinden mezun olmak",
-    "metalurji": "Metalurji Mühendisliği, Metalurji ve Malzeme Mühendisliği, Malzeme Mühendisliği, Malzeme Bilimi ve Mühendisliği, Malzeme Bilimi ve Nanoteknoloji Mühendisliği, Malzeme Bilimi ve Nano Mühendisliği, Nanoteknoloji Mühendisliği lisans programlarının birinden mez…",
-    "ziraat": "Üniversitelerin Ziraat Fakültelerinin veya muadili yerli ve yabancı Ziraat Mühendisi diploması veren fakültelerin; Tarla Bitkileri, Bahçe Bitkileri bölümlerinin birinden mezun olmak",
-    "mimarlik": "Türkiye Şeker Fabrikaları Anonim Şirketi Genel Müdürlüğü Taşra Teşkilatında İstihdam Edilecek Sözleşmeli Mühendis, Mimar, Tekniker ve Teknisyenler Hakkında Sınav ve Atama Yönetmeliği çerçevesinde, taşra teşkilatında istihdam edilmek üzere 399 sayılı Kanun H…",
-    "kimya": "Kimya Mühendisliği, Kimya ve Süreç Mühendisliği, Kimya Mühendisliği ve Uygulamalı Kimya lisans programlarının birinden mezun olmak"
-   },
-   "sonBasvuru": "2026-11-15"
-  },
-  {
    "id": "2279181",
    "ilanNo": "DPB845564",
    "baslik": "Eleşkirt Belediye Başkanlığı İtfaiye Eri Alım İlanı",
@@ -3512,6 +3439,81 @@
    "sonBasvuru": "2026-11-20"
   },
   {
+   "id": "2279290",
+   "ilanNo": "YOK853589",
+   "baslik": "İzmir Demokrasi Üniversitesi (İptal İlanı)",
+   "kurum": "İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-04T21:00:01Z",
+   "resmiGazete": "05.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2279290/kamu-akademik-personel-akademik-personel-alimlari-izmir-demokrasi-universitesi-iptal-ilani-",
+   "ilkGorulme": "2026-11-05T08:59:51.369Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "makine"
+   ],
+   "alintilar": {
+    "makine": "Makine Mühendisliği Bölümü"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-19T22:58:56.002Z"
+  },
+  {
+   "id": "2279285",
+   "ilanNo": "DPB845565",
+   "baslik": "Türkiye Şeker Fabrikaları Sözleşmeli Mühendis ve Tekniker Giriş Sınav İlanı",
+   "kurum": "TÜRKİYE ŞEKER FABRİKALARI A.Ş. GENEL MÜDÜRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-11-04T21:00:01Z",
+   "resmiGazete": "05.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2279285/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turkiye-seker-fabrikalari-sozlesmeli-muhendis-ve-tekniker-giris-sinav-ilani",
+   "ilkGorulme": "2026-11-05T08:59:51.369Z",
+   "aktif": false,
+   "kpss": true,
+   "puanTurleri": [
+    "P3",
+    "P93"
+   ],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "gida",
+    "elektrik-elektronik",
+    "elektrik",
+    "bilgisayar",
+    "makine",
+    "insaat",
+    "kimya-muh",
+    "metalurji",
+    "ziraat",
+    "mimarlik",
+    "kimya"
+   ],
+   "alintilar": {
+    "gida": "Gıda Mühendisliği, Gıda İşleme Mühendisliği lisans programlarının birinden mezun olmak.",
+    "elektrik-elektronik": "Elektrik ve Elektronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektrik Mühendisliği lisans programlarının birinden mezun olmak",
+    "elektrik": "Elektrik ve Elektronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektrik Mühendisliği lisans programlarının birinden mezun olmak",
+    "bilgisayar": "Bilgisayar Mühendisliği, Bilgisayar Birimleri Mühendisliği,Bilgisayar Bilimi ve Mühendisliği, Bilişim Sistemleri Mühendisliği, Kontrol ve Bilgisayar Mühendisliği lisans programlarının birinden mezun olmak",
+    "makine": "Makine Mühendisliği lisans programından mezun olmak.",
+    "insaat": "İnşaat Mühendisliği lisans programından mezun olmak",
+    "kimya-muh": "Kimya Mühendisliği, Kimya ve Süreç Mühendisliği, Kimya Mühendisliği ve Uygulamalı Kimya lisans programlarının birinden mezun olmak",
+    "metalurji": "Metalurji Mühendisliği, Metalurji ve Malzeme Mühendisliği, Malzeme Mühendisliği, Malzeme Bilimi ve Mühendisliği, Malzeme Bilimi ve Nanoteknoloji Mühendisliği, Malzeme Bilimi ve Nano Mühendisliği, Nanoteknoloji Mühendisliği lisans programlarının birinden mez…",
+    "ziraat": "Üniversitelerin Ziraat Fakültelerinin veya muadili yerli ve yabancı Ziraat Mühendisi diploması veren fakültelerin; Tarla Bitkileri, Bahçe Bitkileri bölümlerinin birinden mezun olmak",
+    "mimarlik": "Türkiye Şeker Fabrikaları Anonim Şirketi Genel Müdürlüğü Taşra Teşkilatında İstihdam Edilecek Sözleşmeli Mühendis, Mimar, Tekniker ve Teknisyenler Hakkında Sınav ve Atama Yönetmeliği çerçevesinde, taşra teşkilatında istihdam edilmek üzere 399 sayılı Kanun H…",
+    "kimya": "Kimya Mühendisliği, Kimya ve Süreç Mühendisliği, Kimya Mühendisliği ve Uygulamalı Kimya lisans programlarının birinden mezun olmak"
+   },
+   "sonBasvuru": "2026-11-15",
+   "kaldirilma": "2026-11-19T22:58:56.002Z"
+  },
+  {
    "id": "2279177",
    "ilanNo": "YOK853587",
    "baslik": "İstanbul Kültür Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
@@ -3522,7 +3524,7 @@
    "resmiGazete": "05.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2279177/kamu-akademik-personel-akademik-personel-alimlari-istanbul kultur universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-05T08:59:51.369Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3534,7 +3536,8 @@
    "alintilar": {
     "hukuk": "Hukuk Fakültesi"
    },
-   "sonBasvuru": "2026-11-19"
+   "sonBasvuru": "2026-11-19",
+   "kaldirilma": "2026-11-19T22:58:56.002Z"
   },
   {
    "id": "2279176",
@@ -3547,7 +3550,7 @@
    "resmiGazete": "05.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2279176/kamu-akademik-personel-akademik-personel-alimlari-samsun-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-05T08:59:51.369Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3559,7 +3562,8 @@
    "alintilar": {
     "matematik": "Temel Bilimler (Matematik)"
    },
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-19T22:58:56.002Z"
   },
   {
    "id": "2279175",
@@ -3572,7 +3576,7 @@
    "resmiGazete": "05.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2279175/kamu-akademik-personel-akademik-personel-alimlari-istanbul kultur universitesi rektorlugunden-arastirma-gorevlisi-alim-ilani",
    "ilkGorulme": "2026-11-05T08:59:51.369Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3590,7 +3594,8 @@
     "eczacilik": "1. Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yükseköğ…",
     "uluslararasi-iliskiler": "4. Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
    },
-   "sonBasvuru": "2026-11-19"
+   "sonBasvuru": "2026-11-19",
+   "kaldirilma": "2026-11-19T22:58:56.002Z"
   },
   {
    "id": "2277600",
@@ -3665,7 +3670,7 @@
    "resmiGazete": "03.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2275934/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dokuz eylul universitesi rektorlugunden-sozlesmeli-personel-alim-ilani",
    "ilkGorulme": "2026-11-03T11:38:54.723Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -3679,7 +3684,8 @@
    "alintilar": {
     "hemsirelik": "HEMŞİRE"
    },
-   "sonBasvuru": "2026-11-19"
+   "sonBasvuru": "2026-11-19",
+   "kaldirilma": "2026-11-19T22:58:56.002Z"
   },
   {
    "id": "2276031",
