@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-21T17:43:15.586Z",
+ "sonGuncelleme": "2026-11-21T22:48:48.763Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3245,7 +3245,7 @@
    "resmiGazete": "07.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2283080/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-dicle-universitesi-rektorlugu-",
    "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3253,7 +3253,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-21T22:48:48.763Z"
   },
   {
    "id": "2283079",
@@ -3448,7 +3449,7 @@
    "resmiGazete": "06.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2280929/kamu-akademik-personel-akademik-personel-alimlari-aksaray-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-06T11:20:26.482Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3480,7 +3481,8 @@
     "isletme": "İşletme",
     "kamu-yonetimi": "Siyaset Bilimi ve Kamu Yönetimi"
    },
-   "sonBasvuru": "2026-11-21"
+   "sonBasvuru": "2026-11-21",
+   "kaldirilma": "2026-11-21T22:48:48.763Z"
   },
   {
    "id": "2281209",
