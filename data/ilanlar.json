@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-23T17:47:35.471Z",
+ "sonGuncelleme": "2026-11-24T03:50:52.680Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -1123,27 +1123,6 @@
    "sonBasvuru": "2026-12-03"
   },
   {
-   "id": "2296729",
-   "ilanNo": "YOK853669",
-   "baslik": "İptal İlanı (Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğü)",
-   "kurum": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAHRAMANMARAŞ",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-18T21:00:01Z",
-   "resmiGazete": "19.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2296729/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kahramanmaras-sutcu-imam-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-11-19T15:57:55.363Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
    "id": "2296719",
    "ilanNo": "YOK853668",
    "baslik": "Düzeltme İlanı (Bayburt Üniversitesi Rektörlüğü)",
@@ -1233,6 +1212,28 @@
     "psikoloji": "Psikoloji Bölümü"
    },
    "sonBasvuru": null
+  },
+  {
+   "id": "2296729",
+   "ilanNo": "YOK853669",
+   "baslik": "İptal İlanı (Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğü)",
+   "kurum": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAHRAMANMARAŞ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-18T21:00:01Z",
+   "resmiGazete": "19.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2296729/kamu-akademik-personel-akademik-personel-alimlari-iptal-ilani-kahramanmaras-sutcu-imam-universitesi-rektorlugu-",
+   "ilkGorulme": "2026-11-19T15:57:55.363Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
   },
   {
    "id": "2294004",
@@ -3141,321 +3142,6 @@
    "kaldirilma": "2026-11-15T00:06:30.609Z"
   },
   {
-   "id": "2283277",
-   "ilanNo": "YOK853617",
-   "baslik": "Ted Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "TED ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283277/kamu-akademik-personel-akademik-personel-alimlari-ted-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "endustri"
-   ],
-   "alintilar": {
-    "endustri": "Endüstri Mühendisliği Bölümü"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2283213",
-   "ilanNo": "YOK853616",
-   "baslik": "Sağlık Bilimleri Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283213/kamu-akademik-personel-akademik-personel-alimlari-saglik bilimleri universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "kimya",
-    "beslenme",
-    "hemsirelik",
-    "eczacilik",
-    "sosyoloji",
-    "sosyal-hizmet"
-   ],
-   "alintilar": {
-    "kimya": "Analitik Kimya",
-    "beslenme": "Beslenme ve Diyetetik",
-    "hemsirelik": "Gülhane Hemşirelik Fakültesi",
-    "eczacilik": "Hamidiye Eczacılık Fakültesi",
-    "sosyoloji": "Sosyal Hizmet veya Din Sosyolojisi alanında doçent ünvanına sahip olmak. Çevresel partikül maruziyeti ile prematür mortalite ilişkisi konusunda çalışması olmak.",
-    "sosyal-hizmet": "Sosyal Hizmet"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2283207",
-   "ilanNo": "YOK853615",
-   "baslik": "Karamanoğlu Mehmetbey Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
-   "kurum": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KARAMAN",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283207/kamu-akademik-personel-akademik-personel-alimlari-karamanoglu mehmetbey universitesi rektorlugunden-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "makine",
-    "maden",
-    "veteriner",
-    "hemsirelik",
-    "eczacilik",
-    "isletme",
-    "kamu-yonetimi",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "makine": "Makine Mühendisliği, İmalat Mühendisliği, Maden Mühendisliği, Kamu Yönetimi, İşletme veya Uluslararası Ticaret ve Lojistik bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak. Belgelendirmek kaydıyla",
-    "maden": "Makine Mühendisliği, İmalat Mühendisliği, Maden Mühendisliği, Kamu Yönetimi, İşletme veya Uluslararası Ticaret ve Lojistik bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak. Belgelendirmek kaydıyla",
-    "veteriner": "1.Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğr…",
-    "hemsirelik": "Hemşirelik lisans mezunu olup alanında tezli yüksek lisans yapmış olmak. Belgelendirmek şartıyla sağlık hizmetleri alanında en az 2 yıl çalışmış olmak.",
-    "eczacilik": "1.Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğr…",
-    "isletme": "Lojistik Yönetimi, Uluslararası Ticaret ve Lojistik veya İşletme bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak.",
-    "kamu-yonetimi": "Makine Mühendisliği, İmalat Mühendisliği, Maden Mühendisliği, Kamu Yönetimi, İşletme veya Uluslararası Ticaret ve Lojistik bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak. Belgelendirmek kaydıyla",
-    "uluslararasi-iliskiler": "2.Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 t…"
-   },
-   "sonBasvuru": "2026-11-23"
-  },
-  {
-   "id": "2283160",
-   "ilanNo": "YOK853614",
-   "baslik": "Karadeniz Teknik Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
-   "kurum": "KARADENİZ TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "TRABZON",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283160/kamu-akademik-personel-akademik-personel-alimlari-karadeniz teknik universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "harita",
-    "mimarlik",
-    "veteriner",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "harita": "Harita Mühendisliği Bölümü lisans mezunu olup, Harita Mühendisliği anabilim dalında tezli yüksek lisans ve doktora yapmış olmak. Yükseköğretim kurumlarında en az 5 (beş) yıl çalışma deneyimine sahip olmak. Yapı bilgi modelleme ve arazi",
-    "mimarlik": "Trabzon Meslek Yüksekokulu Mimarlık ve Şehir Planlama Bölümü Harita ve Kadastro Programı",
-    "veteriner": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlilik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yüksek…",
-    "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlilik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yüksek…"
-   },
-   "sonBasvuru": "2026-11-23"
-  },
-  {
-   "id": "2283152",
-   "ilanNo": "YOK853613",
-   "baslik": "İzmir Yüksek Teknoloji Enstitüsü Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ REKTÖRLÜĞÜ",
-   "sehir": "İZMİR",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283152/kamu-akademik-personel-akademik-personel-alimlari-izmir yuksek teknoloji enstitusu rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "yazilim",
-    "kimya-muh"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği",
-    "yazilim": "Bilişim alanlarından birinden (Bilgisayar Mühendisliği, Bilgisayar Bilimleri, Yazılım Mühendisliği, Bilişim Sistemleri) doktora öğrenimi görmüş olmak. Bilgisayar grafikleri, bilgisayarlı görü ve makine öğrenmesi konularında bilimsel çalışmalar yürütmüş ve u…",
-    "kimya-muh": "Kimya Mühendisliği"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2283151",
-   "ilanNo": "YOK853612",
-   "baslik": "İzmir Yüksek Teknoloji Enstitüsü Rektörlüğünden Öğretim Elemanı Alım İlanı",
-   "kurum": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ REKTÖRLÜĞÜ",
-   "sehir": "İZMİR",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283151/kamu-akademik-personel-akademik-personel-alimlari-izmir yuksek teknoloji enstitusu rektorlugunden-ogretim-elemani-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "elektrik-elektronik",
-    "elektronik-haberlesme",
-    "bilgisayar",
-    "yazilim",
-    "makine",
-    "mimarlik"
-   ],
-   "alintilar": {
-    "elektrik-elektronik": "Elektrik-Elektronik Mühendisliği",
-    "elektronik-haberlesme": "Elektrik ve Elektronik Mühendisliği, Elektronik Mühendisliği veya Elektronik ve Haberleşme Mühendisliği Bölümü lisans mezunu olmak ve Elektronik ve Haberleşme Mühendisliği veya Elektrik-Elektronik Mühendisliği Anabilim Dalında tezli yüksek lisans veya dokto…",
-    "bilgisayar": "Bilgisayar Mühendisliği",
-    "yazilim": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Yazılım Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri, Yazılım Yönetimi, Yazılım Mühendisliği ve Veri Bilimi bölümlerinden birinden lisans derecesi almış olmak. Bilgisayar Mühendisliği An…",
-    "makine": "Makine Mühendisliği",
-    "mimarlik": "MİMARLIK"
-   },
-   "sonBasvuru": "2026-11-23"
-  },
-  {
-   "id": "2283147",
-   "ilanNo": "YOK853611",
-   "baslik": "Kocaeli Sağlık ve Teknoloji Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KOCAELİ",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283147/kamu-akademik-personel-akademik-personel-alimlari-kocaeli-saglik-ve-teknoloji-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "psikoloji"
-   ],
-   "alintilar": {
-    "psikoloji": "Psikoloji Pr."
-   },
-   "sonBasvuru": "2026-11-23"
-  },
-  {
-   "id": "2283118",
-   "ilanNo": "YOK853610",
-   "baslik": "Bezmiâlem Vakıf Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
-   "kurum": "BEZMİÂLEM VAKIF ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283118/kamu-akademik-personel-akademik-personel-alimlari-bezmialem vakif universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
-   "id": "2283112",
-   "ilanNo": "YOK853609",
-   "baslik": "Bezmiâlem Vakıf Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "BEZMİÂLEM VAKIF ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283112/kamu-akademik-personel-akademik-personel-alimlari-bezmialem vakif universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "biyomuhendislik",
-    "biyoloji",
-    "molekuler-biyoloji",
-    "hemsirelik",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "biyomuhendislik": "Yaşam Bilimleri ve Biyoteknoloji Enstitüsü",
-    "biyoloji": "Tıbbi Biyoloji Anabilim Dalı",
-    "molekuler-biyoloji": "Moleküler Biyoloji ve Genetik alanında doktora yapmış olmak.",
-    "hemsirelik": "Ebelik veya Kadın Sağlığı ve Hastalıkları Hemşireliği alanlarından birinde doçentlik belgesine sahip olmak,",
-    "eczacilik": "Eczacılık Fakültesi"
-   },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2283108",
-   "ilanNo": "YOK853608",
-   "baslik": "Ankara Müzik ve Güzel Sanatlar Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283108/kamu-akademik-personel-akademik-personel-alimlari-ankara muzik ve guzel sanatlar universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
-  },
-  {
-   "id": "2283103",
-   "ilanNo": "YOK853607",
-   "baslik": "Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
-   "kurum": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAHRAMANMARAŞ",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283103/kamu-akademik-personel-akademik-personel-alimlari-kahramanmaras sutcu imam universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-11-23"
-  },
-  {
    "id": "2283099",
    "ilanNo": "DPB845572",
    "baslik": "Tanoba Belediye Başkanlığı Personel Alım İlanı",
@@ -3475,37 +3161,6 @@
    "bolumler": [],
    "alintilar": {},
    "sonBasvuru": "2026-12-18"
-  },
-  {
-   "id": "2283097",
-   "ilanNo": "YOK853606",
-   "baslik": "Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KAHRAMANMARAŞ",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-11-08T21:00:01Z",
-   "resmiGazete": "09.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2283097/kamu-akademik-personel-akademik-personel-alimlari-kahramanmaras sutcu imam universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-11-09T10:05:35.001Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "ziraat",
-    "kimya",
-    "biyoloji",
-    "eczacilik"
-   ],
-   "alintilar": {
-    "ziraat": "Bahçe Bitkileri Yetiştirme ve Islahı alanında Doçent ünvanını almış olmak. Gıda olarak tüketilen meyve türlerinde biyokimyasal bileşenleri üzerine bilimsel çalışmalar yapmış olmak.",
-    "kimya": "Eczacılıkta analitik kimya alanında doçentlik ünvanına sahip olmak. Yeşil kimya yaklaşımı ile ilaç aktif maddeleri üzerine çalışmalar yapmış olmak.",
-    "biyoloji": "Lisans ve yüksek lisans eğitimini biyoloji bölümünde tamamlamış olup, doktora çalışmasını kanser hücreleri üzerine yapmış olmak; farklı hücre modelleri, hücre döngüsü, gen ekspresyonu, gen klonlama ve metabolit analizleri konularında bilimsel çalışmalara sa…",
-    "eczacilik": "Eczacılıkta analitik kimya alanında doçentlik ünvanına sahip olmak. Yeşil kimya yaklaşımı ile ilaç aktif maddeleri üzerine çalışmalar yapmış olmak."
-   },
-   "sonBasvuru": null
   },
   {
    "id": "2283096",
@@ -3552,6 +3207,364 @@
     "harita": "-Lisans düzeyinde eğitim veren fakültelerin harita mühendisliği, jeodezi ve fotogrametri mühendisliği, geomatik mühendisliği programlarının birinden mezun olmak."
    },
    "sonBasvuru": "2026-12-25"
+  },
+  {
+   "id": "2283277",
+   "ilanNo": "YOK853617",
+   "baslik": "Ted Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "TED ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283277/kamu-akademik-personel-akademik-personel-alimlari-ted-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "endustri"
+   ],
+   "alintilar": {
+    "endustri": "Endüstri Mühendisliği Bölümü"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283213",
+   "ilanNo": "YOK853616",
+   "baslik": "Sağlık Bilimleri Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283213/kamu-akademik-personel-akademik-personel-alimlari-saglik bilimleri universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "kimya",
+    "beslenme",
+    "hemsirelik",
+    "eczacilik",
+    "sosyoloji",
+    "sosyal-hizmet"
+   ],
+   "alintilar": {
+    "kimya": "Analitik Kimya",
+    "beslenme": "Beslenme ve Diyetetik",
+    "hemsirelik": "Gülhane Hemşirelik Fakültesi",
+    "eczacilik": "Hamidiye Eczacılık Fakültesi",
+    "sosyoloji": "Sosyal Hizmet veya Din Sosyolojisi alanında doçent ünvanına sahip olmak. Çevresel partikül maruziyeti ile prematür mortalite ilişkisi konusunda çalışması olmak.",
+    "sosyal-hizmet": "Sosyal Hizmet"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283207",
+   "ilanNo": "YOK853615",
+   "baslik": "Karamanoğlu Mehmetbey Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "kurum": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KARAMAN",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283207/kamu-akademik-personel-akademik-personel-alimlari-karamanoglu mehmetbey universitesi rektorlugunden-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "makine",
+    "maden",
+    "veteriner",
+    "hemsirelik",
+    "eczacilik",
+    "isletme",
+    "kamu-yonetimi",
+    "uluslararasi-iliskiler"
+   ],
+   "alintilar": {
+    "makine": "Makine Mühendisliği, İmalat Mühendisliği, Maden Mühendisliği, Kamu Yönetimi, İşletme veya Uluslararası Ticaret ve Lojistik bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak. Belgelendirmek kaydıyla",
+    "maden": "Makine Mühendisliği, İmalat Mühendisliği, Maden Mühendisliği, Kamu Yönetimi, İşletme veya Uluslararası Ticaret ve Lojistik bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak. Belgelendirmek kaydıyla",
+    "veteriner": "1.Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğr…",
+    "hemsirelik": "Hemşirelik lisans mezunu olup alanında tezli yüksek lisans yapmış olmak. Belgelendirmek şartıyla sağlık hizmetleri alanında en az 2 yıl çalışmış olmak.",
+    "eczacilik": "1.Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, 7’nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak olanlarda, yükseköğr…",
+    "isletme": "Lojistik Yönetimi, Uluslararası Ticaret ve Lojistik veya İşletme bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak.",
+    "kamu-yonetimi": "Makine Mühendisliği, İmalat Mühendisliği, Maden Mühendisliği, Kamu Yönetimi, İşletme veya Uluslararası Ticaret ve Lojistik bölümlerinin birinden mezun olup bu alanların birinde tezli yüksek lisans yapmış olmak. Belgelendirmek kaydıyla",
+    "uluslararasi-iliskiler": "2.Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 t…"
+   },
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283160",
+   "ilanNo": "YOK853614",
+   "baslik": "Karadeniz Teknik Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "KARADENİZ TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "TRABZON",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283160/kamu-akademik-personel-akademik-personel-alimlari-karadeniz teknik universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "harita",
+    "mimarlik",
+    "veteriner",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "harita": "Harita Mühendisliği Bölümü lisans mezunu olup, Harita Mühendisliği anabilim dalında tezli yüksek lisans ve doktora yapmış olmak. Yükseköğretim kurumlarında en az 5 (beş) yıl çalışma deneyimine sahip olmak. Yapı bilgi modelleme ve arazi",
+    "mimarlik": "Trabzon Meslek Yüksekokulu Mimarlık ve Şehir Planlama Bölümü Harita ve Kadastro Programı",
+    "veteriner": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlilik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yüksek…",
+    "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlilik eğitimini tamamlamış olanlarda, meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen uzmanlık alanlarına atanacak olanlarda, yüksek…"
+   },
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283152",
+   "ilanNo": "YOK853613",
+   "baslik": "İzmir Yüksek Teknoloji Enstitüsü Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283152/kamu-akademik-personel-akademik-personel-alimlari-izmir yuksek teknoloji enstitusu rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "bilgisayar",
+    "yazilim",
+    "kimya-muh"
+   ],
+   "alintilar": {
+    "bilgisayar": "Bilgisayar Mühendisliği",
+    "yazilim": "Bilişim alanlarından birinden (Bilgisayar Mühendisliği, Bilgisayar Bilimleri, Yazılım Mühendisliği, Bilişim Sistemleri) doktora öğrenimi görmüş olmak. Bilgisayar grafikleri, bilgisayarlı görü ve makine öğrenmesi konularında bilimsel çalışmalar yürütmüş ve u…",
+    "kimya-muh": "Kimya Mühendisliği"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283151",
+   "ilanNo": "YOK853612",
+   "baslik": "İzmir Yüksek Teknoloji Enstitüsü Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "kurum": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ REKTÖRLÜĞÜ",
+   "sehir": "İZMİR",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283151/kamu-akademik-personel-akademik-personel-alimlari-izmir yuksek teknoloji enstitusu rektorlugunden-ogretim-elemani-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "elektrik-elektronik",
+    "elektronik-haberlesme",
+    "bilgisayar",
+    "yazilim",
+    "makine",
+    "mimarlik"
+   ],
+   "alintilar": {
+    "elektrik-elektronik": "Elektrik-Elektronik Mühendisliği",
+    "elektronik-haberlesme": "Elektrik ve Elektronik Mühendisliği, Elektronik Mühendisliği veya Elektronik ve Haberleşme Mühendisliği Bölümü lisans mezunu olmak ve Elektronik ve Haberleşme Mühendisliği veya Elektrik-Elektronik Mühendisliği Anabilim Dalında tezli yüksek lisans veya dokto…",
+    "bilgisayar": "Bilgisayar Mühendisliği",
+    "yazilim": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilgisayar ve Yazılım Mühendisliği, Bilgisayar Bilimleri, Bilişim Sistemleri, Yazılım Yönetimi, Yazılım Mühendisliği ve Veri Bilimi bölümlerinden birinden lisans derecesi almış olmak. Bilgisayar Mühendisliği An…",
+    "makine": "Makine Mühendisliği",
+    "mimarlik": "MİMARLIK"
+   },
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283147",
+   "ilanNo": "YOK853611",
+   "baslik": "Kocaeli Sağlık ve Teknoloji Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "kurum": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KOCAELİ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283147/kamu-akademik-personel-akademik-personel-alimlari-kocaeli-saglik-ve-teknoloji-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "psikoloji"
+   ],
+   "alintilar": {
+    "psikoloji": "Psikoloji Pr."
+   },
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283118",
+   "ilanNo": "YOK853610",
+   "baslik": "Bezmiâlem Vakıf Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "BEZMİÂLEM VAKIF ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283118/kamu-akademik-personel-akademik-personel-alimlari-bezmialem vakif universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283112",
+   "ilanNo": "YOK853609",
+   "baslik": "Bezmiâlem Vakıf Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "BEZMİÂLEM VAKIF ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "İSTANBUL",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283112/kamu-akademik-personel-akademik-personel-alimlari-bezmialem vakif universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "biyomuhendislik",
+    "biyoloji",
+    "molekuler-biyoloji",
+    "hemsirelik",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "biyomuhendislik": "Yaşam Bilimleri ve Biyoteknoloji Enstitüsü",
+    "biyoloji": "Tıbbi Biyoloji Anabilim Dalı",
+    "molekuler-biyoloji": "Moleküler Biyoloji ve Genetik alanında doktora yapmış olmak.",
+    "hemsirelik": "Ebelik veya Kadın Sağlığı ve Hastalıkları Hemşireliği alanlarından birinde doçentlik belgesine sahip olmak,",
+    "eczacilik": "Eczacılık Fakültesi"
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283108",
+   "ilanNo": "YOK853608",
+   "baslik": "Ankara Müzik ve Güzel Sanatlar Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "ANKARA",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283108/kamu-akademik-personel-akademik-personel-alimlari-ankara muzik ve guzel sanatlar universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283103",
+   "ilanNo": "YOK853607",
+   "baslik": "Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "kurum": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAHRAMANMARAŞ",
+   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283103/kamu-akademik-personel-akademik-personel-alimlari-kahramanmaras sutcu imam universitesi rektorlugunden-ogretim-gorevlisi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
+  },
+  {
+   "id": "2283097",
+   "ilanNo": "YOK853606",
+   "baslik": "Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "kurum": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+   "sehir": "KAHRAMANMARAŞ",
+   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
+   "yayin": "2026-11-08T21:00:01Z",
+   "resmiGazete": "09.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2283097/kamu-akademik-personel-akademik-personel-alimlari-kahramanmaras sutcu imam universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
+   "ilkGorulme": "2026-11-09T10:05:35.001Z",
+   "aktif": false,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": true,
+   "bolumler": [
+    "ziraat",
+    "kimya",
+    "biyoloji",
+    "eczacilik"
+   ],
+   "alintilar": {
+    "ziraat": "Bahçe Bitkileri Yetiştirme ve Islahı alanında Doçent ünvanını almış olmak. Gıda olarak tüketilen meyve türlerinde biyokimyasal bileşenleri üzerine bilimsel çalışmalar yapmış olmak.",
+    "kimya": "Eczacılıkta analitik kimya alanında doçentlik ünvanına sahip olmak. Yeşil kimya yaklaşımı ile ilaç aktif maddeleri üzerine çalışmalar yapmış olmak.",
+    "biyoloji": "Lisans ve yüksek lisans eğitimini biyoloji bölümünde tamamlamış olup, doktora çalışmasını kanser hücreleri üzerine yapmış olmak; farklı hücre modelleri, hücre döngüsü, gen ekspresyonu, gen klonlama ve metabolit analizleri konularında bilimsel çalışmalara sa…",
+    "eczacilik": "Eczacılıkta analitik kimya alanında doçentlik ünvanına sahip olmak. Yeşil kimya yaklaşımı ile ilaç aktif maddeleri üzerine çalışmalar yapmış olmak."
+   },
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
   },
   {
    "id": "2276025",
@@ -3794,7 +3807,7 @@
    "resmiGazete": "06.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2281218/kamu-akademik-personel-akademik-personel-alimlari-hasan-kalyoncu-universitesi-rektorlugunden-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-11-06T11:20:26.482Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3818,7 +3831,8 @@
     "hemsirelik": "İlk ve Acil Yardım, Paramedik, Acil Yardım ve Afet Yönetimi, Acil Durum ve Afet Yönetimi, Hemşirelik bölümlerinin birinden lisans mezunu olup; bu alanların birinde tezli yüksek lisans yapmış olmak.",
     "psikoloji": "EĞİTİM BİLİMLERİ BÖLÜMÜ/REHBERLİK VE PSİKOLOJİK DANIŞMANLIK PR."
    },
-   "sonBasvuru": "2026-11-23"
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
   },
   {
    "id": "2281103",
@@ -3831,7 +3845,7 @@
    "resmiGazete": "06.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2281103/kamu-akademik-personel-akademik-personel-alimlari-ankarasosyal-bilimler-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-11-06T11:20:26.482Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3849,7 +3863,8 @@
     "isletme": "Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Yapay Zekâ Mühendisliği bölümünden lisans mezunu olmak. Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Yapay Zeka Mühendisliği, İşletme veya Yön…",
     "psikoloji": "Psikoloji Bölümü"
    },
-   "sonBasvuru": "2026-11-23"
+   "sonBasvuru": "2026-11-23",
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
   },
   {
    "id": "2280968",
@@ -5413,6 +5428,31 @@
    "sonBasvuru": "2026-11-25"
   },
   {
+   "id": "2272749",
+   "ilanNo": "DPB845546",
+   "baslik": "Asarcık Belediye Başkanlığı Memur Alım İlanı",
+   "kurum": "ASARCIK BELEDİYE BAŞKANLIĞI",
+   "sehir": "SAMSUN",
+   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
+   "yayin": "2026-10-29T21:00:01Z",
+   "resmiGazete": "30.10.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2272749/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-asarcik-belediye-baskanligi-memur-alim-ilani",
+   "ilkGorulme": "2026-10-30T06:13:17.214Z",
+   "aktif": true,
+   "kpss": true,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [
+    "mimarlik"
+   ],
+   "alintilar": {
+    "mimarlik": "Mimar"
+   },
+   "sonBasvuru": "2026-12-03"
+  },
+  {
    "id": "2272779",
    "ilanNo": "DPB845547",
    "baslik": "Nükleer Düzenleme Kurumu Sözleşmeli Bilişim Personeli Alım İlanı",
@@ -5423,7 +5463,7 @@
    "resmiGazete": "30.10.2026",
    "link": "https://www.ilan.gov.tr/ilan/2272779/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-nukleer-duzenleme-kurumu-sozlesmeli-bilisim-personeli-alim-ilani",
    "ilkGorulme": "2026-10-30T13:19:53.477Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": true,
    "puanTurleri": [
     "P3"
@@ -5451,32 +5491,8 @@
     "matematik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik bö…",
     "istatistik": "c) (b) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fakültelerin mühendislik bölümlerinden, fen-edebiyat, eğitim ve eğitim bilimleri fakültelerinin bilgisayar ve teknoloji üzerine eğitim veren bölümleri ile istatistik, matematik ve fizik bö…"
    },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2272749",
-   "ilanNo": "DPB845546",
-   "baslik": "Asarcık Belediye Başkanlığı Memur Alım İlanı",
-   "kurum": "ASARCIK BELEDİYE BAŞKANLIĞI",
-   "sehir": "SAMSUN",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-29T21:00:01Z",
-   "resmiGazete": "30.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2272749/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-asarcik-belediye-baskanligi-memur-alim-ilani",
-   "ilkGorulme": "2026-10-30T06:13:17.214Z",
-   "aktif": true,
-   "kpss": true,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "mimarlik"
-   ],
-   "alintilar": {
-    "mimarlik": "Mimar"
-   },
-   "sonBasvuru": "2026-12-03"
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-24T03:50:52.680Z"
   },
   {
    "id": "2272810",
@@ -10213,88 +10229,6 @@
    "kaldirilma": "2026-10-25T22:19:00.326Z"
   },
   {
-   "id": "2253002",
-   "ilanNo": "YOK853483",
-   "baslik": "Ufuk Üniversitesi (Düzeltme İlanı)",
-   "kurum": "UFUK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "ANKARA",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-09T21:00:01Z",
-   "resmiGazete": "10.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2253002/kamu-akademik-personel-akademik-personel-alimlari-ufuk-universitesi-duzeltme-ilani-",
-   "ilkGorulme": "2026-10-09T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "hemsirelik"
-   ],
-   "alintilar": {
-    "hemsirelik": "08.10.2026 tarih ve 33394 sayılı Resmi Gazete’de aslına uygun olarak yayımlanan öğretim üyesi alım ilanımızda Hemşirelik Yüksekokulu, Hemşirelik Bölümü kadrosu ile ilgili ilan metni aşağıdaki şekilde düzeltilmiştir."
-   },
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-24T21:03:12.861Z"
-  },
-  {
-   "id": "2252997",
-   "ilanNo": "YOK853482",
-   "baslik": "Nevşehir İli Ortahisar Belediye Başkanlığı (Düzeltme İlanı)",
-   "kurum": "ORTAHİSAR BELEDİYE BAŞKANLIĞI",
-   "sehir": "NEVŞEHİR",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-10-09T21:00:01Z",
-   "resmiGazete": "10.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252997/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-nevsehir-ili-ortahisar-belediye-baskanligi-duzeltme-ilani-",
-   "ilkGorulme": "2026-10-09T21:00:01Z",
-   "aktif": false,
-   "kpss": true,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-24T21:03:12.861Z"
-  },
-  {
-   "id": "2252979",
-   "ilanNo": "YOK853480",
-   "baslik": "Necmettin Erbakan Üniversitesi (İptal İlanı)",
-   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KONYA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-09T21:00:01Z",
-   "resmiGazete": "10.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2252979/kamu-akademik-personel-akademik-personel-alimlari-necmettin-erbakan-universitesi-iptal-ilani-",
-   "ilkGorulme": "2026-10-09T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "endustri",
-    "biyomuhendislik",
-    "biyoloji",
-    "molekuler-biyoloji",
-    "hemsirelik"
-   ],
-   "alintilar": {
-    "endustri": "Lojistik, Lojistik Yönetimi, Ulaştırma ve Lojistik, Uluslararası Lojistik, Uluslararası Ticaret ve Lojistik, Endüstri Mühendisliği programlarının birinden lisans mezunu olmak.",
-    "biyomuhendislik": "Fen Fakültesi/ Biyoteknoloji/ Biyoteknoloji",
-    "biyoloji": "Fen Fakülteleri'nin Biyoteknoloji veya Moleküler Biyoloji ve Genetik programlarının birinden lisans mezun olmak.",
-    "molekuler-biyoloji": "Fen Fakülteleri'nin Biyoteknoloji veya Moleküler Biyoloji ve Genetik programlarının birinden lisans mezun olmak.",
-    "hemsirelik": "Hemşirelik Fakültesi/ Hemşirelik/ Ruh Sağlığı ve"
-   },
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-24T21:03:12.861Z"
-  },
-  {
    "id": "2250868",
    "ilanNo": "DPB845503",
    "baslik": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı 22 Uzman Yardımcısı Alacak",
@@ -10372,32 +10306,6 @@
    },
    "sonBasvuru": "2026-10-25",
    "kaldirilma": "2026-10-25T22:19:00.326Z"
-  },
-  {
-   "id": "2250889",
-   "ilanNo": "YOK853475",
-   "baslik": "Haliç Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
-   "kurum": "HALİÇ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-08T21:00:01Z",
-   "resmiGazete": "09.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2250889/kamu-akademik-personel-akademik-personel-alimlari-halic-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-08T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "isletme"
-   ],
-   "alintilar": {
-    "isletme": "İşletme Fakültesi"
-   },
-   "sonBasvuru": "2026-10-24",
-   "kaldirilma": "2026-10-24T21:03:12.861Z"
   },
   {
    "id": "2249323",
