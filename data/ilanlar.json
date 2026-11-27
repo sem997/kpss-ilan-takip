@@ -1,5 +1,5 @@
 {
- "sonGuncelleme": "2026-11-26T19:47:09.820Z",
+ "sonGuncelleme": "2026-11-27T02:40:15.250Z",
  "kaynak": "ilan.gov.tr - Kamu Personel İlanları",
  "ilanlar": [
   {
@@ -3311,6 +3311,27 @@
    "sonBasvuru": null
   },
   {
+   "id": "2288341",
+   "ilanNo": "DPB845583",
+   "baslik": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığından Sözleşmeli Personel Alım İlanı",
+   "kurum": "T.C.CUMHURBAŞKANLIĞI SAVUNMA SANAYİİ BAŞKANLIĞI",
+   "sehir": "ANKARA",
+   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
+   "yayin": "2026-11-11T21:00:01Z",
+   "resmiGazete": "12.11.2026",
+   "link": "https://www.ilan.gov.tr/ilan/2288341/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-savunma-sanayii-baskanligindan-sozlesmeli-personel-alim-ilani",
+   "ilkGorulme": "2026-11-12T10:41:10.719Z",
+   "aktif": true,
+   "kpss": false,
+   "puanTurleri": [],
+   "lisans": true,
+   "genel": false,
+   "akademik": false,
+   "bolumler": [],
+   "alintilar": {},
+   "sonBasvuru": null
+  },
+  {
    "id": "2288469",
    "ilanNo": "YOK853635",
    "baslik": "İzmir Katip Çelebi Üniversitesi (Düzeltme ve İptal İlanı)",
@@ -3321,7 +3342,7 @@
    "resmiGazete": "12.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2288469/kamu-akademik-personel-akademik-personel-alimlari-izmir-katip-celebi-universitesi-duzeltme-ve-iptal-ilani-",
    "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3329,7 +3350,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-27T02:40:15.250Z"
   },
   {
    "id": "2288414",
@@ -3342,7 +3364,7 @@
    "resmiGazete": "12.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2288414/kamu-akademik-personel-akademik-personel-alimlari-dogus-universitesi-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3368,7 +3390,8 @@
     "uluslararasi-iliskiler": "Uluslararası ilişkiler veya siyaset bilimi ve kamu yönetimi alanında doktora yapmış olmak. Yerelleşme, siyaset bilimi, kamu politikaları, yönetişim ve sivil toplum konularında akademik çalışmaları bulunmak. İlgili alanlarda ulusal ve uluslararası bilimsel v…",
     "psikoloji": "PSİKOLOJİ (İNGİLİZCE)"
    },
-   "sonBasvuru": "2026-11-26"
+   "sonBasvuru": "2026-11-26",
+   "kaldirilma": "2026-11-27T02:40:15.250Z"
   },
   {
    "id": "2288408",
@@ -3381,7 +3404,7 @@
    "resmiGazete": "12.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2288408/kamu-akademik-personel-akademik-personel-alimlari-dogus-universitesi-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3401,7 +3424,8 @@
     "yazilim": "Mekatronik Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektrik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Yazılım Mühendisliği, Robotik ve Otonom Sistemleri Mühendisliği, Kontrol ve Otomasyon Mühendisliği, Yapay Zeka …",
     "matematik": "Yazılım Mühendisliği, Bilgisayar ve Öğretim Teknolojileri Öğretmenliği, Bilişim Sistemleri Mühendisliği, Yapay Zeka Mühendisliği, Yapay Zeka ve Veri Mühendisliği, Bilgisayar Teknolojisi ve Bilişim Sistemleri, Matematik ve Bilgisayar Bilimleri, Yönetim Biliş…"
    },
-   "sonBasvuru": "2026-11-26"
+   "sonBasvuru": "2026-11-26",
+   "kaldirilma": "2026-11-27T02:40:15.250Z"
   },
   {
    "id": "2288358",
@@ -3414,7 +3438,7 @@
    "resmiGazete": "12.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2288358/kamu-akademik-personel-akademik-personel-alimlari-pamukkale-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3422,7 +3446,8 @@
    "akademik": true,
    "bolumler": [],
    "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-27T02:40:15.250Z"
   },
   {
    "id": "2288354",
@@ -3435,7 +3460,7 @@
    "resmiGazete": "12.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2288354/kamu-akademik-personel-akademik-personel-alimlari-acibadem-mehmet-ali-aydinlar-universitesi-rektorlugu-ogretim-elemani-alim-ilani",
    "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3457,7 +3482,8 @@
     "hemsirelik": "Hemşirelik (İngilizce)",
     "eczacilik": "Eczacılık Fakültesi"
    },
-   "sonBasvuru": "2026-11-26"
+   "sonBasvuru": "2026-11-26",
+   "kaldirilma": "2026-11-27T02:40:15.250Z"
   },
   {
    "id": "2288344",
@@ -3470,7 +3496,7 @@
    "resmiGazete": "12.11.2026",
    "link": "https://www.ilan.gov.tr/ilan/2288344/kamu-akademik-personel-akademik-personel-alimlari-acibadem-mehmet-ali-aydinlar-universitesi-rektorlugu-ogretim-uyesi-alim-ilani",
    "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
+   "aktif": false,
    "kpss": false,
    "puanTurleri": [],
    "lisans": true,
@@ -3492,28 +3518,8 @@
     "beslenme": "Beslenme ve Diyetetik (İngilizce)",
     "eczacilik": "ECZACILIK FAKÜLTESİ"
    },
-   "sonBasvuru": null
-  },
-  {
-   "id": "2288341",
-   "ilanNo": "DPB845583",
-   "baslik": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığından Sözleşmeli Personel Alım İlanı",
-   "kurum": "T.C.CUMHURBAŞKANLIĞI SAVUNMA SANAYİİ BAŞKANLIĞI",
-   "sehir": "ANKARA",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-11-11T21:00:01Z",
-   "resmiGazete": "12.11.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2288341/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-savunma-sanayii-baskanligindan-sozlesmeli-personel-alim-ilani",
-   "ilkGorulme": "2026-11-12T10:41:10.719Z",
-   "aktif": true,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null
+   "sonBasvuru": null,
+   "kaldirilma": "2026-11-27T02:40:15.250Z"
   },
   {
    "id": "2286638",
@@ -10197,32 +10203,6 @@
    "kaldirilma": "2026-10-30T00:09:02.519Z"
   },
   {
-   "id": "2257591",
-   "ilanNo": "YOK853495",
-   "baslik": "Düzeltme İlanı (Necmettin Erbakan Üniversitesi Rektörlüğü)",
-   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KONYA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-14T21:00:01Z",
-   "resmiGazete": "15.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2257591/kamu-akademik-personel-akademik-personel-alimlari-duzeltme-ilani-necmettin-erbakan-universitesi-rektorlugu-",
-   "ilkGorulme": "2026-10-14T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "hemsirelik"
-   ],
-   "alintilar": {
-    "hemsirelik": "Seydişehir Kamil Akkanat Sağlık Bilimleri Fakültesi/Hemşirelik/Çocuk"
-   },
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
-  },
-  {
    "id": "2256365",
    "ilanNo": "YOK853489",
    "baslik": "Ondokuz Mayıs Üniversitesi (Düzeltme İlanı)",
@@ -10499,171 +10479,6 @@
    },
    "sonBasvuru": "2026-11-13",
    "kaldirilma": "2026-11-13T21:12:29.579Z"
-  },
-  {
-   "id": "2254672",
-   "ilanNo": "YOK853485",
-   "baslik": "Necmettin Erbakan Üniversitesi Öğretim Görevlisi Alım İlanı",
-   "kurum": "NECMETTİN ERBAKAN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "KONYA",
-   "kategori": "Araştırma Görevlisi & Öğretim Görevlisi & Uzman",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254672/kamu-akademik-personel-akademik-personel-alimlari-necmettin-erbakan-universitesi-ogretim-gorevlisi-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "istatistik",
-    "veteriner",
-    "hemsirelik",
-    "eczacilik",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği programı lisans mezunu olmak. Bilgisayar Mühendisliği alanında tezli yüksek lisans yapıyor olmak.",
-    "istatistik": "İstatistik/",
-    "veteriner": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, ilgili yönetmeliğin 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak…",
-    "hemsirelik": "Akkanat Sağlık Bilimleri Fakültesi/ Hemşirelik/ Çocuk Sağlığı ve",
-    "eczacilik": "1- Doktora veya tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini tamamlamış olanlarda, ilgili yönetmeliğin 7 nci maddenin dördüncü ve beşinci fıkraları kapsamındaki öğretim görevlisi kadrolarına atanacak…",
-    "uluslararasi-iliskiler": "4- Adaylarda, yabancı dille eğitim ve öğretim yapılan programlardaki öğretim görevlisi kadrolarına yapılacak atamalarda atama yapılacak programın eğitim dilinde; bilim alanı yabancı dille ilgili kadrolara yapılacak öğretim görevlisi atamaları ile 4/11/1981 …"
-   },
-   "sonBasvuru": "2026-10-28",
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
-  },
-  {
-   "id": "2254634",
-   "ilanNo": "DPB845511",
-   "baslik": "Orta Karadeniz Kalkınma Ajansı Personel Alım İlanı",
-   "kurum": "ORTA KARADENİZ KALKINMA AJANSI GENEL SEKRETERLİĞİ",
-   "sehir": "SAMSUN",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254634/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-orta-karadeniz-kalkinma-ajansi-personel-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": false,
-   "kpss": true,
-   "puanTurleri": [
-    "P1",
-    "P2",
-    "P90"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "gida",
-    "elektrik-elektronik",
-    "bilgisayar",
-    "endustri",
-    "cevre",
-    "metalurji",
-    "mimarlik",
-    "sehir-planlama",
-    "iktisat",
-    "isletme",
-    "kamu-yonetimi",
-    "maliye",
-    "uluslararasi-iliskiler"
-   ],
-   "alintilar": {
-    "gida": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "elektrik-elektronik": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "bilgisayar": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "endustri": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "cevre": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "metalurji": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "mimarlik": "Şehir ve Bölge Planlama, Mimarlık",
-    "sehir-planlama": "Şehir ve Bölge Planlama, Mimarlık",
-    "iktisat": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği",
-    "isletme": "Bilgisayar Mühendisliği, Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Endüstriyel Tasarım Mühendisliği,Gıda Mühendisliği, İşletme Mühendisliği, Mekatronik Mühendisliği, Metalurji ve Malzeme Mühendisliği,",
-    "kamu-yonetimi": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği",
-    "maliye": "Maliye,",
-    "uluslararasi-iliskiler": "Çalışma Ekonomisi ve Endüstri İlişkileri, Ekonomi, Ekonometri, Ekonomi ve Finans, İktisat,İşletme, Kamu Yönetimi, Uluslararası Ticaret ve İşletmecilik, Siyaset Bilimi ve Kamu Yönetimi, Siyaset Bilimi ve Uluslararası İlişkiler, Veri Bilimi ve Analitiği"
-   },
-   "sonBasvuru": "2026-11-22",
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
-  },
-  {
-   "id": "2254541",
-   "ilanNo": "YOK853484",
-   "baslik": "Ondokuz Mayıs Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
-   "kurum": "ONDOKUZ MAYIS ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "SAMSUN",
-   "kategori": "Öğretim Üyesi Alımları (Prof., Doç., Dr. Öğretim Üyesi)",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254541/kamu-akademik-personel-akademik-personel-alimlari-ondokuz mayis universitesi rektorlugunden-ogretim-uyesi-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": true,
-   "genel": false,
-   "akademik": true,
-   "bolumler": [
-    "bilgisayar",
-    "makine",
-    "biyomuhendislik",
-    "ziraat",
-    "matematik",
-    "istatistik",
-    "beslenme",
-    "veteriner",
-    "hemsirelik",
-    "eczacilik",
-    "hukuk",
-    "isletme",
-    "psikoloji"
-   ],
-   "alintilar": {
-    "bilgisayar": "Bilgisayar Mühendisliği alanında doktora yapmış olmak.",
-    "makine": "Makine Mühendisliği alanında lisans mezunu olmak. Eklemeli imalat ve termo- mekanik sayısal analiz konularında yayını olmak.",
-    "biyomuhendislik": "Farmasötik Biyoteknoloji",
-    "ziraat": "Zootekni alanında doktora yapmış olmak. Yapay zeka ve makine öğrenmesi yöntemlerinin tarımsal alanlarda uygulanması, keten ve kenevirin lif verimi ve verim kriterleri konularında yayını olmak.",
-    "matematik": "Matematik Bilim alanında Doçent ünvanı almış olmak. Bikompleks değerli p-integrallenebilir fonksiyonlar konusunda yayını olmak.",
-    "istatistik": "Bilgisayar Mühendisliği alanında yüksek lisansını ve İstatistik bilim alanında doktorasını tamamlamış olmak. Bayesçi makine öğrenmesi konusunda yayını olmak.",
-    "beslenme": "Beslenme ve Diyetetik alanında doktora yapmış olmak. Yeme farkındalığı ve kronotip konularında yayını olmak.",
-    "veteriner": "Veteriner Fakültesi",
-    "hemsirelik": "Acil Hemşireliği alanında doktora yapmış olmak. Resüsitasyon ve afet konularında yayını olmak.",
-    "eczacilik": "Eczacılık Fakültesi",
-    "hukuk": "Ali Fuad Başgil Hukuk Fakültesi",
-    "isletme": "İşletme Yönetimi",
-    "psikoloji": "Rehberlik ve Psikolojik Danışmanlık"
-   },
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
-  },
-  {
-   "id": "2254540",
-   "ilanNo": "DPB845508",
-   "baslik": "İstanbul Teknik Üniversitesi Rektörlüğü Personel Alım İlanı",
-   "kurum": "İSTANBUL TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
-   "sehir": "İSTANBUL",
-   "kategori": "Sözleşmeli Personel ve 4/B Alımları",
-   "yayin": "2026-10-12T21:00:01Z",
-   "resmiGazete": "13.10.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2254540/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-istanbul-teknik-universitesi-rektorlugu-personel-alim-ilani",
-   "ilkGorulme": "2026-10-12T21:00:01Z",
-   "aktif": false,
-   "kpss": true,
-   "puanTurleri": [
-    "P93",
-    "P94"
-   ],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-10-27",
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2252974",
@@ -11106,28 +10921,6 @@
    "kaldirilma": "2026-11-04T21:25:07.960Z"
   },
   {
-   "id": "2240011",
-   "ilanNo": "DPB845482",
-   "baslik": "İptal ilanı (Çukurkuyu Belediye Başkanlığı)",
-   "kurum": "ÇUKURKUYU BELEDİYE BAŞKANLIĞI",
-   "sehir": "NİĞDE",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-09-29T21:00:01Z",
-   "resmiGazete": "30.09.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2240011/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-iptal-ilani-cukurkuyu-belediye-baskanligi-",
-   "ilkGorulme": "2026-09-29T21:00:01Z",
-   "aktif": false,
-   "kpss": false,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": null,
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
-  },
-  {
    "id": "2238204",
    "ilanNo": "ILN02558635",
    "baslik": "Rehber öğretmen alımı yapılacaktır",
@@ -11302,84 +11095,6 @@
    },
    "sonBasvuru": "2026-11-02",
    "kaldirilma": "2026-11-02T22:24:37.442Z"
-  },
-  {
-   "id": "2228917",
-   "ilanNo": "DPB845456",
-   "baslik": "Doğu Marmara Kalkınma Ajansı Personel Alım İlanı",
-   "kurum": "DOĞU MARMARA KALKINMA AJANSI GENEL SEKRETERLİĞİ",
-   "sehir": "KOCAELİ",
-   "kategori": "Kalkınma Ajansları Personel Alımları",
-   "yayin": "2026-09-20T21:00:01Z",
-   "resmiGazete": "21.09.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2228917/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dogu-marmara-kalkinma-ajansi-personel-alim-ilani",
-   "ilkGorulme": "2026-09-20T21:00:01Z",
-   "aktif": false,
-   "kpss": true,
-   "puanTurleri": [
-    "P1",
-    "P3",
-    "P12"
-   ],
-   "lisans": true,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [
-    "gida",
-    "elektrik-elektronik",
-    "elektronik-haberlesme",
-    "bilgisayar",
-    "makine",
-    "endustri",
-    "cevre",
-    "metalurji",
-    "sehir-planlama",
-    "iktisat",
-    "isletme",
-    "kamu-yonetimi",
-    "maliye",
-    "sosyoloji"
-   ],
-   "alintilar": {
-    "gida": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "elektrik-elektronik": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "elektronik-haberlesme": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "bilgisayar": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "makine": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "endustri": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "cevre": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "metalurji": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "sehir-planlama": "Çevre Mühendisliği, Bilgisayar Mühendisliği, Gıda Mühendisliği, Metalurji ve Malzeme Mühendisliği, Endüstri Mühendisliği, Makine Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği, Şehir ve Bölge P…",
-    "iktisat": "İktisat, İşletme, Ekonometri, Kamu Yönetimi, Kamu Yönetimi ve Siyaset Bilimi, Çalışma Ekonomisi ve Endüstri İlişkileri",
-    "isletme": "İktisat, İşletme, Ekonometri, Kamu Yönetimi, Kamu Yönetimi ve Siyaset Bilimi, Çalışma Ekonomisi ve Endüstri İlişkileri",
-    "kamu-yonetimi": "İktisat, İşletme, Ekonometri, Kamu Yönetimi, Kamu Yönetimi ve Siyaset Bilimi, Çalışma Ekonomisi ve Endüstri İlişkileri",
-    "maliye": "İşletme, İktisat, Maliye, Çalışma Ekonomisi ve Endüstri İlişkileri",
-    "sosyoloji": "• Kalkınma kuramları, bölgesel ve yerel kalkınma, kent sosyolojisi ve sosyal kalkınma, kırsal kalkınma,"
-   },
-   "sonBasvuru": "2026-10-27",
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
-  },
-  {
-   "id": "2228897",
-   "ilanNo": "DPB845454",
-   "baslik": "Çukurkuyu Belediye Başkanlığı Zabıta Memuru Alım İlanı",
-   "kurum": "ÇUKURKUYU BELEDİYE BAŞKANLIĞI",
-   "sehir": "NİĞDE",
-   "kategori": "KPSS B ve Mahalli İdareler Kadro Alımları",
-   "yayin": "2026-09-18T21:00:01Z",
-   "resmiGazete": "19.09.2026",
-   "link": "https://www.ilan.gov.tr/ilan/2228897/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cukurkuyu-belediye-baskanligi-zabita-memuru-alim-ilani",
-   "ilkGorulme": "2026-09-18T21:00:01Z",
-   "aktif": false,
-   "kpss": true,
-   "puanTurleri": [],
-   "lisans": false,
-   "genel": false,
-   "akademik": false,
-   "bolumler": [],
-   "alintilar": {},
-   "sonBasvuru": "2026-10-27",
-   "kaldirilma": "2026-10-27T23:31:12.433Z"
   },
   {
    "id": "2223911",
